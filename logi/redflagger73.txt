@@ -1,0 +1,427 @@
+Powstałem, jestem redflagger73
+
+Moja armia: red4
+
+
+Ruch 1:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior21, redguard22, redwarrior23, redguard24, redwarrior25, redwarrior46, redwarrior47, redgeneral48, redwarrior49, redwarrior50, redmarksman71, redhealer72, redhealer74, redmarksman75, .
+Idę na[18.61848001 61.37399482]
+
+Ruch 2:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior21, redguard22, redwarrior23, redguard24, redwarrior25, redwarrior46, redwarrior47, redgeneral48, redwarrior49, redwarrior50, redmarksman71, redhealer72, redhealer74, redmarksman75, .
+Idę na[19.17109202 62.05884515]
+
+Ruch 3:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior21, redguard22, redwarrior23, redguard24, redwarrior25, redwarrior46, redwarrior47, redgeneral48, redwarrior49, redwarrior50, redmarksman71, redhealer72, redhealer74, redmarksman75, .
+Idę na[19.69420262 62.76648581]
+
+Ruch 4:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior21, redguard22, redwarrior23, redguard24, redwarrior25, redwarrior46, redwarrior47, redgeneral48, redwarrior49, redwarrior50, redmarksman71, redhealer72, redhealer74, redmarksman75, .
+Idę na[20.20518829 62.05004067]
+
+Ruch 5:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior21, redguard22, redwarrior23, redguard24, redwarrior25, redwarrior46, redwarrior47, redgeneral48, redwarrior49, redwarrior50, redmarksman71, redhealer72, redhealer74, redmarksman75, .
+Idę na[20.4800327  61.21406187]
+
+Ruch 6:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior21, redguard22, redwarrior23, redguard24, redwarrior25, redwarrior46, redwarrior47, redgeneral48, redwarrior49, redwarrior50, redmarksman71, redhealer72, redhealer74, redmarksman75, .
+Idę na[21.26217662 61.61736186]
+
+Ruch 7:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior21, redguard22, redwarrior23, redguard24, redwarrior25, redwarrior46, redwarrior47, redgeneral48, redwarrior49, redwarrior50, redmarksman71, redhealer72, redhealer74, redmarksman75, .
+Idę na[21.8905038  62.23348276]
+
+Ruch 8:
+Zwiększam morale wszystkich pobliskich sojuszników: redguard22, redwarrior23, redguard24, redwarrior25, redwarrior46, redwarrior47, redgeneral48, redwarrior49, redwarrior50, redhealer72, redhealer74, redmarksman75, .
+Idę na[21.38608087 61.51240197]
+
+Ruch 9:
+Zwiększam morale wszystkich pobliskich sojuszników: redguard22, redwarrior23, redguard24, redwarrior25, redwarrior46, redwarrior47, redgeneral48, redwarrior49, redwarrior50, redhealer72, redhealer74, redmarksman75, .
+Idę na[22.26478798 61.56008633]
+
+Ruch 10:
+Zwiększam morale wszystkich pobliskich sojuszników: redguard22, redwarrior23, redguard24, redwarrior25, redwarrior47, redgeneral48, redwarrior49, redwarrior50, redhealer72, redhealer74, redmarksman75, .
+Idę na[22.98413216 61.05318994]
+
+Ruch 11:
+Zwiększam morale wszystkich pobliskich sojuszników: redguard22, redwarrior23, redguard24, redwarrior25, redwarrior47, redgeneral48, redwarrior49, redwarrior50, redhealer72, redhealer74, redmarksman75, .
+Idę na[23.50738054 61.76072872]
+
+Ruch 12:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior23, redguard24, redwarrior25, redwarrior47, redgeneral48, redwarrior49, redwarrior50, redhealer72, redhealer74, .
+Idę na[23.67304622 60.89646321]
+
+Ruch 13:
+Zwiększam morale wszystkich pobliskich sojuszników: redguard22, redwarrior23, redguard24, redwarrior25, redwarrior47, redgeneral48, redwarrior49, redwarrior50, redhealer72, redhealer74, .
+Idę na[24.02678878 61.70223377]
+
+Ruch 14:
+Zwiększam morale wszystkich pobliskich sojuszników: redguard24, redwarrior25, redgeneral48, redwarrior49, redwarrior50, redhealer72, redhealer74, .
+Idę na[24.27482817 60.85791365]
+
+Ruch 15:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior23, redguard24, redwarrior25, redgeneral48, redwarrior49, redwarrior50, redhealer72, redhealer74, .
+Idę na[24.52148651 60.01318904]
+
+Ruch 16:
+Zwiększam morale wszystkich pobliskich sojuszników: redguard24, redwarrior25, redgeneral48, redwarrior49, redwarrior50, redhealer72, redhealer74, .
+Idę na[24.80638207 59.18058198]
+
+Ruch 17:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior23, redguard24, redwarrior25, redgeneral48, redwarrior49, redwarrior50, redhealer72, redhealer74, .
+Idę na[25.0778713  58.34350755]
+
+Ruch 18:
+Zwiększam morale wszystkich pobliskich sojuszników: redguard22, redwarrior23, redguard24, redwarrior25, redgeneral48, redwarrior49, redwarrior50, redhealer72, redhealer74, .
+Idę na[25.33240392 57.50112216]
+
+Ruch 19:
+Zwiększam morale wszystkich pobliskich sojuszników: redguard22, redwarrior23, redguard24, redwarrior25, redwarrior47, redgeneral48, redwarrior49, redwarrior50, redhealer72, redhealer74, .
+Idę na[25.97067629 58.10693433]
+
+Ruch 20:
+Zwiększam morale wszystkich pobliskich sojuszników: redguard24, redwarrior25, redgeneral48, redwarrior49, redwarrior50, redhealer72, redhealer74, .
+Idę na[26.2558576 57.2744251]
+
+Ruch 21:
+Zwiększam morale wszystkich pobliskich sojuszników: redguard24, redwarrior25, redgeneral48, redwarrior49, redwarrior50, redhealer72, redhealer74, .
+Idę na[26.5574462  56.44771819]
+
+Ruch 22:
+Zwiększam morale wszystkich pobliskich sojuszników: redguard24, redwarrior25, redgeneral48, redwarrior49, redwarrior50, redhealer72, redhealer74, .
+Idę na[26.90838241 55.64072142]
+
+Ruch 23:
+Zwiększam morale wszystkich pobliskich sojuszników: redguard24, redwarrior25, redgeneral48, redwarrior49, redwarrior50, redhealer72, redhealer74, .
+Idę na[27.23023095 54.82168936]
+
+Ruch 24:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior23, redguard24, redwarrior25, redgeneral48, redwarrior49, redwarrior50, redhealer72, redhealer74, .
+Idę na[27.91832639 55.37025536]
+
+Ruch 25:
+Zwiększam morale wszystkich pobliskich sojuszników: redguard24, redwarrior25, redgeneral48, redwarrior49, redwarrior50, redhealer72, redhealer74, .
+Idę na[28.7974628  55.40923201]
+
+Ruch 26:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior25, redwarrior49, redwarrior50, redhealer72, redhealer74, .
+Idę na[29.06058258 54.5694892 ]
+
+Ruch 27:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior25, redgeneral48, redwarrior49, redwarrior50, redhealer72, redhealer74, .
+Idę na[29.91086897 54.79623369]
+
+Ruch 28:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior25, redwarrior49, redwarrior50, redhealer72, redhealer74, .
+Idę na[30.00289862 53.92105911]
+
+Ruch 29:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior25, redwarrior50, redhealer72, redhealer74, redmarksman75, .
+Idę na[30.01128708 53.04109909]
+
+Ruch 30:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior25, redwarrior50, redhealer72, redhealer74, redmarksman75, .
+Idę na[30.06523374 52.16275419]
+
+Ruch 31:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior25, redwarrior50, redmarksman71, redhealer72, redhealer74, redmarksman75, .
+Idę na[30.432167   51.36290422]
+
+Ruch 32:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior25, redgeneral48, redwarrior49, redwarrior50, redmarksman71, redhealer72, redhealer74, redmarksman75, .
+Idę na[31.28429009 51.58264553]
+
+Ruch 33:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior25, redwarrior50, redmarksman71, redhealer72, redhealer74, redmarksman75, .
+Idę na[31.38959225 50.70896856]
+
+Ruch 34:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior25, redwarrior49, redwarrior50, redmarksman71, redhealer72, redhealer74, redmarksman75, .
+Idę na[31.56605244 49.84684223]
+
+Ruch 35:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior25, redwarrior49, redwarrior50, redmarksman71, redhealer72, redhealer74, redmarksman75, .
+Idę na[30.73784115 50.14427467]
+
+Ruch 36:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior50, redmarksman71, redhealer72, redhealer74, redmarksman75, .
+Idę na[31.18608003 49.38698879]
+
+Ruch 37:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior25, redwarrior47, redwarrior49, redwarrior50, redmarksman71, redhealer72, redhealer74, redmarksman75, .
+Idę na[30.35042593 49.11115872]
+
+Ruch 38:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior25, redwarrior47, redwarrior50, redmarksman71, redhealer72, redhealer74, redmarksman75, .
+Idę na[30.97655579 48.49280494]
+
+Ruch 39:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior25, redwarrior46, redwarrior47, redwarrior49, redwarrior50, redmarksman71, redhealer72, redhealer74, redmarksman75, .
+Idę na[30.39497848 47.8323749 ]
+
+Ruch 40:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior25, redwarrior46, redwarrior47, redwarrior49, redwarrior50, redmarksman71, redhealer72, redhealer74, redmarksman75, .
+Idę na[30.64140283 48.6771678 ]
+
+Ruch 41:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior46, redwarrior47, redwarrior49, redwarrior50, redmarksman71, redhealer72, redhealer74, redmarksman75, .
+Idę na[31.05362841 47.89969107]
+
+Ruch 42:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior25, redwarrior46, redwarrior47, redwarrior49, redwarrior50, redmarksman71, redhealer72, redhealer74, redmarksman75, .
+Idę na[30.60656831 48.65767343]
+
+Ruch 43:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior46, redwarrior47, redwarrior49, redwarrior50, redmarksman71, redhealer72, redhealer74, redmarksman75, .
+Idę na[31.14587725 47.96229881]
+
+Ruch 44:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior46, redwarrior47, redwarrior49, redwarrior50, redmarksman71, redhealer72, redhealer74, redmarksman75, .
+Idę na[30.29069733 48.16982545]
+
+Ruch 45:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior46, redwarrior47, redwarrior49, redwarrior50, redmarksman71, redhealer72, redhealer74, redmarksman75, .
+Idę na[30.94500394 47.58136741]
+
+Ruch 46:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior46, redwarrior47, redwarrior49, redwarrior50, redmarksman71, redhealer72, redhealer74, redmarksman75, .
+Idę na[30.07700477 47.43653148]
+
+Ruch 47:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior46, redwarrior47, redwarrior49, redwarrior50, redmarksman71, redhealer72, redhealer74, redmarksman75, .
+Idę na[30.77398183 46.89929506]
+
+Ruch 48:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior46, redwarrior47, redwarrior49, redwarrior50, redmarksman71, redhealer72, redhealer74, redmarksman75, .
+Idę na[30.07472674 46.36502704]
+
+Ruch 49:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior46, redwarrior47, redwarrior49, redwarrior50, redmarksman71, redhealer72, redhealer74, redmarksman75, .
+Idę na[30.8319144  45.91662226]
+
+Ruch 50:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior46, redwarrior47, redwarrior49, redwarrior50, redmarksman71, redhealer72, redhealer74, redmarksman75, .
+Idę na[31.5752419  45.44559761]
+
+Ruch 51:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior25, redwarrior46, redwarrior47, redwarrior49, redwarrior50, redmarksman71, redhealer72, redhealer74, redmarksman75, .
+Idę na[31.31730962 46.28694827]
+
+Ruch 52:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior46, redwarrior47, redwarrior49, redwarrior50, redmarksman71, redhealer72, redhealer74, redmarksman75, .
+Idę na[30.45396484 46.45734718]
+
+Ruch 53:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior46, redwarrior47, redwarrior49, redwarrior50, redmarksman71, redhealer72, redhealer74, redmarksman75, .
+Idę na[31.23059466 46.04352823]
+
+Ruch 54:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior46, redwarrior47, redwarrior49, redwarrior50, redmarksman71, redhealer72, redhealer74, redmarksman75, .
+Idę na[31.91843339 45.49464037]
+
+Ruch 55:
+Zwiększam morale wszystkich pobliskich sojuszników: redguard24, redwarrior25, redwarrior46, redwarrior47, redwarrior49, redwarrior50, redmarksman71, redhealer72, redhealer74, redmarksman75, .
+Idę na[31.42641303 46.22424023]
+
+Ruch 56:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior46, redwarrior47, redwarrior49, redwarrior50, redmarksman71, redhealer72, redhealer74, redmarksman75, .
+Idę na[30.55024214 46.14223667]
+
+Ruch 57:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior46, redwarrior47, redwarrior49, redwarrior50, redmarksman71, redhealer72, redhealer74, redmarksman75, .
+Idę na[31.38345623 45.85912136]
+
+Ruch 58:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior46, redwarrior47, redwarrior49, redwarrior50, redmarksman71, redhealer72, redhealer74, redmarksman75, .
+Idę na[32.12745217 45.38915322]
+
+Ruch 59:
+Zwiększam morale wszystkich pobliskich sojuszników: redguard24, redwarrior25, redwarrior46, redwarrior47, redwarrior49, redwarrior50, redmarksman71, redhealer72, redhealer74, redmarksman75, .
+Idę na[32.2570715  46.25955475]
+
+Ruch 60:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior46, redwarrior47, redwarrior49, redwarrior50, redmarksman71, redhealer72, redhealer74, redmarksman75, .
+Idę na[33.05538182 45.88928372]
+
+Ruch 61:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior25, redwarrior46, redwarrior47, redwarrior49, redwarrior50, redmarksman71, redhealer72, redhealer74, redmarksman75, .
+Idę na[33.14013589 45.01337462]
+
+Ruch 62:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior25, redwarrior46, redwarrior47, redwarrior49, redwarrior50, redmarksman71, redhealer72, redhealer74, redmarksman75, .
+Idę na[33.94388672 44.65506664]
+
+Ruch 63:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior21, redguard24, redwarrior25, redwarrior46, redwarrior47, redwarrior49, redwarrior50, redmarksman71, redhealer72, redhealer74, redmarksman75, .
+Haha! Zadałem wrogowi bluewarrior124 1.6963399233158745 punktów obrażeń.
+
+Ruch 64:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior21, redguard24, redwarrior25, redwarrior46, redwarrior47, redwarrior49, redwarrior50, redmarksman71, redhealer72, redhealer74, redmarksman75, .
+Haha! Zadałem wrogowi bluewarrior124 1.8047302360953816 punktów obrażeń.
+
+Ruch 65:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior21, redguard24, redwarrior25, redwarrior46, redwarrior47, redwarrior49, redwarrior50, redmarksman71, redhealer72, redhealer74, redmarksman75, .
+Haha! Zadałem wrogowi bluewarrior124 1.9097250067798066 punktów obrażeń.
+
+Ruch 66:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior21, redwarrior25, redwarrior46, redwarrior47, redwarrior49, redwarrior50, redmarksman71, redhealer72, redhealer74, redmarksman75, .
+Haha! Zadałem wrogowi bluewarrior124 2.01199316521666 punktów obrażeń.
+
+Ruch 67:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior21, redguard24, redwarrior25, redwarrior46, redwarrior47, redwarrior49, redwarrior50, redmarksman71, redhealer72, redhealer74, redmarksman75, .
+Haha! Zadałem wrogowi bluewarrior124 2.1127624693134814 punktów obrażeń.
+
+Ruch 68:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior21, redguard24, redwarrior25, redwarrior46, redwarrior47, redwarrior49, redwarrior50, redmarksman71, redhealer72, redhealer74, redmarksman75, .
+Haha! Zadałem wrogowi bluewarrior124 2.204142224683433 punktów obrażeń.
+
+Ruch 69:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior21, redguard24, redwarrior46, redwarrior47, redwarrior49, redwarrior50, redmarksman71, redhealer72, redhealer74, redmarksman75, .
+Haha! Zadałem wrogowi bluewarrior124 2.2837133483377055 punktów obrażeń.
+Ała! Otrzymałem 3.5352815148798937 punktów obrażeń od bluewarrior124. Teraz mam 96.4647184851201 punktów zdrowia.
+redhealer74 uleczył mnie do 98.09836344282193 punktów hp.
+redhealer69 uleczył mnie do 99.7552467448837 punktów hp.
+redhealer72 uleczył mnie do pełna, mam 100.0 punktów życia.
+
+Ruch 70:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior21, redwarrior46, redwarrior47, redwarrior49, redwarrior50, redmarksman71, redhealer72, redhealer74, redmarksman75, .
+Haha! Zadałem wrogowi bluewarrior124 2.367246872878102 punktów obrażeń.
+
+Ruch 71:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior21, redwarrior46, redwarrior47, redwarrior49, redwarrior50, redmarksman71, redhealer72, redhealer74, redmarksman75, .
+Haha! Zadałem wrogowi bluewarrior124 2.5289925345027164 punktów obrażeń.
+
+Ruch 72:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior46, redwarrior47, redwarrior49, redwarrior50, redmarksman71, redhealer72, redhealer74, redmarksman75, .
+Idę na[33.75794283 43.79493591]
+
+Ruch 73:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior23, redguard24, redwarrior46, redwarrior47, redwarrior49, redwarrior50, redmarksman71, redhealer72, redhealer74, redmarksman75, .
+Idę na[32.89162406 43.64036621]
+
+Ruch 74:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior23, redguard24, redwarrior46, redwarrior47, redgeneral48, redwarrior49, redwarrior50, redmarksman71, redhealer72, redhealer74, redmarksman75, .
+Idę na[33.74564371 43.85261711]
+
+Ruch 75:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior23, redguard24, redwarrior46, redwarrior47, redwarrior49, redwarrior50, redmarksman71, redhealer72, redhealer74, redmarksman75, .
+Idę na[32.86702278 43.80337014]
+
+Ruch 76:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior23, redguard24, redwarrior46, redwarrior47, redgeneral48, redwarrior49, redwarrior50, redmarksman71, redhealer72, redhealer74, redmarksman75, .
+Idę na[33.64979043 44.2054582 ]
+
+Ruch 77:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior23, redguard24, redwarrior46, redwarrior47, redwarrior49, redwarrior50, redmarksman71, redhealer72, redhealer74, redmarksman75, .
+Idę na[32.83462494 44.53697777]
+
+Ruch 78:
+Zwiększam morale wszystkich pobliskich sojuszników: redguard24, redwarrior46, redwarrior47, redwarrior49, redwarrior50, redmarksman71, redhealer72, redhealer74, redmarksman75, .
+Idę na[33.60436667 44.96347238]
+
+Ruch 79:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior46, redwarrior47, redwarrior49, redwarrior50, redmarksman71, redhealer72, redhealer74, redmarksman75, .
+Idę na[33.18645685 44.18903621]
+
+Ruch 80:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior23, redguard24, redwarrior46, redwarrior47, redwarrior49, redwarrior50, redmarksman71, redhealer72, redhealer74, redmarksman75, .
+Idę na[33.63193383 43.43012234]
+
+Ruch 81:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior23, redguard24, redwarrior46, redwarrior47, redgeneral48, redwarrior49, redwarrior50, redmarksman71, redhealer72, redhealer74, redmarksman75, .
+Idę na[34.30035112 42.85774281]
+
+Ruch 82:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior23, redguard24, redwarrior46, redwarrior47, redgeneral48, redwarrior49, redwarrior50, redmarksman71, redhealer72, redhealer74, .
+Idę na[34.99198747 43.40183762]
+Ała! Otrzymałem 5.093742798859386 punktów obrażeń od bluewarrior125. Teraz mam 94.90625720114062 punktów zdrowia.
+
+Ruch 83:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior23, redguard24, redwarrior46, redwarrior47, redwarrior49, redwarrior50, redmarksman71, redhealer72, redhealer74, .
+Haha! Zadałem wrogowi bluewarrior125 3.347676491145717 punktów obrażeń.
+redhealer72 uleczył mnie do 97.58473292218653 punktów hp.
+redhealer69 uleczył mnie do pełna, mam 100.0 punktów życia.
+
+Ruch 84:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior23, redguard24, redwarrior46, redwarrior47, redwarrior49, redwarrior50, redmarksman71, redhealer72, redhealer74, .
+Haha! Zadałem wrogowi bluewarrior125 3.622836048166432 punktów obrażeń.
+Ała! Otrzymałem 5.314354197334078 punktów obrażeń od bluewarrior125. Teraz mam 94.68564580266592 punktów zdrowia.
+redhealer72 uleczył mnie do 97.56223640415013 punktów hp.
+
+Ruch 85:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior23, redguard24, redwarrior46, redwarrior47, redwarrior49, redwarrior50, redmarksman71, redhealer72, redhealer74, .
+Haha! Zadałem wrogowi bluewarrior125 3.872889835821092 punktów obrażeń.
+
+Ruch 86:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior23, redguard24, redwarrior46, redwarrior47, redwarrior49, redwarrior50, redmarksman71, redhealer72, redhealer74, .
+Haha! Zadałem wrogowi bluewarrior125 3.986029775564019 punktów obrażeń.
+redhealer72 uleczył mnie do pełna, mam 100.0 punktów życia.
+
+Ruch 87:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior23, redguard24, redwarrior46, redwarrior47, redwarrior49, redwarrior50, redmarksman71, redhealer72, redhealer74, .
+Idę na[35.68788487 42.86320342]
+
+Ruch 88:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior23, redguard24, redwarrior46, redwarrior47, redwarrior49, redwarrior50, redmarksman71, redhealer72, redhealer74, .
+Idę na[35.26050793 42.09395121]
+
+Ruch 89:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior23, redguard24, redwarrior46, redwarrior47, redgeneral48, redwarrior49, redwarrior50, redhealer72, redhealer74, .
+Idę na[35.34640964 41.21815392]
+Ała! Otrzymałem 13.496336806811996 punktów obrażeń od bluegeneral118. Teraz mam 86.503663193188 punktów zdrowia.
+redhealer72 uleczył mnie do 90.27551625494743 punktów hp.
+
+Ruch 90:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior23, redguard24, redwarrior46, redwarrior47, redgeneral48, redwarrior49, redwarrior50, redhealer72, redhealer74, .
+Idę na[35.73816879 42.00614172]
+
+Ruch 91:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior23, redguard24, redwarrior46, redwarrior47, redgeneral48, redwarrior49, redwarrior50, redhealer74, .
+Idę na[36.16702962 41.23771581]
+Ała! Otrzymałem 14.881484923524825 punktów obrażeń od bluegeneral118. Teraz mam 75.39403133142261 punktów zdrowia.
+
+Ruch 92:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior23, redguard24, redwarrior46, redwarrior47, redgeneral48, redwarrior49, redwarrior50, redhealer74, .
+Haha! Zadałem wrogowi bluegeneral118 4.799686360710897 punktów obrażeń.
+
+Ruch 93:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior23, redguard24, redwarrior46, redwarrior47, redgeneral48, redwarrior49, redwarrior50, redhealer74, .
+Haha! Zadałem wrogowi bluegeneral118 5.29732639324785 punktów obrażeń.
+
+Ruch 94:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior23, redguard24, redwarrior46, redwarrior47, redgeneral48, redwarrior49, redwarrior50, redhealer74, .
+Haha! Zadałem wrogowi bluegeneral118 5.422661148814468 punktów obrażeń.
+Ała! Otrzymałem 16.815625756978637 punktów obrażeń od bluegeneral118. Teraz mam 58.57840557444398 punktów zdrowia.
+
+Ruch 95:
+Zwiększam morale wszystkich pobliskich sojuszników: redguard22, redwarrior23, redguard24, redwarrior46, redwarrior47, redgeneral48, redwarrior49, redwarrior50, redhealer74, .
+Wróg bluegeneral118 był broniony! Zadałem jego obrońcy blueguard97 5.925370608120686 punktów obrażeń.
+Ała! Otrzymałem 17.73905295779926 punktów obrażeń od bluegeneral118. Teraz mam 40.83935261664472 punktów zdrowia.
+redhealer69 uleczył mnie do 44.39936925657636 punktów hp.
+Ała! Otrzymałem 18.319983487025894 punktów obrażeń od bluegeneral118. Teraz mam 26.079385769550463 punktów zdrowia.
+redhealer74 uleczył mnie do 29.489511040618087 punktów hp.
+redhealer69 uleczył mnie do 33.22277632723609 punktów hp.
+
+Ruch 96:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior23, redguard24, redwarrior46, redwarrior47, redgeneral48, redwarrior49, redwarrior50, redhealer74, .
+Haha! Zadałem wrogowi bluegeneral118 6.414933288027519 punktów obrażeń.
+
+Ruch 97:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior23, redguard24, redwarrior46, redwarrior47, redgeneral48, redwarrior49, redwarrior50, redhealer74, .
+Haha! Zadałem wrogowi bluegeneral118 6.8583851325994365 punktów obrażeń.
+redhealer69 uleczył mnie do 37.21728143433562 punktów hp.
+Ała! Otrzymałem 19.2871701207438 punktów obrażeń od bluegeneral118. Teraz mam 17.93011131359182 punktów zdrowia.
+
+Ruch 98:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior23, redguard24, redwarrior46, redwarrior47, redgeneral48, redwarrior49, redwarrior50, redhealer74, .
+Haha! Zadałem wrogowi bluegeneral118 7.3035634387000785 punktów obrażeń.
+redhealer74 uleczył mnie do 21.795239056429292 punktów hp.
+redhealer69 uleczył mnie do 26.05968417075455 punktów hp.
+Ała! Otrzymałem 20.239171264478877 punktów obrażeń od bluegeneral118. Teraz mam 5.820512906275674 punktów zdrowia.
+
+Ruch 99:
+Zwiększam morale wszystkich pobliskich sojuszników: redwarrior23, redguard24, redwarrior46, redwarrior47, redgeneral48, redwarrior49, redwarrior50, redhealer74, .
+Haha! Zadałem wrogowi bluegeneral118 7.724212069877926 punktów obrażeń.
+Ała! Otrzymałem 21.14594160428826 punktów obrażeń od bluegeneral118. Teraz mam -15.325428698012587 punktów zdrowia.
+Zginąłem, to koniec.
+Obniżam morale swoich żołnierzy.

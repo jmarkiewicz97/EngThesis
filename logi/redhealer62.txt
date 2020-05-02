@@ -1,0 +1,717 @@
+Powstałem, jestem redhealer62
+
+
+Ruch 1:
+Idę na[18.09153874 34.29474566]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 2:
+Idę na[18.47598406 33.5931747 ]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 3:
+Idę na[18.44501486 32.79377436]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 4:
+Idę na[19.2083237  32.55427568]
+
+Ruch 5:
+Idę na[19.70198115 31.92475021]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 6:
+Idę na[19.06653402 31.43873896]
+
+Ruch 7:
+Idę na[18.66548687 30.74652426]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 8:
+Idę na[19.31942914 31.20734908]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 9:
+Idę na[20.06537517 31.49642436]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 10:
+Idę na[20.71230316 31.96704541]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 11:
+Idę na[21.4419998  32.29498262]
+
+Ruch 12:
+Idę na[22.17760776 32.60943601]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 13:
+Idę na[22.92238108 32.90151937]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 14:
+Idę na[23.63869118 33.25774942]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 15:
+Idę na[24.43438484 33.34064456]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 16:
+Idę na[25.22325337 33.47363492]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 17:
+Idę na[26.02007885 33.54483289]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 18:
+Idę na[26.81831193 33.59797377]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 19:
+Idę na[27.60468837 33.74498428]
+
+Ruch 20:
+Idę na[28.38867985 33.90422424]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 21:
+Idę na[29.18615747 33.96770209]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 22:
+Idę na[29.04300492 33.1806142 ]
+
+Ruch 23:
+Idę na[28.30660692 32.86801543]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 24:
+Idę na[29.10387079 32.80190706]
+
+Ruch 25:
+Idę na[29.89893375 32.89064762]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 26:
+Leczę redguard12 do pełna. Teraz ma 600.0
+Leczę redmarksman61 o 0.4033046842198316. Teraz ma 56.67773916850782
+Idę na[30.69530673 32.96674018]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 27:
+Leczę redmarksman61 o 0.41299607555315526. Teraz ma 57.49614776012819
+Idę na[31.48428237 33.09909363]
+
+Ruch 28:
+Leczę redguard9 do pełna. Teraz ma 600.0
+Leczę redwarrior11 do pełna. Teraz ma 100.0
+Leczę redgeneral33 o 0.42426867896237047. Teraz ma 299.48428718827387
+Leczę redwarrior36 o 0.42426867896237047. Teraz ma 97.51677972803336
+Leczę redwarrior37 o 0.42426867896237047. Teraz ma 99.81102169775284
+Leczę redmarksman61 o 0.42426867896237047. Teraz ma 58.761523328854246
+Idę na[30.85179776 32.60923324]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 29:
+Leczę redgeneral33 o 0.43653261947654853. Teraz ma 299.92081980775043
+Leczę redmarksman61 o 0.43653261947654853. Teraz ma 59.63609386323378
+Idę na[30.48067442 33.31794155]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 30:
+Leczę redmarksman61 do pełna. Teraz ma 60.0
+Idę na[30.77625291 32.57454841]
+
+Ruch 31:
+Leczę redguard9 o 0.46421954756585043. Teraz ma 599.7044447528843
+Leczę redgeneral33 o 0.46421954756585043. Teraz ma 299.3391541725489
+Idę na[31.56230079 32.72330574]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 32:
+Leczę redguard9 o 0.4786822337854943. Teraz ma 599.848198404827
+Leczę redwarrior11 o 0.4786822337854943. Teraz ma 99.7594254116924
+Leczę redgeneral33 o 0.4786822337854943. Teraz ma 298.6997368838313
+Leczę redwarrior35 o 0.4786822337854943. Teraz ma 98.53765038289308
+Leczę redwarrior36 o 0.4786822337854943. Teraz ma 93.55260789593189
+Leczę redwarrior37 do pełna. Teraz ma 100.0
+Idę na[30.76421867 32.77866767]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 33:
+Leczę redgeneral33 o 0.496289348987723. Teraz ma 299.0850546986796
+Idę na[31.56421776 32.77987962]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 34:
+Leczę redwarrior11 o 0.5137903073227312. Teraz ma 99.38297981232363
+Leczę redwarrior13 do pełna. Teraz ma 100.0
+Leczę redgeneral33 o 0.5137903073227312. Teraz ma 299.5988450060023
+Leczę redwarrior35 o 0.5137903073227312. Teraz ma 98.22527320210908
+Leczę redwarrior36 o 0.5137903073227312. Teraz ma 94.06639820325462
+Idę na[31.36765469 32.00440367]
+
+Ruch 35:
+Leczę redwarrior11 o 0.5297491339586644. Teraz ma 99.02702822413978
+Leczę redwarrior34 o 0.5297491339586644. Teraz ma 99.17065877502044
+Leczę redwarrior35 o 0.5297491339586644. Teraz ma 97.89134188394891
+Leczę redwarrior36 o 0.5297491339586644. Teraz ma 94.59614733721328
+Idę na[30.56767662 32.0103275 ]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 36:
+Leczę redgeneral33 o 0.5471801669053198. Teraz ma 299.27136788000195
+Idę na[29.99721451 31.44945945]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 37:
+Leczę redgeneral33 o 0.5616715512695242. Teraz ma 299.83303943127146
+Idę na[30.7916095  31.54399301]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 38:
+Leczę redgeneral33 o 0.5778552929799354. Teraz ma 299.6899794788482
+Leczę redwarrior35 o 0.5778552929799354. Teraz ma 97.45392620410635
+Idę na[31.58874587 31.61162147]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 39:
+Leczę redwarrior11 o 0.5977854758196173. Teraz ma 98.71427555168881
+Leczę redgeneral33 do pełna. Teraz ma 300.0
+Leczę redwarrior34 o 0.5977854758196173. Teraz ma 97.83172832072596
+Leczę redwarrior35 o 0.5977854758196173. Teraz ma 96.9501877612609
+Leczę redwarrior36 o 0.5977854758196173. Teraz ma 93.39761893297765
+Idę na[30.79600543 31.71915099]
+
+Ruch 40:
+Idę na[30.82510379 30.91968036]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 41:
+Leczę redguard2 do pełna. Teraz ma 600.0
+Leczę redgeneral33 do pełna. Teraz ma 300.0
+Leczę redwarrior35 o 0.6349209644808355. Teraz ma 97.58510872574175
+Idę na[30.29283161 31.51691258]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 42:
+Idę na[30.40124787 32.30953223]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 43:
+Idę na[30.23735221 33.09256365]
+
+Ruch 44:
+Leczę redgeneral33 o 0.7022213126787185. Teraz ma 299.8248435390328
+Idę na[29.63042985 33.61375963]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 45:
+Idę na[29.18936401 32.94633105]
+
+Ruch 46:
+Idę na[29.98155283 33.05785175]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 47:
+Leczę redguard2 o 0.7685099331716992. Teraz ma 597.3411424638996
+Idę na[29.53966058 33.72473348]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 48:
+Idę na[29.18137793 34.44001911]
+
+Ruch 49:
+Leczę redguard19 do pełna. Teraz ma 600.0
+Idę na[29.97432094 34.54604448]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 50:
+Idę na[30.48069286 33.92670009]
+
+Ruch 51:
+Leczę redguard4 o 0.8838657544990345. Teraz ma 596.6088083522753
+Leczę redwarrior13 o 0.8838657544990345. Teraz ma 99.3843275434695
+Leczę redgeneral33 do pełna. Teraz ma 300.0
+Idę na[30.03196683 33.26439733]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 52:
+Leczę redguard4 o 0.915723573220012. Teraz ma 596.2008530374287
+Idę na[30.82684536 33.35477501]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 53:
+Leczę redguard4 o 0.9501343709126548. Teraz ma 597.1509874083414
+Leczę redwarrior13 do pełna. Teraz ma 100.0
+Idę na[30.02887363 33.29784409]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 54:
+Leczę redguard4 o 0.9850632225317655. Teraz ma 599.0875552700825
+Idę na[30.54294307 32.68487377]
+
+Ruch 55:
+Leczę redguard2 o 1.021863681223687. Teraz ma 598.7309522193755
+Leczę redguard4 do pełna. Teraz ma 600.0
+Idę na[29.74724249 32.76770242]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 56:
+Idę na[30.35157908 32.24351039]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 57:
+Idę na[30.77121177 31.56240217]
+
+Ruch 58:
+Leczę redguard4 o 1.1424641069674601. Teraz ma 595.2954656288222
+Idę na[31.06552472 32.30629725]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 59:
+Idę na[30.35573516 32.67534844]
+
+Ruch 60:
+Idę na[31.14966975 32.77367376]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 61:
+Leczę redguard2 o 1.2860771679601632. Teraz ma 598.5329306917065
+Leczę redwarrior11 o 1.2860771679601632. Teraz ma 96.82821296705103
+Leczę redwarrior37 do pełna. Teraz ma 100.0
+Idę na[30.3496698  32.77337913]
+
+Ruch 62:
+Idę na[31.14464069 32.86294073]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 63:
+Leczę redwarrior11 o 1.39217972299447. Teraz ma 98.2203926900455
+Leczę redwarrior37 o 1.39217972299447. Teraz ma 99.11121010879637
+Idę na[31.00764983 32.07475706]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 64:
+Leczę redwarrior35 o 1.4479624164551899. Teraz ma 93.527530171045
+Idę na[30.235453   32.28383134]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 65:
+Idę na[31.01710842 32.45416868]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 66:
+Leczę redguard2 o 1.565504477594459. Teraz ma 598.8249932792738
+Leczę redgeneral28 o 1.565504477594459. Teraz ma 258.0365368731421
+Idę na[30.29742076 32.80352477]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 67:
+Idę na[30.61336536 33.53849348]
+
+Ruch 68:
+Leczę redguard2 o 1.6770995151129477. Teraz ma 598.8170916638926
+Leczę redwarrior13 o 1.6770995151129477. Teraz ma 99.99836520486866
+Idę na[29.92862022 33.124822  ]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 69:
+Idę na[30.7285332  33.13662138]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 70:
+Idę na[30.23127203 32.50993859]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 71:
+Leczę redgeneral33 o 1.8553321928208493. Teraz ma 297.5063068346211
+Idę na[31.0241347  32.61656309]
+
+Ruch 72:
+Leczę redgeneral33 o 1.9169347161793053. Teraz ma 297.11278200032257
+Idę na[30.8193153 31.8432268]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 73:
+Leczę redguard2 o 1.9828464028193662. Teraz ma 598.0976237386222
+Leczę redgeneral33 do pełna. Teraz ma 300.0
+Idę na[30.28803152 32.44133845]
+
+Ruch 74:
+Leczę redguard2 do pełna. Teraz ma 600.0
+Idę na[31.07510075 32.58459357]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 75:
+Leczę redgeneral28 o 2.107648508547645. Teraz ma 268.39485033493634
+Leczę redwarrior37 do pełna. Teraz ma 100.0
+Idę na[30.87538068 31.80992467]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 76:
+Leczę redgeneral28 o 2.1798409543478696. Teraz ma 262.3390772509637
+Idę na[30.17530295 32.19708248]
+
+Ruch 77:
+Idę na[30.96142321 32.34545676]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 78:
+Leczę redgeneral28 o 2.315212880247275. Teraz ma 260.98429536294526
+Leczę redgeneral33 o 2.315212880247275. Teraz ma 299.5885730811075
+Idę na[30.47105842 32.9775504 ]
+
+Ruch 79:
+Leczę redgeneral33 do pełna. Teraz ma 300.0
+Idę na[29.87679094 32.44197019]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 80:
+Leczę redgeneral33 o 2.4640782015220424. Teraz ma 299.4888478703921
+Idę na[30.67324778 32.51717993]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 81:
+Idę na[31.47310385 32.50200529]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 82:
+Leczę redwarrior11 o 2.638969731798551. Teraz ma 87.29440734286005
+Leczę redgeneral28 o 2.638969731798551. Teraz ma 268.9983366083978
+Leczę redgeneral33 o 2.638969731798551. Teraz ma 299.5514680603352
+Leczę redwarrior35 o 2.638969731798551. Teraz ma 83.5785963008281
+Leczę redwarrior36 o 2.638969731798551. Teraz ma 27.596988300569453
+Leczę redwarrior37 o 2.638969731798551. Teraz ma 98.22997058628096
+Idę na[30.69774699 32.69903764]
+
+Ruch 83:
+Leczę redgeneral33 o 2.7300767012073486. Teraz ma 299.0713575324064
+Idę na[30.0906195  33.21999465]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 84:
+Leczę redgeneral33 o 2.8214300275977. Teraz ma 299.49519997298603
+Idę na[30.88671816 33.29890551]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 85:
+Leczę redwarrior13 o 2.9233789126955516. Teraz ma 98.27815923601909
+Leczę redwarrior37 do pełna. Teraz ma 100.0
+Idę na[30.4088592  32.65730532]
+
+Ruch 86:
+Idę na[30.46385618 33.45541266]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 87:
+Leczę redguard19 o 3.118598229036049. Teraz ma 595.086894122879
+Idę na[29.66426703 33.48104822]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 88:
+Idę na[30.46357211 33.51438554]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 89:
+Idę na[30.05747707 32.82512012]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 90:
+Idę na[29.76787312 33.57086106]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 91:
+Idę na[30.54505932 33.76054926]
+
+Ruch 92:
+Idę na[29.77020537 33.56154837]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 93:
+Idę na[30.17164809 32.86956301]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 94:
+Idę na[29.50582265 33.31304524]
+
+Ruch 95:
+Idę na[30.29413895 33.44927087]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 96:
+Idę na[29.71976498 32.89240954]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 97:
+Idę na[30.49789251 33.07819855]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 98:
+Idę na[30.1290097  32.36832146]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 99:
+Idę na[30.096119   33.16764505]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 100:
+Idę na[29.49646414 32.6381037 ]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 101:
+Idę na[29.36159048 33.42665243]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 102:
+Idę na[30.15730809 33.50931734]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 103:
+Idę na[29.383885   33.71380871]
+
+Ruch 104:
+Idę na[28.58433163 33.74053713]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 105:
+Idę na[27.78492111 33.77124246]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 106:
+Idę na[28.57285542 33.90966035]
+
+Ruch 107:
+Idę na[29.37221433 33.87763942]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 108:
+Idę na[30.16847681 33.80039916]
+
+Ruch 109:
+Idę na[30.96640789 33.74290139]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 110:
+Idę na[30.16782022 33.69538583]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 111:
+Idę na[29.39893098 33.47445747]
+
+Ruch 112:
+Idę na[28.60942135 33.34532749]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 113:
+Idę na[29.4032045  33.24578693]
+
+Ruch 114:
+Idę na[30.20274716 33.27283383]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 115:
+Idę na[29.40302194 33.29380008]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 116:
+Idę na[30.19116564 33.43102074]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 117:
+Idę na[29.74322945 34.09385794]
+
+Ruch 118:
+Idę na[30.54165447 34.14403246]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 119:
+Leczę redwarrior11 o 6.580184495248018. Teraz ma 98.28307022482943
+Idę na[31.32739522 34.2944036 ]
+
+Ruch 120:
+Leczę redwarrior11 do pełna. Teraz ma 100.0
+Idę na[30.82079388 33.67524684]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 121:
+Idę na[31.61868532 33.73329211]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 122:
+Idę na[31.50740652 32.94106927]
+
+Ruch 123:
+Idę na[30.71026195 33.00860095]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 124:
+Idę na[31.48451758 33.20991715]
+
+Ruch 125:
+Idę na[30.97104441 33.82338703]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 126:
+Idę na[30.40077916 33.26231881]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 127:
+Idę na[30.238772   34.04574314]
+
+Ruch 128:
+Idę na[29.94161538 33.30297942]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 129:
+Idę na[29.44789545 33.9324559 ]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 130:
+Idę na[28.88863785 33.36041488]
+
+Ruch 131:
+Idę na[29.67685406 33.49721838]
+
+Ruch 132:
+Idę na[30.47481584 33.5542886 ]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 133:
+Idę na[29.68367282 33.67300142]
+
+Ruch 134:
+Idę na[30.48312296 33.7026575 ]
+
+Ruch 135:
+Idę na[31.26683718 33.86325642]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 136:
+Idę na[31.98783431 34.20990198]
+
+Ruch 137:
+Idę na[31.67336872 34.94550472]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 138:
+Idę na[32.46199204 35.07994158]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 139:
+Idę na[33.25638264 35.17451201]
+
+Ruch 140:
+Idę na[33.5445947  35.92079199]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 141:
+Idę na[34.13756833 35.38377964]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 142:
+Idę na[33.41132381 35.71929252]
+
+Ruch 143:
+Idę na[33.55602807 34.93248843]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 144:
+Idę na[34.25137953 35.32807199]
+
+Ruch 145:
+Idę na[34.51741261 34.57360105]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 146:
+Idę na[35.28218365 34.80838875]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 147:
+Idę na[35.48018659 34.03327919]
+
+Ruch 148:
+Idę na[36.04911749 34.59570041]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 149:
+Idę na[35.5789181  33.94846588]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 150:
+Idę na[34.94121764 34.43151674]
+
+Ruch 151:
+Idę na[35.44303699 35.05455553]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 152:
+Idę na[35.91215696 34.4065382 ]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 153:
+Idę na[35.36556424 34.99069264]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 154:
+Idę na[36.0465545  34.57086855]
+
+Ruch 155:
+Idę na[36.79889368 34.84287178]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 156:
+Idę na[35.99963942 34.8083373 ]
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+Do boju! Moje morale są zwiększone przez chorążego redflagger63!
+
+Ruch 157:
+Idę na[35.32361599 35.23611331]

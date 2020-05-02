@@ -1,0 +1,583 @@
+Powstałem, jestem redguard9
+
+
+Ruch 1:
+Idę na[15.79575032 23.08234938]
+Do boju! Moje morale są zwiększone przez chorążego redflagger58!
+Do boju! Moje morale są zwiększone przez chorążego redflagger58!
+
+Ruch 2:
+Idę na[16.58905263 23.18565212]
+
+Ruch 3:
+Idę na[17.3341667  23.47686515]
+Do boju! Moje morale są zwiększone przez chorążego redflagger58!
+
+Ruch 4:
+Idę na[18.12901506 23.38622255]
+Do boju! Moje morale są zwiększone przez chorążego redflagger58!
+
+Ruch 5:
+Idę na[18.87118695 23.68485423]
+Do boju! Moje morale są zwiększone przez chorążego redflagger58!
+
+Ruch 6:
+Idę na[19.57643368 24.0625142 ]
+Do boju! Moje morale są zwiększone przez chorążego redflagger58!
+Do boju! Moje morale są zwiększone przez chorążego redflagger58!
+
+Ruch 7:
+Idę na[20.28352923 24.43670116]
+Do boju! Moje morale są zwiększone przez chorążego redflagger58!
+
+Ruch 8:
+Idę na[20.96470718 24.85622066]
+Do boju! Moje morale są zwiększone przez chorążego redflagger58!
+
+Ruch 9:
+Idę na[21.63255159 25.29665662]
+
+Ruch 10:
+Idę na[22.24582795 25.81036092]
+Do boju! Moje morale są zwiększone przez chorążego redflagger58!
+
+Ruch 11:
+Idę na[23.01140257 26.04251496]
+Do boju! Moje morale są zwiększone przez chorążego redflagger58!
+Do boju! Moje morale są zwiększone przez chorążego redflagger58!
+
+Ruch 12:
+Idę na[23.55929859 26.62544717]
+Do boju! Moje morale są zwiększone przez chorążego redflagger58!
+
+Ruch 13:
+Idę na[24.16775132 27.14485575]
+Do boju! Moje morale są zwiększone przez chorążego redflagger58!
+
+Ruch 14:
+Idę na[24.78584708 27.65275105]
+
+Ruch 15:
+Idę na[25.54527822 27.9042751 ]
+Do boju! Moje morale są zwiększone przez chorążego redflagger58!
+
+Ruch 16:
+Idę na[26.30490067 28.15522076]
+Do boju! Moje morale są zwiększone przez chorążego redflagger58!
+
+Ruch 17:
+Idę na[26.94372646 28.63678239]
+
+Ruch 18:
+Idę na[27.51161111 29.20026001]
+
+Ruch 19:
+W tym ruchu chronię sojusznika redwarrior11.
+Idę na[28.05177398 29.79036515]
+
+Ruch 20:
+W tym ruchu chronię sojusznika redwarrior8.
+Idę na[28.81507524 30.029888  ]
+Do boju! Moje morale są zwiększone przez chorążego redflagger58!
+
+Ruch 21:
+W tym ruchu chronię sojusznika redwarrior35.
+Idę na[29.31545875 30.65408055]
+
+Ruch 22:
+W tym ruchu chronię sojusznika redwarrior11.
+Idę na[30.07679043 30.4083692 ]
+Do boju! Moje morale są zwiększone przez chorążego redflagger58!
+Do boju! Moje morale są zwiększone przez chorążego redflagger58!
+
+Ruch 23:
+W tym ruchu chronię sojusznika redwarrior32.
+Idę na[30.7532646  30.83543207]
+
+Ruch 24:
+W tym ruchu chronię sojusznika redwarrior35.
+Idę na[31.51675447 31.07435304]
+Do boju! Moje morale są zwiększone przez chorążego redflagger58!
+
+Ruch 25:
+W tym ruchu chronię sojusznika redgeneral33.
+Idę na[32.274132   31.33199477]
+Do boju! Moje morale są zwiększone przez chorążego redflagger58!
+
+Ruch 26:
+W tym ruchu chronię sojusznika redhealer62.
+Idę na[33.01817093 31.62594389]
+Do boju! Moje morale są zwiększone przez chorążego redflagger58!
+
+Ruch 27:
+W tym ruchu chronię sojusznika redwarrior32.
+Idę na[32.62402163 32.32210934]
+Oj! Chroniąc redwarrior32 otrzymałem 0.6348890209295732 punktów obrażeń od bluewarrior107. Teraz mam 599.3651109790704 punktów zdrowia.
+redhealer64 uleczył mnie do 599.7911749827308 punktów hp.
+redhealer62 uleczył mnie do pełna, mam 600.0 punktów życia.
+
+Ruch 28:
+W tym ruchu chronię sojusznika redwarrior13.
+Idę na[33.327523   32.70301067]
+Do boju! Moje morale są zwiększone przez chorążego redflagger58!
+
+Ruch 29:
+W tym ruchu chronię sojusznika redgeneral33.
+Idę na[33.42977127 31.90957177]
+
+Ruch 30:
+W tym ruchu chronię sojusznika redwarrior11.
+Idę na[33.33385028 32.70380043]
+Oj! Chroniąc redwarrior11 otrzymałem 0.7597747946815582 punktów obrażeń od bluewarrior111. Teraz mam 599.2402252053184 punktów zdrowia.
+Do boju! Moje morale są zwiększone przez chorążego redflagger58!
+Do boju! Moje morale są zwiększone przez chorążego redflagger58!
+redhealer62 uleczył mnie do 599.7044447528843 punktów hp.
+Oj! Chroniąc redwarrior11 otrzymałem 0.7997648395764042 punktów obrażeń od bluewarrior111. Teraz mam 598.904679913308 punktów zdrowia.
+redhealer64 uleczył mnie do 599.3695161710415 punktów hp.
+
+Ruch 31:
+W tym ruchu chronię sojusznika redhealer64.
+Idę na[33.61002009 31.95298072]
+redhealer62 uleczył mnie do 599.848198404827 punktów hp.
+Do boju! Moje morale są zwiększone przez chorążego redflagger58!
+
+Ruch 32:
+W tym ruchu chronię sojusznika redwarrior8.
+Idę na[34.19083926 32.50311624]
+Do boju! Moje morale są zwiększone przez chorążego redflagger58!
+
+Ruch 33:
+W tym ruchu chronię sojusznika redwarrior37.
+Idę na[34.80824956 31.9943879 ]
+Ała! Otrzymałem 0.653967476770229 punktów obrażeń od blueflagger138. Teraz mam 599.1942309280568 punktów zdrowia.
+
+Ruch 34:
+W tym ruchu chronię sojusznika redwarrior37.
+Idę na[35.58209617 31.79150513]
+Ała! Otrzymałem 0.6838663593369462 punktów obrażeń od blueflagger138. Teraz mam 598.5103645687198 punktów zdrowia.
+Do boju! Moje morale są zwiększone przez chorążego redflagger58!
+Ała! Otrzymałem 0.7335556027304636 punktów obrażeń od bluewarrior83. Teraz mam 597.7768089659893 punktów zdrowia.
+Do boju! Moje morale są zwiększone przez chorążego redflagger58!
+Ała! Otrzymałem 0.7132081588020145 punktów obrażeń od blueflagger138. Teraz mam 597.0636008071873 punktów zdrowia.
+
+Ruch 35:
+W tym ruchu chronię sojusznika redwarrior37.
+Idę na[35.9454761  32.50421476]
+Ała! Otrzymałem 0.8468263156237805 punktów obrażeń od bluewarrior85. Teraz mam 596.2167744915636 punktów zdrowia.
+Oj! Chroniąc redwarrior37 otrzymałem 0.9801194709631238 punktów obrażeń od bluewarrior112. Teraz mam 595.2366550206004 punktów zdrowia.
+Ała! Otrzymałem 0.8484801139005197 punktów obrażeń od bluewarrior110. Teraz mam 594.3881749066999 punktów zdrowia.
+Oj! Chroniąc redwarrior37 otrzymałem 1.08872692433597 punktów obrażeń od bluewarrior112. Teraz mam 593.2994479823639 punktów zdrowia.
+Ała! Otrzymałem 0.8128488897462267 punktów obrażeń od bluewarrior83. Teraz mam 592.4865990926177 punktów zdrowia.
+Ała! Otrzymałem 2.3702891104842685 punktów obrażeń od bluegeneral108. Teraz mam 590.1163099821334 punktów zdrowia.
+
+Ruch 36:
+W tym ruchu chronię sojusznika redwarrior34.
+Idę na[35.46687573 33.1452621 ]
+Ała! Otrzymałem 0.8813152840452517 punktów obrażeń od bluewarrior110. Teraz mam 589.2349946980881 punktów zdrowia.
+Do boju! Moje morale są zwiększone przez chorążego redflagger58!
+Ała! Otrzymałem 2.8421262027884238 punktów obrażeń od bluegeneral113. Teraz mam 586.3928684952997 punktów zdrowia.
+Do boju! Moje morale są zwiększone przez chorążego redflagger58!
+Oj! Chroniąc redwarrior34 otrzymałem 1.0849731212901972 punktów obrażeń od bluewarrior109. Teraz mam 585.3078953740095 punktów zdrowia.
+Oj! Chroniąc redwarrior34 otrzymałem 0.9093949986228336 punktów obrażeń od bluewarrior85. Teraz mam 584.3985003753867 punktów zdrowia.
+
+Ruch 37:
+W tym ruchu chronię sojusznika redwarrior37.
+Idę na[35.62858216 33.92874856]
+Ała! Otrzymałem 2.927426935538264 punktów obrażeń od bluegeneral113. Teraz mam 581.4710734398484 punktów zdrowia.
+Ała! Otrzymałem 0.8217590753273649 punktów obrażeń od blueflagger138. Teraz mam 580.649314364521 punktów zdrowia.
+
+Ruch 38:
+W tym ruchu chronię sojusznika redwarrior39.
+Idę na[35.94376214 34.66404549]
+Ała! Otrzymałem 0.9995601436458904 punktów obrażeń od bluewarrior111. Teraz mam 579.6497542208751 punktów zdrowia.
+Oj! Chroniąc redwarrior39 otrzymałem 0.998489631612268 punktów obrażeń od bluewarrior114. Teraz mam 578.6512645892628 punktów zdrowia.
+Ała! Otrzymałem 0.9724152729507302 punktów obrażeń od bluewarrior86. Teraz mam 577.6788493163122 punktów zdrowia.
+Ała! Otrzymałem 1.1246637923996814 punktów obrażeń od bluewarrior90. Teraz mam 576.5541855239125 punktów zdrowia.
+Ała! Otrzymałem 3.146227486076866 punktów obrażeń od bluegeneral113. Teraz mam 573.4079580378356 punktów zdrowia.
+Oj! Chroniąc redwarrior39 otrzymałem 1.2355643945888797 punktów obrażeń od bluewarrior112. Teraz mam 572.1723936432467 punktów zdrowia.
+
+Ruch 39:
+W tym ruchu chronię sojusznika redwarrior37.
+Idę na[35.70861148 35.428705  ]
+Ała! Otrzymałem 1.115631903007489 punktów obrażeń od bluewarrior115. Teraz mam 571.0567617402392 punktów zdrowia.
+Oj! Chroniąc redwarrior37 otrzymałem 1.2629178625078696 punktów obrażeń od bluewarrior112. Teraz mam 569.7938438777313 punktów zdrowia.
+Ała! Otrzymałem 1.0880430574087214 punktów obrażeń od bluewarrior114. Teraz mam 568.7058008203226 punktów zdrowia.
+
+Ruch 40:
+W tym ruchu chronię sojusznika redwarrior13.
+Idę na[35.22229706 34.79348986]
+Ała! Otrzymałem 1.1195985770973764 punktów obrażeń od bluewarrior114. Teraz mam 567.5862022432252 punktów zdrowia.
+
+Ruch 41:
+W tym ruchu chronię sojusznika redgeneral33.
+Idę na[36.01987665 34.73130635]
+Ała! Otrzymałem 1.299159974276098 punktów obrażeń od bluewarrior112. Teraz mam 566.2870422689491 punktów zdrowia.
+
+Ruch 42:
+W tym ruchu chronię sojusznika redwarrior37.
+Idę na[36.62700336 34.21034842]
+Ała! Otrzymałem 2.881808066221026 punktów obrażeń od bluegeneral108. Teraz mam 563.4052342027281 punktów zdrowia.
+
+Ruch 43:
+W tym ruchu chronię sojusznika redwarrior36.
+Idę na[36.96844224 33.48687106]
+
+Ruch 44:
+W tym ruchu chronię sojusznika redwarrior10.
+Idę na[37.5528143  32.94051102]
+Ała! Otrzymałem 1.2633646693244023 punktów obrażeń od bluewarrior111. Teraz mam 562.1418695334038 punktów zdrowia.
+Ała! Otrzymałem 0.9761355203092915 punktów obrażeń od bluewarrior80. Teraz mam 561.1657340130945 punktów zdrowia.
+Ała! Otrzymałem 1.1852724317104575 punktów obrażeń od bluewarrior86. Teraz mam 559.980461581384 punktów zdrowia.
+Ała! Otrzymałem 1.0067046835493192 punktów obrażeń od bluewarrior78. Teraz mam 558.9737568978347 punktów zdrowia.
+Ała! Otrzymałem 1.0465695253774054 punktów obrażeń od bluewarrior80. Teraz mam 557.9271873724573 punktów zdrowia.
+
+Ruch 45:
+W tym ruchu chronię sojusznika redwarrior36.
+Idę na[36.94148219 33.45652754]
+Ała! Otrzymałem 1.0704060571247234 punktów obrażeń od blueflagger138. Teraz mam 556.8567813153326 punktów zdrowia.
+Ała! Otrzymałem 1.2047036056265996 punktów obrażeń od bluewarrior83. Teraz mam 555.652077709706 punktów zdrowia.
+Ała! Otrzymałem 1.4887419184742599 punktów obrażeń od bluewarrior112. Teraz mam 554.1633357912317 punktów zdrowia.
+Oj! Chroniąc redwarrior36 otrzymałem 1.2920417016520789 punktów obrażeń od bluewarrior111. Teraz mam 552.8712940895796 punktów zdrowia.
+Ała! Otrzymałem 1.2543190293901239 punktów obrażeń od bluewarrior114. Teraz mam 551.6169750601895 punktów zdrowia.
+Ała! Otrzymałem 1.223008933950419 punktów obrażeń od bluewarrior86. Teraz mam 550.3939661262391 punktów zdrowia.
+Ała! Otrzymałem 1.0700936166180088 punktów obrażeń od bluewarrior78. Teraz mam 549.3238725096211 punktów zdrowia.
+
+Ruch 46:
+W tym ruchu chronię sojusznika redwarrior11.
+Idę na[37.71959496 33.27067674]
+Ała! Otrzymałem 1.3243544644561707 punktów obrażeń od bluewarrior111. Teraz mam 547.9995180451649 punktów zdrowia.
+Ała! Otrzymałem 1.1027777668515166 punktów obrażeń od blueflagger138. Teraz mam 546.8967402783134 punktów zdrowia.
+Ała! Otrzymałem 1.1345591768031946 punktów obrażeń od blueflagger138. Teraz mam 545.7621811015101 punktów zdrowia.
+
+Ruch 47:
+W tym ruchu chronię sojusznika redguard14.
+Idę na[37.03689434 33.68771376]
+Ała! Otrzymałem 1.3002611739125058 punktów obrażeń od bluewarrior86. Teraz mam 544.4619199275976 punktów zdrowia.
+Oj! Chroniąc redguard14 otrzymałem 4.021771165583676 punktów obrażeń od bluegeneral113. Teraz mam 540.4401487620139 punktów zdrowia.
+
+Ruch 48:
+W tym ruchu chronię sojusznika redwarrior10.
+Idę na[36.41097912 34.18594074]
+
+Ruch 49:
+W tym ruchu chronię sojusznika redwarrior11.
+Idę na[35.762042   34.65378754]
+
+Ruch 50:
+W tym ruchu chronię sojusznika redwarrior11.
+Idę na[36.55096472 34.78645607]
+Ała! Otrzymałem 4.414567128561942 punktów obrażeń od bluegeneral113. Teraz mam 536.0255816334519 punktów zdrowia.
+
+Ruch 51:
+W tym ruchu chronię sojusznika redwarrior39.
+Idę na[37.2576644 34.411522 ]
+Ała! Otrzymałem 1.3355284482880547 punktów obrażeń od bluewarrior93. Teraz mam 534.6900531851638 punktów zdrowia.
+Ała! Otrzymałem 1.499757936193568 punktów obrażeń od bluewarrior88. Teraz mam 533.1902952489703 punktów zdrowia.
+Ała! Otrzymałem 1.5380404910475758 punktów obrażeń od bluewarrior83. Teraz mam 531.6522547579227 punktów zdrowia.
+
+Ruch 52:
+W tym ruchu chronię sojusznika redwarrior13.
+Idę na[36.45943067 34.46465309]
+Ała! Otrzymałem 4.705903948186735 punktów obrażeń od bluegeneral113. Teraz mam 526.946350809736 punktów zdrowia.
+
+Ruch 53:
+W tym ruchu chronię sojusznika redwarrior36.
+Idę na[36.97108174 33.84966269]
+Ała! Otrzymałem 1.4193560371359621 punktów obrażeń od blueflagger138. Teraz mam 525.5269947726001 punktów zdrowia.
+Oj! Chroniąc redwarrior36 otrzymałem 1.659864766340977 punktów obrażeń od bluewarrior110. Teraz mam 523.8671300062591 punktów zdrowia.
+Ała! Otrzymałem 1.4599209276774936 punktów obrażeń od blueflagger138. Teraz mam 522.4072090785817 punktów zdrowia.
+
+Ruch 54:
+W tym ruchu chronię sojusznika redwarrior13.
+Idę na[37.76902392 33.90700617]
+Ała! Otrzymałem 1.4183994811173761 punktów obrażeń od bluewarrior78. Teraz mam 520.9888095974643 punktów zdrowia.
+Ała! Otrzymałem 1.5334387364693742 punktów obrażeń od bluewarrior80. Teraz mam 519.4553708609949 punktów zdrowia.
+Ała! Otrzymałem 1.6887083667472793 punktów obrażeń od bluewarrior86. Teraz mam 517.7666624942476 punktów zdrowia.
+Ała! Otrzymałem 1.7006864607005847 punktów obrażeń od bluewarrior83. Teraz mam 516.065976033547 punktów zdrowia.
+
+Ruch 55:
+W tym ruchu chronię sojusznika redguard14.
+Idę na[37.01642278 34.17828375]
+Ała! Otrzymałem 1.495539932480525 punktów obrażeń od bluewarrior78. Teraz mam 514.5704361010665 punktów zdrowia.
+Ała! Otrzymałem 5.455736547691374 punktów obrażeń od bluegeneral108. Teraz mam 509.11469955337515 punktów zdrowia.
+Ała! Otrzymałem 1.5702782303454712 punktów obrażeń od bluewarrior93. Teraz mam 507.54442132302967 punktów zdrowia.
+Oj! Chroniąc redguard14 otrzymałem 1.7876114677344916 punktów obrażeń od bluewarrior114. Teraz mam 505.75680985529516 punktów zdrowia.
+
+Ruch 56:
+W tym ruchu chronię sojusznika redwarrior36.
+Idę na[36.28791105 34.50884488]
+Ała! Otrzymałem 1.745071318569491 punktów obrażeń od bluewarrior86. Teraz mam 504.01173853672566 punktów zdrowia.
+Ała! Otrzymałem 1.9364664080193636 punktów obrażeń od bluewarrior112. Teraz mam 502.0752721287063 punktów zdrowia.
+Ała! Otrzymałem 1.8511402351069328 punktów obrażeń od bluewarrior114. Teraz mam 500.22413189359935 punktów zdrowia.
+Ała! Otrzymałem 1.826401765184387 punktów obrażeń od bluewarrior88. Teraz mam 498.39773012841493 punktów zdrowia.
+
+Ruch 57:
+W tym ruchu chronię sojusznika redwarrior37.
+Idę na[36.99063288 34.89118245]
+Ała! Otrzymałem 1.8013841690659964 punktów obrażeń od bluewarrior86. Teraz mam 496.5963459593489 punktów zdrowia.
+Oj! Chroniąc redwarrior37 otrzymałem 1.985356800306616 punktów obrażeń od bluewarrior112. Teraz mam 494.61098915904233 punktów zdrowia.
+
+Ruch 58:
+W tym ruchu chronię sojusznika redwarrior16.
+Idę na[37.58828336 35.42298496]
+Ała! Otrzymałem 1.8157134797802752 punktów obrażeń od bluewarrior93. Teraz mam 492.79527567926203 punktów zdrowia.
+
+Ruch 59:
+W tym ruchu chronię sojusznika redguard12.
+Idę na[36.83168853 35.16305369]
+Oj! Chroniąc redguard12 otrzymałem 1.7796243186309666 punktów obrażeń od bluewarrior121. Teraz mam 491.01565136063107 punktów zdrowia.
+Oj! Chroniąc redguard12 otrzymałem 2.0156120198405425 punktów obrażeń od bluewarrior115. Teraz mam 489.0000393407905 punktów zdrowia.
+Ała! Otrzymałem 1.8985169866615745 punktów obrażeń od bluewarrior96. Teraz mam 487.101522354129 punktów zdrowia.
+Ała! Otrzymałem 2.1820273730621476 punktów obrażeń od bluewarrior112. Teraz mam 484.9194949810668 punktów zdrowia.
+Ała! Otrzymałem 1.8985417945196672 punktów obrażeń od bluewarrior93. Teraz mam 483.02095318654716 punktów zdrowia.
+Ała! Otrzymałem 2.015797325910384 punktów obrażeń od bluewarrior88. Teraz mam 481.00515586063676 punktów zdrowia.
+Oj! Chroniąc redguard12 otrzymałem 1.8721690597927727 punktów obrażeń od bluewarrior121. Teraz mam 479.132986800844 punktów zdrowia.
+
+Ruch 60:
+W tym ruchu chronię sojusznika redwarrior37.
+Idę na[37.37177619 34.57287972]
+
+Ruch 61:
+W tym ruchu chronię sojusznika redwarrior37.
+Idę na[38.08284069 34.20629102]
+
+Ruch 62:
+W tym ruchu chronię sojusznika redguard14.
+Idę na[37.28293661 34.21867911]
+Oj! Chroniąc redguard14 otrzymałem 2.130972998536274 punktów obrażeń od bluewarrior86. Teraz mam 477.0020138023077 punktów zdrowia.
+Oj! Chroniąc redguard14 otrzymałem 2.2336330909842514 punktów obrażeń od bluewarrior114. Teraz mam 474.76838071132346 punktów zdrowia.
+Oj! Chroniąc redguard14 otrzymałem 2.15642901102123 punktów obrażeń od bluewarrior88. Teraz mam 472.61195170030226 punktów zdrowia.
+Oj! Chroniąc redguard14 otrzymałem 2.063164055332676 punktów obrażeń od bluewarrior93. Teraz mam 470.5487876449696 punktów zdrowia.
+Oj! Chroniąc redguard14 otrzymałem 6.511493297041376 punktów obrażeń od bluegeneral113. Teraz mam 464.0372943479282 punktów zdrowia.
+Oj! Chroniąc redguard14 otrzymałem 2.203825951161283 punktów obrażeń od bluewarrior86. Teraz mam 461.83346839676693 punktów zdrowia.
+Oj! Chroniąc redguard14 otrzymałem 2.1480937865333143 punktów obrażeń od bluewarrior93. Teraz mam 459.6853746102336 punktów zdrowia.
+
+Ruch 63:
+W tym ruchu chronię sojusznika redwarrior37.
+Idę na[37.36415237 33.42281229]
+
+Ruch 64:
+W tym ruchu chronię sojusznika redwarrior37.
+Idę na[37.76969524 34.11240273]
+Ała! Otrzymałem 2.3171223620742647 punktów obrażeń od bluewarrior83. Teraz mam 457.36825224815937 punktów zdrowia.
+Ała! Otrzymałem 2.144599047080005 punktów obrażeń od bluewarrior78. Teraz mam 455.22365320107934 punktów zdrowia.
+Ała! Otrzymałem 2.226873738978628 punktów obrażeń od bluewarrior93. Teraz mam 452.99677946210073 punktów zdrowia.
+Ała! Otrzymałem 2.2793544264467367 punktów obrażeń od bluewarrior86. Teraz mam 450.717425035654 punktów zdrowia.
+Ała! Otrzymałem 2.302756776411729 punktów obrażeń od bluewarrior88. Teraz mam 448.41466825924226 punktów zdrowia.
+Ała! Otrzymałem 2.3952772195765437 punktów obrażeń od bluewarrior83. Teraz mam 446.0193910396657 punktów zdrowia.
+Oj! Chroniąc redwarrior37 otrzymałem 2.4742342420262844 punktów obrażeń od bluewarrior112. Teraz mam 443.54515679763944 punktów zdrowia.
+Ała! Otrzymałem 2.3846071810141063 punktów obrażeń od bluewarrior88. Teraz mam 441.1605496166253 punktów zdrowia.
+Ała! Otrzymałem 2.3067621991741856 punktów obrażeń od bluewarrior93. Teraz mam 438.85378741745114 punktów zdrowia.
+
+Ruch 65:
+W tym ruchu chronię sojusznika redguard14.
+Idę na[37.553239   34.88256291]
+Oj! Chroniąc redguard14 otrzymałem 2.4462960187011165 punktów obrażeń od bluewarrior114. Teraz mam 436.40749139875004 punktów zdrowia.
+Oj! Chroniąc redguard14 otrzymałem 2.5142383070426315 punktów obrażeń od bluewarrior115. Teraz mam 433.89325309170744 punktów zdrowia.
+Oj! Chroniąc redguard14 otrzymałem 2.1501426756826074 punktów obrażeń od bluewarrior95. Teraz mam 431.7431104160248 punktów zdrowia.
+Oj! Chroniąc redguard14 otrzymałem 2.52868349576145 punktów obrażeń od bluewarrior114. Teraz mam 429.21442692026335 punktów zdrowia.
+Oj! Chroniąc redguard14 otrzymałem 2.2750937332457024 punktów obrażeń od bluewarrior95. Teraz mam 426.93933318701767 punktów zdrowia.
+Oj! Chroniąc redguard14 otrzymałem 2.556063129789666 punktów obrażeń od bluewarrior112. Teraz mam 424.383270057228 punktów zdrowia.
+Ała! Otrzymałem 7.474563882397624 punktów obrażeń od bluegeneral113. Teraz mam 416.9087061748304 punktów zdrowia.
+
+Ruch 66:
+W tym ruchu chronię sojusznika redguard14.
+Idę na[37.9969474  35.54823764]
+
+Ruch 67:
+W tym ruchu chronię sojusznika redguard14.
+Idę na[37.21683614 35.37096266]
+Ała! Otrzymałem 2.618301555265842 punktów obrażeń od bluewarrior114. Teraz mam 414.2904046195646 punktów zdrowia.
+Oj! Chroniąc redguard14 otrzymałem 3.1353844205046926 punktów obrażeń od bluewarrior90. Teraz mam 411.1550201990599 punktów zdrowia.
+Ała! Otrzymałem 2.39876982260635 punktów obrażeń od bluewarrior95. Teraz mam 408.7562503764535 punktów zdrowia.
+Oj! Chroniąc redguard14 otrzymałem 7.756067379550375 punktów obrażeń od bluegeneral113. Teraz mam 401.00018299690316 punktów zdrowia.
+Oj! Chroniąc redguard14 otrzymałem 2.5284611708352656 punktów obrażeń od bluewarrior96. Teraz mam 398.4717218260679 punktów zdrowia.
+Ała! Otrzymałem 2.53132584186452 punktów obrażeń od bluewarrior86. Teraz mam 395.94039598420335 punktów zdrowia.
+Ała! Otrzymałem 2.517421102947088 punktów obrażeń od bluewarrior95. Teraz mam 393.42297488125627 punktów zdrowia.
+
+Ruch 68:
+W tym ruchu chronię sojusznika redwarrior37.
+Idę na[37.63168975 36.05499226]
+Ała! Otrzymałem 2.361501055426166 punktów obrażeń od bluewarrior121. Teraz mam 391.0614738258301 punktów zdrowia.
+Ała! Otrzymałem 2.618253197784429 punktów obrażeń od bluewarrior96. Teraz mam 388.44322062804565 punktów zdrowia.
+
+Ruch 69:
+W tym ruchu chronię sojusznika redwarrior39.
+Idę na[36.87155894 35.80559065]
+
+Ruch 70:
+W tym ruchu chronię sojusznika redwarrior16.
+Idę na[37.17860961 36.54431922]
+Ała! Otrzymałem 2.844793305672781 punktów obrażeń od bluewarrior88. Teraz mam 385.59842732237286 punktów zdrowia.
+Ała! Otrzymałem 2.6290925608271887 punktów obrażeń od bluewarrior121. Teraz mam 382.96933476154567 punktów zdrowia.
+Ała! Otrzymałem 2.771844486079218 punktów obrażeń od bluewarrior93. Teraz mam 380.19749027546646 punktów zdrowia.
+Ała! Otrzymałem 2.943396108058753 punktów obrażeń od bluewarrior88. Teraz mam 377.2540941674077 punktów zdrowia.
+Ała! Otrzymałem 2.7534147027344344 punktów obrażeń od bluewarrior121. Teraz mam 374.5006794646732 punktów zdrowia.
+Ała! Otrzymałem 3.028845691759334 punktów obrażeń od bluewarrior115. Teraz mam 371.4718337729139 punktów zdrowia.
+
+Ruch 71:
+W tym ruchu chronię sojusznika redguard7.
+Idę na[37.88241768 36.1639849 ]
+Ała! Otrzymałem 2.983497138898133 punktów obrażeń od bluewarrior93. Teraz mam 368.48833663401575 punktów zdrowia.
+
+Ruch 72:
+W tym ruchu chronię sojusznika redwarrior16.
+Idę na[37.16599869 35.80797389]
+Ała! Otrzymałem 2.9815716998449067 punktów obrażeń od bluewarrior95. Teraz mam 365.50676493417086 punktów zdrowia.
+Ała! Otrzymałem 9.272213577823743 punktów obrażeń od bluegeneral113. Teraz mam 356.23455135634714 punktów zdrowia.
+Ała! Otrzymałem 3.0204715726338502 punktów obrażeń od bluewarrior86. Teraz mam 353.2140797837133 punktów zdrowia.
+Ała! Otrzymałem 3.3634453624300225 punktów obrażeń od bluewarrior90. Teraz mam 349.8506344212833 punktów zdrowia.
+Ała! Otrzymałem 3.0516575325005446 punktów obrażeń od bluewarrior88. Teraz mam 346.79897688878276 punktów zdrowia.
+Ała! Otrzymałem 3.4187482426614646 punktów obrażeń od bluewarrior90. Teraz mam 343.3802286461213 punktów zdrowia.
+
+Ruch 73:
+W tym ruchu chronię sojusznika redguard14.
+Idę na[37.89296011 36.14193062]
+Ała! Otrzymałem 2.927440965258535 punktów obrażeń od bluewarrior121. Teraz mam 340.45278768086274 punktów zdrowia.
+Ała! Otrzymałem 3.1525832457063325 punktów obrażeń od bluewarrior88. Teraz mam 337.3002044351564 punktów zdrowia.
+Ała! Otrzymałem 3.091560320443038 punktów obrażeń od bluewarrior93. Teraz mam 334.20864411471337 punktów zdrowia.
+Ała! Otrzymałem 3.089918896700561 punktów obrażeń od bluewarrior95. Teraz mam 331.1187252180128 punktów zdrowia.
+Ała! Otrzymałem 2.640029679551124 punktów obrażeń od blueflagger143. Teraz mam 328.4786955384617 punktów zdrowia.
+Ała! Otrzymałem 3.1209946827177557 punktów obrażeń od bluewarrior96. Teraz mam 325.35770085574393 punktów zdrowia.
+Ała! Otrzymałem 2.75175022754146 punktów obrażeń od blueflagger143. Teraz mam 322.6059506282025 punktów zdrowia.
+Ała! Otrzymałem 3.2085243297572505 punktów obrażeń od bluewarrior95. Teraz mam 319.3974262984452 punktów zdrowia.
+Ała! Otrzymałem 3.1960253555938847 punktów obrażeń od bluewarrior93. Teraz mam 316.20140094285136 punktów zdrowia.
+Ała! Otrzymałem 3.0566751059561637 punktów obrażeń od bluewarrior121. Teraz mam 313.1447258368952 punktów zdrowia.
+
+Ruch 74:
+W tym ruchu chronię sojusznika redguard14.
+Idę na[37.17265237 35.79385483]
+Oj! Chroniąc redguard14 otrzymałem 3.458571623397398 punktów obrażeń od bluewarrior112. Teraz mam 309.6861542134978 punktów zdrowia.
+
+Ruch 75:
+W tym ruchu chronię sojusznika redwarrior16.
+Idę na[37.92517217 35.52235169]
+Ała! Otrzymałem 3.3160331284822973 punktów obrażeń od bluewarrior95. Teraz mam 306.3701210850155 punktów zdrowia.
+Ała! Otrzymałem 3.1799770797437685 punktów obrażeń od bluewarrior121. Teraz mam 303.19014400527175 punktów zdrowia.
+Ała! Otrzymałem 3.302906793780806 punktów obrażeń od bluewarrior93. Teraz mam 299.88723721149097 punktów zdrowia.
+Ała! Otrzymałem 3.409844362877525 punktów obrażeń od bluewarrior93. Teraz mam 296.4773928486134 punktów zdrowia.
+Ała! Otrzymałem 3.4447553831166893 punktów obrażeń od bluewarrior96. Teraz mam 293.03263746549675 punktów zdrowia.
+Ała! Otrzymałem 3.3022226247467406 punktów obrażeń od bluewarrior121. Teraz mam 289.73041484075003 punktów zdrowia.
+Ała! Otrzymałem 3.4263195924245036 punktów obrażeń od bluewarrior95. Teraz mam 286.30409524832555 punktów zdrowia.
+
+Ruch 76:
+W tym ruchu chronię sojusznika redwarrior39.
+Idę na[37.95640823 36.32174165]
+Ała! Otrzymałem 3.423430193994518 punktów obrażeń od bluewarrior121. Teraz mam 282.880665054331 punktów zdrowia.
+Ała! Otrzymałem 7.934753830633541 punktów obrażeń od bluegeneral123. Teraz mam 274.94591122369746 punktów zdrowia.
+
+Ruch 77:
+W tym ruchu chronię sojusznika redguard12.
+Idę na[38.67545001 35.97105816]
+Oj! Chroniąc redguard12 otrzymałem 3.6633948456162346 punktów obrażeń od bluewarrior96. Teraz mam 271.28251637808125 punktów zdrowia.
+Ała! Otrzymałem 3.6461136598888984 punktów obrażeń od bluewarrior95. Teraz mam 267.63640271819236 punktów zdrowia.
+Oj! Chroniąc redguard12 otrzymałem 3.77011548161287 punktów obrażeń od bluewarrior114. Teraz mam 263.86628723657947 punktów zdrowia.
+Oj! Chroniąc redguard12 otrzymałem 3.844396565387166 punktów obrażeń od bluewarrior90. Teraz mam 260.0218906711923 punktów zdrowia.
+Oj! Chroniąc redguard12 otrzymałem 3.5430400863139346 punktów obrażeń od bluewarrior121. Teraz mam 256.4788505848784 punktów zdrowia.
+Ała! Otrzymałem 3.6331535499324423 punktów obrażeń od bluewarrior93. Teraz mam 252.84569703494594 punktów zdrowia.
+Ała! Otrzymałem 8.614154872051001 punktów obrażeń od bluegeneral123. Teraz mam 244.23154216289495 punktów zdrowia.
+Oj! Chroniąc redguard12 otrzymałem 3.6833517175461052 punktów obrażeń od bluewarrior88. Teraz mam 240.54819044534884 punktów zdrowia.
+Ała! Otrzymałem 3.6814822042641957 punktów obrażeń od bluewarrior86. Teraz mam 236.86670824108464 punktów zdrowia.
+Oj! Chroniąc redguard12 otrzymałem 3.8236204576661192 punktów obrażeń od bluewarrior115. Teraz mam 233.0430877834185 punktów zdrowia.
+
+Ruch 78:
+W tym ruchu chronię sojusznika redguard12.
+Idę na[37.90531393 35.75451623]
+Ała! Otrzymałem 11.280176841883552 punktów obrażeń od bluegeneral113. Teraz mam 221.76291094153495 punktów zdrowia.
+Oj! Chroniąc redguard12 otrzymałem 3.759455662115913 punktów obrażeń od bluewarrior95. Teraz mam 218.00345527941903 punktów zdrowia.
+Oj! Chroniąc redguard12 otrzymałem 3.7503634452356245 punktów obrażeń od bluewarrior93. Teraz mam 214.2530918341834 punktów zdrowia.
+Oj! Chroniąc redguard12 otrzymałem 3.79684526456316 punktów obrażeń od bluewarrior88. Teraz mam 210.45624656962025 punktów zdrowia.
+Oj! Chroniąc redguard12 otrzymałem 3.4786708854560966 punktów obrażeń od bluewarrior98. Teraz mam 206.97757568416415 punktów zdrowia.
+Ała! Otrzymałem 9.255247208598444 punktów obrażeń od bluegeneral123. Teraz mam 197.72232847556572 punktów zdrowia.
+Oj! Chroniąc redguard12 otrzymałem 3.945883835082368 punktów obrażeń od bluewarrior90. Teraz mam 193.77644464048336 punktów zdrowia.
+Oj! Chroniąc redguard12 otrzymałem 3.6623576012428973 punktów obrażeń od bluewarrior121. Teraz mam 190.11408703924047 punktów zdrowia.
+Oj! Chroniąc redguard12 otrzymałem 3.9360606199687957 punktów obrażeń od bluewarrior91. Teraz mam 186.17802641927167 punktów zdrowia.
+Ała! Otrzymałem 3.7949382002180925 punktów obrażeń od bluewarrior86. Teraz mam 182.38308821905358 punktów zdrowia.
+
+Ruch 79:
+W tym ruchu chronię sojusznika redguard7.
+Idę na[37.11576162 35.62564749]
+Ała! Otrzymałem 3.8852391561546464 punktów obrażeń od bluewarrior96. Teraz mam 178.49784906289892 punktów zdrowia.
+
+Ruch 80:
+W tym ruchu chronię sojusznika redgeneral38.
+Idę na[36.81770368 34.883245  ]
+Ała! Otrzymałem 3.9212421314163453 punktów obrażeń od bluewarrior86. Teraz mam 174.5766069314826 punktów zdrowia.
+Ała! Otrzymałem 4.054117690956279 punktów obrażeń od bluewarrior90. Teraz mam 170.5224892405263 punktów zdrowia.
+
+Ruch 81:
+W tym ruchu chronię sojusznika redguard7.
+Idę na[36.65588863 34.09978097]
+
+Ruch 82:
+W tym ruchu chronię sojusznika redwarrior10.
+Idę na[37.45566082 34.118871  ]
+
+Ruch 83:
+W tym ruchu chronię sojusznika redguard14.
+Idę na[36.67486666 34.29311355]
+Oj! Chroniąc redguard14 otrzymałem 4.544537315084029 punktów obrażeń od bluewarrior90. Teraz mam 165.97795192544228 punktów zdrowia.
+Ała! Otrzymałem 4.533924499294799 punktów obrażeń od bluewarrior114. Teraz mam 161.44402742614747 punktów zdrowia.
+Oj! Chroniąc redguard14 otrzymałem 13.592807638931292 punktów obrażeń od bluegeneral113. Teraz mam 147.85121978721617 punktów zdrowia.
+Ała! Otrzymałem 4.1321613213527515 punktów obrażeń od blueflagger138. Teraz mam 143.7190584658634 punktów zdrowia.
+
+Ruch 84:
+W tym ruchu chronię sojusznika redwarrior37.
+Idę na[35.94155049 34.61287503]
+Ała! Otrzymałem 4.842522963679433 punktów obrażeń od bluewarrior111. Teraz mam 138.87653550218397 punktów zdrowia.
+Ała! Otrzymałem 4.67433771552271 punktów obrażeń od bluewarrior114. Teraz mam 134.20219778666126 punktów zdrowia.
+
+Ruch 85:
+W tym ruchu chronię sojusznika redgeneral43.
+Idę na[35.17329485 34.3897534 ]
+Do boju! Moje morale są zwiększone przez chorążego redflagger58!
+
+Ruch 86:
+W tym ruchu chronię sojusznika redwarrior10.
+Idę na[35.27088833 33.59572852]
+Ała! Otrzymałem 4.812952749436713 punktów obrażeń od bluewarrior114. Teraz mam 129.38924503722455 punktów zdrowia.
+Ała! Otrzymałem 4.964894934001782 punktów obrażeń od bluewarrior83. Teraz mam 124.42435010322278 punktów zdrowia.
+Do boju! Moje morale są zwiększone przez chorążego redflagger58!
+
+Ruch 87:
+W tym ruchu chronię sojusznika redwarrior36.
+Idę na[35.9859584  33.95444121]
+Do boju! Moje morale są zwiększone przez chorążego redflagger58!
+Oj! Chroniąc redwarrior36 otrzymałem 5.361729866571266 punktów obrażeń od bluewarrior110. Teraz mam 119.06262023665151 punktów zdrowia.
+
+Ruch 88:
+W tym ruchu chronię sojusznika redgeneral33.
+Idę na[35.61562783 33.24531832]
+
+Ruch 89:
+W tym ruchu chronię sojusznika redwarrior6.
+Idę na[36.05835433 33.9116465 ]
+Ała! Otrzymałem 16.542692573489894 punktów obrażeń od bluegeneral108. Teraz mam 102.51992766316161 punktów zdrowia.
+Do boju! Moje morale są zwiększone przez chorążego redflagger58!
+Do boju! Moje morale są zwiększone przez chorążego redflagger58!
+
+Ruch 90:
+W tym ruchu chronię sojusznika redwarrior11.
+Idę na[35.81803461 34.67469724]
+
+Ruch 91:
+W tym ruchu chronię sojusznika redguard24.
+Idę na[35.82220543 35.47468637]
+Oj! Chroniąc redguard24 otrzymałem 5.698153334152096 punktów obrażeń od bluewarrior117. Teraz mam 96.82177432900951 punktów zdrowia.
+Oj! Chroniąc redguard24 otrzymałem 5.731955675802355 punktów obrażeń od bluewarrior116. Teraz mam 91.08981865320716 punktów zdrowia.
+Oj! Chroniąc redguard24 otrzymałem 14.890556542538802 punktów obrażeń od bluegeneral123. Teraz mam 76.19926211066836 punktów zdrowia.
+Oj! Chroniąc redguard24 otrzymałem 5.645286269983043 punktów obrażeń od bluewarrior91. Teraz mam 70.55397584068531 punktów zdrowia.
+Ała! Otrzymałem 5.4732824502306014 punktów obrażeń od bluewarrior88. Teraz mam 65.08069339045471 punktów zdrowia.
+Oj! Chroniąc redguard24 otrzymałem 14.204195203744286 punktów obrażeń od bluegeneral118. Teraz mam 50.87649818671043 punktów zdrowia.
+Oj! Chroniąc redguard24 otrzymałem 5.702339579286245 punktów obrażeń od bluewarrior90. Teraz mam 45.17415860742418 punktów zdrowia.
+Ała! Otrzymałem 5.559611841728722 punktów obrażeń od bluewarrior115. Teraz mam 39.61454676569546 punktów zdrowia.
+Ała! Otrzymałem 5.485416645366916 punktów obrażeń od bluewarrior86. Teraz mam 34.12913012032854 punktów zdrowia.
+Oj! Chroniąc redguard24 otrzymałem 6.098603495801879 punktów obrażeń od bluewarrior116. Teraz mam 28.03052662452666 punktów zdrowia.
+Oj! Chroniąc redguard24 otrzymałem 5.875449710994928 punktów obrażeń od bluewarrior115. Teraz mam 22.155076913531733 punktów zdrowia.
+Ała! Otrzymałem 5.770149248638179 punktów obrażeń od bluewarrior114. Teraz mam 16.384927664893553 punktów zdrowia.
+
+Ruch 92:
+W tym ruchu chronię sojusznika redmarksman61.
+Idę na[35.18837643 34.98656671]
+Ała! Otrzymałem 17.8148259733607 punktów obrażeń od bluegeneral113. Teraz mam -1.4298983084671484 punktów zdrowia.
+Zginąłem, to koniec

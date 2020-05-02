@@ -1,0 +1,956 @@
+Powstałem, jestem redhealer67
+
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 1:
+Idę na[17.53997018 47.65450177]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 2:
+Idę na[18.242199   48.03774409]
+
+Ruch 3:
+Idę na[17.56153987 48.45810483]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 4:
+Idę na[17.8086572  47.69722834]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 5:
+Idę na[18.53788326 47.36824605]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 6:
+Idę na[19.17812577 46.88856956]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 7:
+Idę na[18.56545281 47.40299337]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 8:
+Idę na[19.34266732 47.21342117]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 9:
+Idę na[20.12898964 47.06612148]
+
+Ruch 10:
+Idę na[20.91122175 46.89845238]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 11:
+Idę na[21.64114936 46.57102958]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 12:
+Idę na[21.55142425 47.36598204]
+
+Ruch 13:
+Idę na[22.26868681 47.01167367]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 14:
+Idę na[23.01624487 46.72679309]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 15:
+Idę na[23.76367115 46.44156694]
+
+Ruch 16:
+Idę na[24.47659127 46.07860012]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 17:
+Idę na[25.16499949 45.67105366]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 18:
+Idę na[25.93204165 45.44379537]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 19:
+Idę na[26.68259697 45.16690782]
+
+Ruch 20:
+Idę na[27.34280251 44.71510185]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 21:
+Idę na[28.07588491 44.3948048 ]
+
+Ruch 22:
+Idę na[28.74787849 43.96072574]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 23:
+Idę na[27.94891616 44.00145913]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 24:
+Idę na[28.71858936 43.78327764]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 25:
+Idę na[29.50575603 43.64055887]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 26:
+Idę na[30.24242192 43.32859195]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 27:
+Idę na[30.52579168 42.58045989]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 28:
+Leczę redmarksman66 o 0.4083688245919542. Teraz ma 53.53945800482542
+Idę na[31.2994467  42.37684772]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 29:
+Leczę redmarksman66 o 0.4178712708924296. Teraz ma 53.40427092004168
+Idę na[31.65680718 41.66110092]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 30:
+Leczę redwarrior20 o 0.4287854226699919. Teraz ma 99.67914745818224
+Leczę redwarrior44 o 0.4287854226699919. Teraz ma 98.38664495272053
+Leczę redwarrior45 o 0.4287854226699919. Teraz ma 98.41465581745275
+Leczę redmarksman66 o 0.4287854226699919. Teraz ma 52.71450556314638
+Idę na[32.0670964 42.347878 ]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 31:
+Leczę redguard19 o 0.43723964780511915. Teraz ma 599.696599229163
+Leczę redwarrior20 do pełna. Teraz ma 100.0
+Leczę redwarrior44 o 0.43723964780511915. Teraz ma 96.29209544200062
+Leczę redwarrior45 o 0.43723964780511915. Teraz ma 98.85189546525787
+Leczę redmarksman66 o 0.43723964780511915. Teraz ma 52.56203638249155
+Idę na[32.70474817 41.86476288]
+
+Ruch 32:
+Leczę redwarrior20 o 0.4488562844004499. Teraz ma 99.64892082848482
+Leczę redwarrior44 o 0.4488562844004499. Teraz ma 93.17632785336568
+Leczę redwarrior45 o 0.4488562844004499. Teraz ma 99.30075174965832
+Leczę redmarksman66 o 0.4488562844004499. Teraz ma 53.010892666892
+Idę na[32.91194616 42.63746527]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 33:
+Leczę redwarrior20 do pełna. Teraz ma 100.0
+Leczę redwarrior44 o 0.45899399210208913. Teraz ma 88.42410014288102
+Leczę redwarrior45 o 0.45899399210208913. Teraz ma 98.03768804937908
+Leczę redwarrior47 do pełna. Teraz ma 100.0
+Leczę redmarksman66 o 0.45899399210208913. Teraz ma 52.283751833383626
+Idę na[32.94773099 43.43666453]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 34:
+Leczę redwarrior45 o 0.4692935193484324. Teraz ma 98.50698156872751
+Leczę redmarksman66 o 0.4692935193484324. Teraz ma 52.75304535273206
+Idę na[32.27383739 43.00554109]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 35:
+Leczę redwarrior20 o 0.48079543004105996. Teraz ma 99.5798327369306
+Leczę redguard22 o 0.48079543004105996. Teraz ma 599.6530528462662
+Leczę redwarrior45 o 0.48079543004105996. Teraz ma 98.22310911644225
+Leczę redmarksman66 o 0.48079543004105996. Teraz ma 51.97925610398918
+Idę na[32.9068308  43.49474386]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 36:
+Leczę redwarrior20 o 0.49242015471791. Teraz ma 99.12461249472412
+Leczę redguard22 do pełna. Teraz ma 600.0
+Leczę redwarrior45 o 0.49242015471791. Teraz ma 97.76324192930478
+Leczę redwarrior46 o 0.49242015471791. Teraz ma 99.60631267126229
+Leczę redwarrior49 o 0.49242015471791. Teraz ma 99.75449171691393
+Leczę redmarksman66 o 0.49242015471791. Teraz ma 51.80404378985608
+Idę na[32.85908267 42.69617006]
+
+Ruch 37:
+Leczę redwarrior20 o 0.5068549267841427. Teraz ma 98.68122705774181
+Leczę redwarrior44 o 0.5068549267841427. Teraz ma 78.6194795638666
+Leczę redwarrior45 o 0.5068549267841427. Teraz ma 98.27009685608893
+Leczę redwarrior46 do pełna. Teraz ma 100.0
+Leczę redwarrior49 do pełna. Teraz ma 100.0
+Leczę redmarksman66 o 0.5068549267841427. Teraz ma 51.661264252978256
+Idę na[33.55586414 43.08922933]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 38:
+Leczę redwarrior20 o 0.5223930517929776. Teraz ma 99.20362010953478
+Leczę redguard24 o 0.5223930517929776. Teraz ma 599.556333377696
+Leczę redwarrior44 o 0.5223930517929776. Teraz ma 71.50745458935351
+Leczę redwarrior45 o 0.5223930517929776. Teraz ma 98.7924899078819
+Leczę redwarrior46 do pełna. Teraz ma 100.0
+Leczę redwarrior47 o 0.5223930517929776. Teraz ma 99.50356575557998
+Leczę redwarrior49 o 0.5223930517929776. Teraz ma 99.40143772580713
+Leczę redmarksman66 o 0.5223930517929776. Teraz ma 52.18365730477123
+Idę na[33.09207806 42.43738389]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 39:
+Leczę redwarrior20 o 0.5392333122486541. Teraz ma 99.74285342178344
+Leczę redguard24 do pełna. Teraz ma 600.0
+Leczę redwarrior44 o 0.5392333122486541. Teraz ma 68.03502066771847
+Leczę redwarrior45 o 0.5392333122486541. Teraz ma 98.35519417285715
+Leczę redwarrior49 o 0.5392333122486541. Teraz ma 96.75239266402131
+Leczę redmarksman66 o 0.5392333122486541. Teraz ma 51.29430189008089
+Idę na[32.78879399 41.69710099]
+
+Ruch 40:
+Leczę redwarrior20 do pełna. Teraz ma 100.0
+Leczę redwarrior44 o 0.5598915448533931. Teraz ma 68.59491221257187
+Leczę redwarrior45 o 0.5598915448533931. Teraz ma 98.91508571771055
+Leczę redmarksman66 o 0.5598915448533931. Teraz ma 51.85419343493428
+Idę na[32.98735274 42.47206836]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 41:
+Leczę redwarrior20 o 0.5802799131730685. Teraz ma 99.56700409179567
+Leczę redwarrior44 o 0.5802799131730685. Teraz ma 60.580230121893784
+Leczę redwarrior45 o 0.5802799131730685. Teraz ma 94.46931627550909
+Leczę redwarrior49 o 0.5802799131730685. Teraz ma 94.09963762636177
+Leczę redmarksman66 o 0.5802799131730685. Teraz ma 51.66527440753406
+Idę na[32.55450509 41.79928094]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 42:
+Leczę redwarrior20 do pełna. Teraz ma 100.0
+Leczę redwarrior44 o 0.602038271786641. Teraz ma 61.182268393680424
+Leczę redwarrior45 o 0.602038271786641. Teraz ma 91.37494794704739
+Leczę redmarksman66 o 0.602038271786641. Teraz ma 51.52512537546322
+Idę na[31.82863132 42.13559518]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 43:
+Leczę redwarrior20 o 0.6236784940529994. Teraz ma 99.42638627624532
+Leczę redwarrior44 o 0.6236784940529994. Teraz ma 57.37215323495401
+Leczę redwarrior45 o 0.6236784940529994. Teraz ma 91.99862644110038
+Leczę redwarrior46 o 0.6236784940529994. Teraz ma 99.33309277707257
+Leczę redmarksman66 o 0.6236784940529994. Teraz ma 51.33121370948592
+Idę na[31.78190987 41.33696065]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 44:
+Leczę redguard24 o 0.6481599744167188. Teraz ma 599.365685215199
+Leczę redwarrior44 o 0.6481599744167188. Teraz ma 48.80138091726643
+Leczę redwarrior45 o 0.6481599744167188. Teraz ma 83.94385563239852
+Leczę redmarksman66 o 0.6481599744167188. Teraz ma 51.12283640747099
+Idę na[31.11552362 41.77959975]
+
+Ruch 45:
+Leczę redmarksman66 o 0.6726017511358535. Teraz ma 51.79543815860684
+Idę na[31.80964405 41.3818601 ]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 46:
+Leczę redwarrior20 o 0.7003197221371993. Teraz ma 99.43594238285152
+Leczę redguard24 o 0.7003197221371993. Teraz ma 593.842520894536
+Leczę redwarrior25 o 0.7003197221371993. Teraz ma 96.92398588043551
+Leczę redwarrior44 o 0.7003197221371993. Teraz ma 49.50170063940363
+Leczę redwarrior45 o 0.7003197221371993. Teraz ma 77.78137875052
+Leczę redmarksman66 o 0.7003197221371993. Teraz ma 52.495757880744044
+Idę na[31.22064854 41.92323269]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 47:
+Leczę redwarrior20 o 0.7276611306717242. Teraz ma 98.82618687665561
+Leczę redmarksman66 o 0.7276611306717242. Teraz ma 50.5295788414674
+Idę na[31.954911   41.60565022]
+
+Ruch 48:
+Leczę redwarrior20 o 0.7583010334467843. Teraz ma 99.5844879101024
+Leczę redguard24 o 0.7583010334467843. Teraz ma 593.2285087140776
+Leczę redwarrior25 o 0.7583010334467843. Teraz ma 94.97444953821558
+Leczę redwarrior44 o 0.7583010334467843. Teraz ma 42.18430554803644
+Leczę redwarrior45 o 0.7583010334467843. Teraz ma 71.40547150155636
+Leczę redmarksman66 o 0.7583010334467843. Teraz ma 49.41907269360846
+Idę na[31.4819179  42.25084594]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 49:
+Leczę redwarrior20 o 0.7868307651800842. Teraz ma 99.68787043890282
+Leczę redwarrior45 o 0.7868307651800842. Teraz ma 67.93982494946955
+Leczę redmarksman66 o 0.7868307651800842. Teraz ma 49.27896603013902
+Idę na[31.20291919 41.50107283]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 50:
+Leczę redwarrior20 do pełna. Teraz ma 100.0
+Leczę redmarksman66 o 0.8181172107841047. Teraz ma 48.086225062743665
+Idę na[31.95085229 41.21717834]
+
+Ruch 51:
+Leczę redwarrior20 o 0.8519378483445023. Teraz ma 99.28266740020702
+Leczę redguard24 o 0.8519378483445023. Teraz ma 594.0804465624221
+Leczę redwarrior25 o 0.8519378483445023. Teraz ma 83.95493317870655
+Leczę redwarrior44 o 0.8519378483445023. Teraz ma 41.46504969728255
+Leczę redwarrior45 o 0.8519378483445023. Teraz ma 58.63658976578814
+Leczę redmarksman66 o 0.8519378483445023. Teraz ma 46.832986055586204
+Idę na[31.31064082 41.69689625]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 52:
+Leczę redwarrior20 o 0.8886436473395404. Teraz ma 98.54578488534287
+Leczę redmarksman66 o 0.8886436473395404. Teraz ma 44.36287248941777
+Idę na[32.09015107 41.51699695]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 53:
+Leczę redwarrior20 o 0.9291364601202176. Teraz ma 97.68273396176146
+Leczę redguard24 o 0.9291364601202176. Teraz ma 593.3169566732527
+Leczę redwarrior25 o 0.9291364601202176. Teraz ma 71.56657281750219
+Leczę redwarrior44 o 0.9291364601202176. Teraz ma 35.73876742512098
+Leczę redwarrior45 o 0.9291364601202176. Teraz ma 39.03065128337499
+Leczę redmarksman66 o 0.9291364601202176. Teraz ma 42.91383237888496
+Idę na[31.69655044 42.21347275]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 54:
+Leczę redwarrior20 o 0.9660866302595437. Teraz ma 98.648820592021
+Leczę redwarrior45 o 0.9660866302595437. Teraz ma 39.99673791363454
+Leczę redmarksman66 o 0.9660866302595437. Teraz ma 43.87991900914451
+Idę na[31.57842672 41.42224157]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 55:
+Leczę redwarrior20 o 1.0070623026902583. Teraz ma 97.79748035407233
+Leczę redguard24 o 1.0070623026902583. Teraz ma 592.5559103770697
+Leczę redwarrior44 o 1.0070623026902583. Teraz ma 36.74582972781124
+Leczę redmarksman66 o 1.0070623026902583. Teraz ma 43.63168470038668
+Idę na[30.94535881 41.91134793]
+
+Ruch 56:
+Leczę redwarrior20 o 1.049320542195536. Teraz ma 98.84680089626787
+Leczę redmarksman66 o 1.049320542195536. Teraz ma 42.08798978180571
+Idę na[31.72746425 41.74308893]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 57:
+Leczę redwarrior20 o 1.0918503206713226. Teraz ma 99.93865121693919
+Leczę redguard24 o 1.0918503206713226. Teraz ma 593.6477606977411
+Leczę redwarrior44 o 1.0918503206713226. Teraz ma 35.872882365431174
+Leczę redwarrior45 o 1.0918503206713226. Teraz ma 17.065258935336473
+Leczę redmarksman66 o 1.0918503206713226. Teraz ma 40.46441288673502
+Idę na[31.25027312 42.38518598]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 58:
+Leczę redwarrior20 o 1.1397974209962043. Teraz ma 98.92899552802469
+Leczę redmarksman66 o 1.1397974209962043. Teraz ma 38.75906782396522
+Idę na[30.87446579 41.67895029]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 59:
+Leczę redguard24 o 1.1889970569514041. Teraz ma 594.8367577546925
+Leczę redmarksman66 o 1.1889970569514041. Teraz ma 38.44186174888932
+Idę na[31.65700176 41.51270512]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 60:
+Leczę redwarrior20 o 1.2314684313734876. Teraz ma 97.92653551117391
+Leczę redguard24 o 1.2314684313734876. Teraz ma 596.068226186066
+Leczę redwarrior44 o 1.2314684313734876. Teraz ma 30.80230697247864
+Leczę redmarksman66 o 1.2314684313734876. Teraz ma 36.608139007272655
+Idę na[31.06372888 42.04938687]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 61:
+Leczę redwarrior20 o 1.2731577819169764. Teraz ma 96.87897911466354
+Leczę redmarksman66 o 1.2731577819169764. Teraz ma 36.2764190177029
+Idę na[31.81678213 41.77936687]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 62:
+Leczę redwarrior20 o 1.3194089761269148. Teraz ma 93.31387275433717
+Leczę redwarrior25 o 1.3194089761269148. Teraz ma 41.660593896541364
+Leczę redwarrior44 o 1.3194089761269148. Teraz ma 18.35367582038929
+Leczę redwarrior46 do pełna. Teraz ma 100.0
+Leczę redmarksman66 o 1.3194089761269148. Teraz ma 34.27248674645099
+Idę na[31.37714989 42.44774064]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 63:
+Leczę redwarrior20 o 1.3649804349915045. Teraz ma 94.67885318932868
+Leczę redmarksman66 o 1.3649804349915045. Teraz ma 35.63746718144249
+Idę na[31.01368317 41.73507525]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 64:
+Leczę redwarrior20 o 1.4152750935165392. Teraz ma 96.09412828284522
+Leczę redguard24 o 1.4152750935165392. Teraz ma 597.4835012795826
+Leczę redmarksman66 o 1.4152750935165392. Teraz ma 35.30973658267913
+Idę na[31.7461933  41.41347158]
+
+Ruch 65:
+Leczę redwarrior20 o 1.464786926075318. Teraz ma 97.55891520892054
+Leczę redguard24 o 1.464786926075318. Teraz ma 598.948288205658
+Leczę redwarrior25 o 1.464786926075318. Teraz ma 19.42258908448636
+Leczę redwarrior44 o 1.464786926075318. Teraz ma 12.401177744153538
+Leczę redmarksman66 o 1.464786926075318. Teraz ma 36.77452350875445
+Idę na[31.13849496 41.93376259]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 66:
+Leczę redwarrior20 o 1.515550687018304. Teraz ma 93.62099865884808
+Leczę redwarrior47 o 1.515550687018304. Teraz ma 98.79173569106197
+Leczę redmarksman66 o 1.515550687018304. Teraz ma 32.811018638717954
+Idę na[31.84644205 41.56118922]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 67:
+Leczę redwarrior20 o 1.5696838192935636. Teraz ma 96.63300461470901
+Leczę redguard24 do pełna. Teraz ma 600.0
+Leczę redwarrior25 o 1.5696838192935636. Teraz ma 18.260236950521538
+Leczę redwarrior44 o 1.5696838192935636. Teraz ma 2.9236228609780794
+Leczę redwarrior47 do pełna. Teraz ma 100.0
+Leczę redmarksman66 o 1.5696838192935636. Teraz ma 30.52303698519737
+Idę na[31.31387828 42.15816144]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 68:
+Leczę redwarrior20 o 1.6232238486400135. Teraz ma 98.25622846334902
+Leczę redguard24 o 1.6232238486400135. Teraz ma 598.6981189857613
+Leczę redmarksman66 o 1.6232238486400135. Teraz ma 30.105207869686573
+Idę na[30.99970678 41.42243305]
+
+Ruch 69:
+Leczę redwarrior20 o 1.6735523601180204. Teraz ma 96.63719893210896
+Leczę redwarrior47 o 1.6735523601180204. Teraz ma 95.48837901090646
+Leczę redmarksman66 o 1.6735523601180204. Teraz ma 29.765799012060928
+Idę na[31.743796   41.12861129]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 70:
+Leczę redwarrior20 o 1.7374522205098542. Teraz ma 95.2332473516799
+Leczę redguard24 do pełna. Teraz ma 600.0
+Leczę redwarrior47 o 1.7374522205098542. Teraz ma 97.22583123141631
+Leczę redmarksman66 o 1.7374522205098542. Teraz ma 27.2348870612896
+Idę na[31.00029594 41.42392072]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 71:
+Leczę redwarrior20 o 1.7915513802780307. Teraz ma 98.86313764951359
+Leczę redmarksman66 o 1.7915513802780307. Teraz ma 24.576834280353854
+Idę na[31.76168801 41.17839658]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 72:
+Leczę redwarrior20 o 1.8550150012770528. Teraz ma 97.37557858112704
+Leczę redguard24 o 1.8550150012770528. Teraz ma 598.338697958742
+Leczę redwarrior47 o 1.8550150012770528. Teraz ma 98.20229931224038
+Leczę redmarksman66 o 1.8550150012770528. Teraz ma 19.477332665704104
+Idę na[31.04248225 41.52874365]
+
+Ruch 73:
+Leczę redwarrior20 o 1.9082840315086163. Teraz ma 99.28386261263566
+Leczę redwarrior47 o 1.9082840315086163. Teraz ma 96.42090938123914
+Leczę redmarksman66 o 1.9082840315086163. Teraz ma 21.38561669721272
+Idę na[31.78426501 41.22914669]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 74:
+Leczę redguard24 o 1.9749701669248156. Teraz ma 589.8324780296513
+Leczę redwarrior47 do pełna. Teraz ma 100.0
+Leczę redmarksman66 o 1.9749701669248156. Teraz ma 15.987750960319861
+Idę na[31.11033525 41.6602136 ]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 75:
+Leczę redwarrior20 o 2.038303627987894. Teraz ma 98.00247621908674
+Leczę redwarrior47 o 2.038303627987894. Teraz ma 96.51714056348455
+Leczę redmarksman66 o 2.038303627987894. Teraz ma 12.865113609642826
+Idę na[31.86289021 41.38880792]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 76:
+Leczę redwarrior20 do pełna. Teraz ma 100.0
+Leczę redguard24 o 2.1006020939180434. Teraz ma 581.4509442824096
+Leczę redwarrior47 o 2.1006020939180434. Teraz ma 98.61774265740259
+Leczę redmarksman66 o 2.1006020939180434. Teraz ma 14.96571570356087
+Idę na[31.29454573 41.95182174]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 77:
+Leczę redwarrior47 o 2.1654449789938384. Teraz ma 94.9176485317414
+Leczę redmarksman66 o 2.1654449789938384. Teraz ma 11.755245932235983
+Leczę redhealer69 o 2.1654449789938384. Teraz ma 117.96357043180906
+Idę na[32.03031153 41.63773785]
+
+Ruch 78:
+Leczę redguard24 o 2.2315717640183745. Teraz ma 579.5229827015855
+Leczę redwarrior46 o 2.2315717640183745. Teraz ma 97.99278018530562
+Leczę redwarrior47 o 2.2315717640183745. Teraz ma 97.14922029575978
+Leczę redmarksman66 o 2.2315717640183745. Teraz ma 11.22749771497781
+Idę na[31.66574536 42.34984143]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 79:
+Leczę redwarrior47 o 2.2973689294387243. Teraz ma 99.4465892251985
+Leczę redmarksman66 o 2.2973689294387243. Teraz ma 10.6856347107621
+Idę na[31.49732093 41.56777161]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 80:
+Leczę redguard24 o 2.3714661658218623. Teraz ma 581.8944488674074
+Leczę redmarksman66 o 2.3714661658218623. Teraz ma 4.276130187421801
+Idę na[32.2044056 41.1935641]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 81:
+Leczę redguard24 o 2.448014615567062. Teraz ma 584.3424634829745
+Idę na[32.89974333 40.79795641]
+
+Ruch 82:
+Leczę redwarrior15 o 2.54385619196752. Teraz ma 19.801881538159343
+Leczę redguard24 o 2.54385619196752. Teraz ma 586.886319674942
+Leczę redwarrior41 o 2.54385619196752. Teraz ma 45.83789022437216
+Leczę redhealer72 o 2.54385619196752. Teraz ma 57.41774160384015
+Idę na[32.10028042 40.82726601]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 83:
+Leczę redwarrior15 o 2.626967935363422. Teraz ma 18.021471997435714
+Leczę redguard24 o 2.626967935363422. Teraz ma 589.5132876103054
+Leczę redwarrior46 o 2.626967935363422. Teraz ma 96.60744433276594
+Idę na[32.6333534  40.23074845]
+
+Ruch 84:
+Leczę redwarrior15 o 2.717866669807196. Teraz ma 20.73933866724291
+Leczę redguard24 o 2.717866669807196. Teraz ma 592.2311542801126
+Leczę redwarrior41 o 2.717866669807196. Teraz ma 44.068839138009544
+Leczę redwarrior42 o 2.717866669807196. Teraz ma 90.70390463091074
+Leczę redwarrior46 o 2.717866669807196. Teraz ma 99.32531100257313
+Leczę redhealer72 o 2.717866669807196. Teraz ma 56.97458478822081
+Idę na[31.83875276 40.13795932]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 85:
+Leczę redwarrior15 o 2.8158816850542596. Teraz ma 26.340724600401302
+Leczę redguard19 o 2.8158816850542596. Teraz ma 586.0188744838198
+Leczę redguard24 o 2.8158816850542596. Teraz ma 595.0470359651669
+Leczę redwarrior41 o 2.8158816850542596. Teraz ma 37.79337202985825
+Leczę redwarrior46 do pełna. Teraz ma 100.0
+Idę na[32.49219478 39.67642544]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+Namierzył mnie bluemarksman141! Zadał mi 3.4930340629529475 punktów obrażeń. Teraz mam 116.50696593704706 punktów zdrowia.
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 86:
+Leczę redwarrior15 o 2.9188485385259293. Teraz ma 22.775186417035727
+Leczę redguard17 o 2.9188485385259293. Teraz ma 557.1302868734537
+Leczę redguard24 o 2.9188485385259293. Teraz ma 591.575717169541
+Leczę redwarrior40 o 2.9188485385259293. Teraz ma 56.56335075242182
+Leczę redwarrior41 o 2.9188485385259293. Teraz ma 43.70652875172504
+Leczę redwarrior42 o 2.9188485385259293. Teraz ma 93.62275316943668
+Leczę redwarrior47 o 2.9188485385259293. Teraz ma 96.20542315958727
+Idę na[32.47512273 40.47624326]
+Namierzył mnie bluemarksman145! Zadał mi 3.7477123681281403 punktów obrażeń. Teraz mam 112.75925356891892 punktów zdrowia.
+
+Ruch 87:
+Leczę redwarrior15 o 3.0651992633682634. Teraz ma 20.95061857006902
+Leczę redguard17 o 3.0651992633682634. Teraz ma 560.195486136822
+Leczę redwarrior41 o 3.0651992633682634. Teraz ma 46.7717280150933
+Leczę redwarrior47 do pełna. Teraz ma 100.0
+Idę na[31.75786165 40.12193189]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 88:
+Leczę redwarrior15 o 3.2046805034248207. Teraz ma 18.99989967542801
+Leczę redwarrior41 o 3.2046805034248207. Teraz ma 49.97640851851812
+Idę na[32.42205382 39.67600728]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+Namierzył mnie bluemarksman141! Zadał mi 3.7484532488903217 punktów obrażeń. Teraz mam 109.0108003200286 punktów zdrowia.
+
+Ruch 89:
+Leczę redwarrior15 o 3.2854036302384633. Teraz ma 20.240057444473038
+Leczę redguard17 o 3.2854036302384633. Teraz ma 566.7967465999891
+Leczę redwarrior40 o 3.2854036302384633. Teraz ma 44.10335796077537
+Leczę redwarrior41 o 3.2854036302384633. Teraz ma 56.62116845646271
+Leczę redwarrior42 o 3.2854036302384633. Teraz ma 86.29445609827528
+Idę na[31.66483431 39.41790148]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 90:
+Leczę redwarrior15 o 3.4356478346682437. Teraz ma 27.207106863811905
+Leczę redwarrior41 o 3.4356478346682437. Teraz ma 54.562063492471
+Leczę redwarrior42 o 3.4356478346682437. Teraz ma 89.73010393294352
+Idę na[31.3906167  40.16943638]
+
+Ruch 91:
+Idę na[30.63149699 39.91697398]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 92:
+Idę na[31.30093542 39.47896462]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 93:
+Leczę redwarrior42 o 3.6796832296420887. Teraz ma 93.40978716258562
+Idę na[31.25361442 40.27756385]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 94:
+Idę na[31.88822804 39.79046473]
+
+Ruch 95:
+Leczę redwarrior15 o 3.8689576059105595. Teraz ma 24.790140973446192
+Leczę redwarrior41 o 3.8689576059105595. Teraz ma 45.74546812548003
+Leczę redwarrior42 o 3.8689576059105595. Teraz ma 91.2045281825036
+Leczę redwarrior46 o 3.8689576059105595. Teraz ma 91.28416985264127
+Idę na[31.12669054 40.03553746]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 96:
+Idę na[31.72263345 39.50182214]
+
+Ruch 97:
+Leczę redwarrior15 o 4.099499221690499. Teraz ma 22.30227944796689
+Leczę redguard17 o 4.099499221690499. Teraz ma 578.0421409011328
+Leczę redwarrior41 o 4.099499221690499. Teraz ma 49.84496734717053
+Leczę redwarrior42 o 4.099499221690499. Teraz ma 95.30402740419409
+Idę na[31.22120529 40.1251758 ]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 98:
+Idę na[31.84868398 39.62891933]
+
+Ruch 99:
+Leczę redwarrior15 o 4.369452017682554. Teraz ma 19.158232069062993
+Leczę redwarrior41 o 4.369452017682554. Teraz ma 54.214419364853086
+Leczę redwarrior42 o 4.369452017682554. Teraz ma 99.67347942187664
+Leczę redwarrior49 do pełna. Teraz ma 100.0
+Leczę redhealer69 o 4.369452017682554. Teraz ma 97.87766341716747
+Idę na[31.45910459 40.32765239]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+redhealer69 uleczył mnie do 113.5365836765069 punktów hp.
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+redhealer69 uleczył mnie do 118.17974327088481 punktów hp.
+
+Ruch 100:
+Leczę redguard19 o 4.473584339391088. Teraz ma 589.16289871558
+Leczę redhealer69 o 4.473584339391088. Teraz ma 95.88069325588455
+Idę na[30.65987243 40.29261027]
+redhealer69 uleczył mnie do pełna, mam 120.0 punktów życia.
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 101:
+Idę na[31.34081214 39.8727042 ]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 102:
+Leczę redguard19 o 4.6811941202343235. Teraz ma 572.7189281904637
+Leczę redhealer69 o 4.6811941202343235. Teraz ma 92.53011266213643
+Idę na[30.61725036 39.53144427]
+
+Ruch 103:
+Leczę redguard19 o 4.793505489853924. Teraz ma 587.2226215689486
+Idę na[31.36919779 39.25835991]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 104:
+Leczę redguard19 o 4.925811875856213. Teraz ma 592.1484334448048
+Idę na[32.09507859 38.92206085]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 105:
+Leczę redwarrior16 o 5.046427936390883. Teraz ma 28.47914521071244
+Leczę redguard19 do pełna. Teraz ma 600.0
+Leczę redwarrior42 o 5.046427936390883. Teraz ma 96.61324053782258
+Leczę redwarrior49 do pełna. Teraz ma 100.0
+Leczę redhealer69 o 5.046427936390883. Teraz ma 87.51253533394035
+Idę na[31.32771609 38.69588661]
+
+Ruch 106:
+Leczę redwarrior42 do pełna. Teraz ma 100.0
+Idę na[31.3229701  39.49587254]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 107:
+Idę na[32.03329063 39.12784435]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 108:
+Leczę redgeneral48 o 5.345138829076899. Teraz ma 292.84664111294614
+Leczę redhealer69 o 5.345138829076899. Teraz ma 88.44165167332203
+Idę na[32.71006599 38.70125894]
+
+Ruch 109:
+Leczę redwarrior23 o 5.468393545752053. Teraz ma 46.87653179046123
+Leczę redwarrior46 o 5.468393545752053. Teraz ma 6.918742489759768
+Leczę redgeneral48 o 5.468393545752053. Teraz ma 298.3150346586982
+Leczę redhealer69 o 5.468393545752053. Teraz ma 87.25258375978277
+Idę na[33.18733424 38.05921921]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 110:
+Leczę redwarrior20 o 5.6050551083135955. Teraz ma 64.92425141937524
+Leczę redwarrior23 o 5.6050551083135955. Teraz ma 57.59638680434435
+Leczę redgeneral38 o 5.6050551083135955. Teraz ma 171.27887478158368
+Leczę redwarrior46 o 5.6050551083135955. Teraz ma 28.252376410064524
+Leczę redgeneral48 o 5.6050551083135955. Teraz ma 297.13643782032864
+Idę na[32.57035839 38.56847435]
+
+Ruch 111:
+Leczę redguard19 o 5.7221017369993525. Teraz ma 597.0368730854308
+Leczę redwarrior20 o 5.7221017369993525. Teraz ma 70.64635315637459
+Leczę redwarrior23 o 5.7221017369993525. Teraz ma 35.5573620255983
+Leczę redgeneral48 do pełna. Teraz ma 300.0
+Leczę redhealer69 o 5.7221017369993525. Teraz ma 108.2993109892368
+Idę na[33.09160417 37.96159476]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 112:
+Leczę redguard19 o 5.891315870543479. Teraz ma 566.933697150618
+Leczę redwarrior20 o 5.891315870543479. Teraz ma 54.18331052343517
+Leczę redwarrior23 o 5.891315870543479. Teraz ma 17.433934349116473
+Leczę redgeneral38 o 5.891315870543479. Teraz ma 169.07869125421152
+Leczę redwarrior46 o 5.891315870543479. Teraz ma 26.173208522442124
+Leczę redgeneral48 o 5.891315870543479. Teraz ma 288.9310628348306
+Leczę redhealer69 o 5.891315870543479. Teraz ma 119.62561796814795
+Idę na[32.89014109 37.18737733]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 113:
+Leczę redwarrior13 o 6.053924823007832. Teraz ma 78.54334700009007
+Leczę redguard19 o 6.053924823007832. Teraz ma 572.9876219736258
+Leczę redwarrior20 o 6.053924823007832. Teraz ma 37.068380717267935
+Leczę redwarrior23 o 6.053924823007832. Teraz ma 23.487859172124306
+Leczę redgeneral38 o 6.053924823007832. Teraz ma 160.4629557651876
+Leczę redgeneral48 o 6.053924823007832. Teraz ma 287.7092838055136
+Idę na[32.54909073 37.91103793]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 114:
+Leczę redguard19 o 6.202772136143688. Teraz ma 579.1903941097695
+Leczę redwarrior20 o 6.202772136143688. Teraz ma 55.05807015430914
+Leczę redgeneral48 o 6.202772136143688. Teraz ma 261.93173269564505
+Idę na[31.85981478 38.31711509]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 115:
+Leczę redguard19 o 6.322963003811542. Teraz ma 585.513357113581
+Leczę redwarrior20 o 6.322963003811542. Teraz ma 61.38103315812069
+Idę na[31.20246873 38.77307142]
+
+Ruch 116:
+Leczę redguard19 o 6.409673925978493. Teraz ma 591.9230310395595
+Idę na[31.85092886 38.30456373]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 117:
+Leczę redguard19 o 6.526206737648135. Teraz ma 598.4492377772077
+Leczę redwarrior20 o 6.526206737648135. Teraz ma 79.85009837019764
+Idę na[32.41430391 37.73657732]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 118:
+Leczę redwarrior20 o 6.6500748063276385. Teraz ma 99.03024684595837
+Leczę redwarrior42 o 6.6500748063276385. Teraz ma 37.610155029452436
+Leczę redgeneral48 o 6.6500748063276385. Teraz ma 204.3670851526363
+Idę na[31.67884401 37.42177781]
+
+Ruch 119:
+Idę na[32.43850021 37.67262131]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 120:
+Leczę redwarrior20 o 6.911998096315343. Teraz ma 70.95126652958044
+Leczę redgeneral38 o 6.911998096315343. Teraz ma 114.69935537482273
+Leczę redgeneral48 o 6.911998096315343. Teraz ma 197.96629022284034
+Idę na[32.82679856 36.97317553]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 121:
+Leczę redguard19 o 7.050031325003909. Teraz ma 593.6861347209989
+Leczę redwarrior20 o 7.050031325003909. Teraz ma 41.99788346820862
+Leczę redgeneral38 o 7.050031325003909. Teraz ma 103.3525520392059
+Leczę redgeneral48 o 7.050031325003909. Teraz ma 211.8084298288097
+Idę na[32.85874682 36.17381372]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 122:
+Leczę redwarrior13 o 7.191249869415933. Teraz ma 63.019023708285815
+Leczę redwarrior18 o 7.191249869415933. Teraz ma 39.213656789752314
+Leczę redwarrior20 o 7.191249869415933. Teraz ma 77.03658845322431
+Leczę redgeneral38 o 7.191249869415933. Teraz ma 117.51050613101668
+Leczę redwarrior47 o 7.191249869415933. Teraz ma 91.56676940189048
+Leczę redgeneral48 o 7.191249869415933. Teraz ma 240.0573536885085
+Idę na[32.5451325  36.90977979]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 123:
+Leczę redguard19 o 7.337231172198639. Teraz ma 567.812065119311
+Leczę redwarrior20 o 7.337231172198639. Teraz ma 60.2459389470623
+Leczę redgeneral38 o 7.337231172198639. Teraz ma 69.34689549976868
+Leczę redgeneral48 o 7.337231172198639. Teraz ma 254.6835998150212
+Idę na[31.76584926 37.09065991]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 124:
+Leczę redguard19 o 7.490080259793848. Teraz ma 590.0781200501013
+Idę na[30.96714018 37.13608909]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 125:
+Idę na[31.75787643 37.01469645]
+
+Ruch 126:
+Idę na[31.02330143 36.69783754]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 127:
+Idę na[31.7600557  36.38607939]
+
+Ruch 128:
+Idę na[31.06636472 36.78456756]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 129:
+Idę na[31.16750404 37.57814859]
+
+Ruch 130:
+Idę na[31.94637394 37.39549679]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 131:
+Idę na[31.29887357 37.86533004]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 132:
+Idę na[32.04777701 37.58400524]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 133:
+Idę na[32.83594796 37.44694121]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 134:
+Idę na[33.61052598 37.24686899]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 135:
+Idę na[33.28537277 37.97781043]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 136:
+Idę na[32.48557275 37.99569678]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 137:
+Idę na[33.2577782  37.78665435]
+
+Ruch 138:
+Idę na[32.46839987 37.91658452]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 139:
+Idę na[33.10824664 38.39678877]
+
+Ruch 140:
+Idę na[33.86377217 38.13376563]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 141:
+Idę na[34.6636211  38.14931164]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 142:
+Idę na[34.07058781 37.61236517]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 143:
+Idę na[34.80492591 37.92977272]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 144:
+Idę na[35.4231391  37.42202037]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 145:
+Idę na[36.21500832 37.30825245]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 146:
+Idę na[36.82645724 36.79237435]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 147:
+Idę na[37.54609374 37.1418358 ]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 148:
+Idę na[36.80920299 37.45327123]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 149:
+Idę na[36.76769108 36.65434898]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 150:
+Idę na[36.98645979 37.42385547]
+
+Ruch 151:
+Idę na[37.73086865 37.13084445]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 152:
+Idę na[38.37157348 37.60990323]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 153:
+Idę na[39.1702244  37.65634369]
+
+Ruch 154:
+Idę na[39.95531287 37.50260338]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 155:
+Idę na[39.27401611 37.08327688]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 156:
+Idę na[39.72573853 37.7435396 ]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!
+
+Ruch 157:
+Idę na[38.92864461 37.81166654]
+Do boju! Moje morale są zwiększone przez chorążego redflagger68!

@@ -1,0 +1,608 @@
+Powstałem, jestem bluemarksman131
+
+
+Ruch 1:
+Idę na[51.01507185 18.83394092]
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+
+Ruch 2:
+Idę na[50.03467335 19.18095502]
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+
+Ruch 3:
+Idę na[49.00330807 19.31469228]
+
+Ruch 4:
+Idę na[47.9719049  19.44813703]
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+
+Ruch 5:
+Idę na[47.03260522 19.89458537]
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+
+Ruch 6:
+Idę na[46.15077329 20.44592233]
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+
+Ruch 7:
+Idę na[45.27798173 21.0114618 ]
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+
+Ruch 8:
+Idę na[44.41436537 21.59091567]
+
+Ruch 9:
+Idę na[43.54935631 22.16828843]
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+
+Ruch 10:
+Idę na[42.70713582 22.77842338]
+
+Ruch 11:
+Idę na[41.86606525 23.39014251]
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+
+Ruch 12:
+Idę na[41.03985222 24.02178484]
+
+Ruch 13:
+Idę na[40.22461878 24.66753591]
+
+Ruch 14:
+Idę na[39.4510407  25.36264521]
+
+Ruch 15:
+Idę na[38.69185    26.07344018]
+
+Ruch 16:
+Idę na[37.91780932 26.76803432]
+
+Ruch 17:
+Celuję we wroga redmarksman56...
+Tak, trafiłem go! Zadałem mu 0.35716806690683583 punktów obrażeń.
+Namierzył mnie redmarksman56! Zadał mi 0.3885612333499216 punktów obrażeń. Teraz mam 59.61143876665008 punktów zdrowia.
+
+Ruch 18:
+Celuję we wroga redmarksman56...
+O nie, chybiłem! Co za wstyd!
+
+Ruch 19:
+Celuję we wroga redmarksman56...
+O nie, chybiłem! Co za wstyd!
+Namierzył mnie redmarksman56! Zadał mi 0.3995523313983768 punktów obrażeń. Teraz mam 59.21188643525171 punktów zdrowia.
+
+Ruch 20:
+Celuję we wroga redmarksman56...
+O nie, chybiłem! Co za wstyd!
+Namierzył mnie redmarksman56! Zadał mi 0.43074784019219337 punktów obrażeń. Teraz mam 58.78113859505952 punktów zdrowia.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+
+Ruch 21:
+Celuję we wroga redmarksman56...
+O nie, chybiłem! Co za wstyd!
+Namierzył mnie redmarksman56! Zadał mi 0.45599529089001123 punktów obrażeń. Teraz mam 58.32514330416951 punktów zdrowia.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+
+Ruch 22:
+Celuję we wroga redmarksman56...
+Tak, trafiłem go! Zadałem mu 0.40896241019442336 punktów obrażeń.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+Namierzył mnie redmarksman56! Zadał mi 0.48578728324958964 punktów obrażeń. Teraz mam 57.839356020919915 punktów zdrowia.
+
+Ruch 23:
+Celuję we wroga redmarksman56...
+Tak, trafiłem go! Zadałem mu 0.4370507630622146 punktów obrażeń.
+
+Ruch 24:
+Celuję we wroga redmarksman56...
+O nie, chybiłem! Co za wstyd!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+Namierzył mnie redmarksman56! Zadał mi 0.5138235259378089 punktów obrażeń. Teraz mam 57.325532494982106 punktów zdrowia.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+bluehealer134 uleczył mnie do 57.70552397809309 punktów hp.
+
+Ruch 25:
+Celuję we wroga redmarksman56...
+O nie, chybiłem! Co za wstyd!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+bluehealer134 uleczył mnie do 58.09225444550007 punktów hp.
+
+Ruch 26:
+Celuję we wroga redmarksman56...
+Tak, trafiłem go! Zadałem mu 0.4751369989731549 punktów obrażeń.
+
+Ruch 27:
+Celuję we wroga redmarksman56...
+Tak, trafiłem go! Zadałem mu 0.4914665027047897 punktów obrażeń.
+bluehealer134 uleczył mnie do 58.487080619711726 punktów hp.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+
+Ruch 28:
+Celuję we wroga redmarksman56...
+O nie, chybiłem! Co za wstyd!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+bluehealer134 uleczył mnie do 58.89046274935036 punktów hp.
+bluehealer134 uleczył mnie do 59.30306794415837 punktów hp.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+
+Ruch 29:
+Celuję we wroga redmarksman56...
+Tak, trafiłem go! Zadałem mu 0.5116436954467245 punktów obrażeń.
+Namierzył mnie redmarksman56! Zadał mi 0.5470697757674489 punktów obrażeń. Teraz mam 58.755998168390924 punktów zdrowia.
+Namierzył mnie redmarksman56! Zadał mi 0.5724651984998712 punktów obrażeń. Teraz mam 58.183532969891054 punktów zdrowia.
+
+Ruch 30:
+Celuję we wroga redmarksman56...
+Tak, trafiłem go! Zadałem mu 0.5404260263185894 punktów obrażeń.
+bluehealer134 uleczył mnie do 58.6068648420827 punktów hp.
+bluehealer132 uleczył mnie do 59.02496560912256 punktów hp.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+bluehealer134 uleczył mnie do 59.45933393463087 punktów hp.
+
+Ruch 31:
+Celuję we wroga redmarksman56...
+Tak, trafiłem go! Zadałem mu 0.5679103634486956 punktów obrażeń.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+
+Ruch 32:
+Celuję we wroga redmarksman56...
+Tak, trafiłem go! Zadałem mu 0.5837249693119732 punktów obrażeń.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+bluehealer134 uleczył mnie do 59.906348700951874 punktów hp.
+Namierzył mnie redmarksman56! Zadał mi 0.6067023293715554 punktów obrażeń. Teraz mam 59.299646371580316 punktów zdrowia.
+bluehealer134 uleczył mnie do 59.758874352567304 punktów hp.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+
+Ruch 33:
+Celuję we wroga redmarksman56...
+Tak, trafiłem go! Zadałem mu 0.6100095136984994 punktów obrażeń.
+Namierzył mnie redmarksman56! Zadał mi 0.6330042640125394 punktów obrażeń. Teraz mam 59.12587008855476 punktów zdrowia.
+bluehealer132 uleczył mnie do 59.570621780175685 punktów hp.
+
+Ruch 34:
+Celuję we wroga redmarksman56...
+Tak, trafiłem go! Zadałem mu 0.6353426002546104 punktów obrażeń.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+bluehealer134 uleczył mnie do pełna, mam 60.0 punktów życia.
+
+Ruch 35:
+Celuję we wroga redgeneral28...
+Tak, trafiłem go! Zadałem mu 0.6484736362150223 punktów obrażeń.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+
+Ruch 36:
+Celuję we wroga redgeneral28...
+O nie, chybiłem! Co za wstyd!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+
+Ruch 37:
+Celuję we wroga redgeneral28...
+O nie, chybiłem! Co za wstyd!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+
+Ruch 38:
+Celuję we wroga redgeneral28...
+Tak, trafiłem go! Zadałem mu 0.6735043813741766 punktów obrażeń.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+
+Ruch 39:
+Celuję we wroga redgeneral28...
+O nie, chybiłem! Co za wstyd!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+
+Ruch 40:
+Celuję we wroga redgeneral28...
+Tak, trafiłem go! Zadałem mu 0.7097811806550854 punktów obrażeń.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+
+Ruch 41:
+Celuję we wroga redgeneral28...
+Tak, trafiłem go! Zadałem mu 0.7401853738812362 punktów obrażeń.
+
+Ruch 42:
+Celuję we wroga redmarksman56...
+Tak, trafiłem go! Zadałem mu 0.7707098485139576 punktów obrażeń.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+
+Ruch 43:
+Celuję we wroga redflagger53...
+Tak, trafiłem go! Zadałem mu 0.8027905856771815 punktów obrażeń.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+
+Ruch 44:
+Celuję we wroga redflagger53...
+Tak, trafiłem go! Zadałem mu 0.834836476776075 punktów obrażeń.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+
+Ruch 45:
+Celuję we wroga redflagger53...
+O nie, chybiłem! Co za wstyd!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+
+Ruch 46:
+Celuję we wroga redmarksman56...
+Tak, trafiłem go! Zadałem mu 0.8841061977088833 punktów obrażeń.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+
+Ruch 47:
+Celuję we wroga redflagger53...
+Tak, trafiłem go! Zadałem mu 0.924563372873085 punktów obrażeń.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+
+Ruch 48:
+Celuję we wroga redflagger53...
+O nie, chybiłem! Co za wstyd!
+
+Ruch 49:
+Celuję we wroga redflagger53...
+O nie, chybiłem! Co za wstyd!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+
+Ruch 50:
+Celuję we wroga redflagger53...
+Tak, trafiłem go! Zadałem mu 1.0114130003807782 punktów obrażeń.
+
+Ruch 51:
+Celuję we wroga redflagger53...
+O nie, chybiłem! Co za wstyd!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+
+Ruch 52:
+Celuję we wroga redgeneral28...
+Tak, trafiłem go! Zadałem mu 1.0919901860912526 punktów obrażeń.
+
+Ruch 53:
+Celuję we wroga redgeneral28...
+O nie, chybiłem! Co za wstyd!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+
+Ruch 54:
+Celuję we wroga redgeneral28...
+Tak, trafiłem go! Zadałem mu 1.1765250015095634 punktów obrażeń.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+
+Ruch 55:
+Celuję we wroga redgeneral28...
+O nie, chybiłem! Co za wstyd!
+
+Ruch 56:
+Celuję we wroga redgeneral28...
+Tak, trafiłem go! Zadałem mu 1.2744877952981717 punktów obrażeń.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+
+Ruch 57:
+Celuję we wroga redgeneral28...
+Tak, trafiłem go! Zadałem mu 1.3399770641001683 punktów obrażeń.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+
+Ruch 58:
+Celuję we wroga redgeneral28...
+Tak, trafiłem go! Zadałem mu 1.406977536873962 punktów obrażeń.
+
+Ruch 59:
+Celuję we wroga redgeneral28...
+Tak, trafiłem go! Zadałem mu 1.4752088893080446 punktów obrażeń.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+
+Ruch 60:
+Celuję we wroga redgeneral28...
+O nie, chybiłem! Co za wstyd!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+
+Ruch 61:
+Celuję we wroga redgeneral28...
+Tak, trafiłem go! Zadałem mu 1.577820267014635 punktów obrażeń.
+
+Ruch 62:
+Celuję we wroga redgeneral28...
+O nie, chybiłem! Co za wstyd!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+
+Ruch 63:
+Celuję we wroga redgeneral28...
+Tak, trafiłem go! Zadałem mu 1.688851952418882 punktów obrażeń.
+
+Ruch 64:
+Celuję we wroga redgeneral28...
+Tak, trafiłem go! Zadałem mu 1.7668586997069118 punktów obrażeń.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+
+Ruch 65:
+Celuję we wroga redflagger53...
+O nie, chybiłem! Co za wstyd!
+
+Ruch 66:
+Celuję we wroga redflagger53...
+O nie, chybiłem! Co za wstyd!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+
+Ruch 67:
+Celuję we wroga redflagger53...
+Tak, trafiłem go! Zadałem mu 1.9273471395046458 punktów obrażeń.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+
+Ruch 68:
+Celuję we wroga redflagger53...
+O nie, chybiłem! Co za wstyd!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+
+Ruch 69:
+Celuję we wroga redflagger53...
+O nie, chybiłem! Co za wstyd!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+
+Ruch 70:
+Celuję we wroga redflagger53...
+Tak, trafiłem go! Zadałem mu 2.133290057381056 punktów obrażeń.
+
+Ruch 71:
+Celuję we wroga redflagger53...
+O nie, chybiłem! Co za wstyd!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+
+Ruch 72:
+Celuję we wroga redgeneral28...
+O nie, chybiłem! Co za wstyd!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+
+Ruch 73:
+Celuję we wroga redgeneral28...
+Tak, trafiłem go! Zadałem mu 2.3553163408778808 punktów obrażeń.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+
+Ruch 74:
+Celuję we wroga redflagger53...
+O nie, chybiłem! Co za wstyd!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+
+Ruch 75:
+Celuję we wroga redgeneral28...
+Tak, trafiłem go! Zadałem mu 2.537633740864038 punktów obrażeń.
+
+Ruch 76:
+Celuję we wroga redgeneral28...
+Tak, trafiłem go! Zadałem mu 2.6554863953431123 punktów obrażeń.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+
+Ruch 77:
+Celuję we wroga redgeneral28...
+O nie, chybiłem! Co za wstyd!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+
+Ruch 78:
+Celuję we wroga redflagger53...
+Tak, trafiłem go! Zadałem mu 2.810869772208223 punktów obrażeń.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+
+Ruch 79:
+Celuję we wroga redflagger53...
+Tak, trafiłem go! Zadałem mu 2.923791828458243 punktów obrażeń.
+
+Ruch 80:
+Celuję we wroga redflagger53...
+O nie, chybiłem! Co za wstyd!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+
+Ruch 81:
+Celuję we wroga redflagger53...
+O nie, chybiłem! Co za wstyd!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+
+Ruch 82:
+Celuję we wroga redflagger53...
+O nie, chybiłem! Co za wstyd!
+
+Ruch 83:
+Celuję we wroga redflagger53...
+O nie, chybiłem! Co za wstyd!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+
+Ruch 84:
+Celuję we wroga redgeneral28...
+Tak, trafiłem go! Zadałem mu 3.2901352910962465 punktów obrażeń.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+
+Ruch 85:
+Celuję we wroga redgeneral28...
+O nie, chybiłem! Co za wstyd!
+
+Ruch 86:
+Celuję we wroga redgeneral28...
+Tak, trafiłem go! Zadałem mu 3.5410135852946287 punktów obrażeń.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+
+Ruch 87:
+Celuję we wroga redgeneral28...
+Tak, trafiłem go! Zadałem mu 3.7171452979216544 punktów obrażeń.
+
+Ruch 88:
+Celuję we wroga redgeneral28...
+O nie, chybiłem! Co za wstyd!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+
+Ruch 89:
+Celuję we wroga redgeneral28...
+O nie, chybiłem! Co za wstyd!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+
+Ruch 90:
+Celuję we wroga redgeneral28...
+Tak, trafiłem go! Zadałem mu 4.074882964368004 punktów obrażeń.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+
+Ruch 91:
+Celuję we wroga redgeneral28...
+O nie, chybiłem! Co za wstyd!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+
+Ruch 92:
+Celuję we wroga redgeneral28...
+O nie, chybiłem! Co za wstyd!
+
+Ruch 93:
+Celuję we wroga redgeneral28...
+Tak, trafiłem go! Zadałem mu 4.45412382981937 punktów obrażeń.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+
+Ruch 94:
+Celuję we wroga redgeneral28...
+Tak, trafiłem go! Zadałem mu 4.632999004104861 punktów obrażeń.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+
+Ruch 95:
+Celuję we wroga redgeneral28...
+Tak, trafiłem go! Zadałem mu 4.739218228162764 punktów obrażeń.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+
+Ruch 96:
+Celuję we wroga redgeneral28...
+O nie, chybiłem! Co za wstyd!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+
+Ruch 97:
+Celuję we wroga redgeneral28...
+O nie, chybiłem! Co za wstyd!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+
+Ruch 98:
+Celuję we wroga redgeneral28...
+Tak, trafiłem go! Zadałem mu 4.887494647141873 punktów obrażeń.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+
+Ruch 99:
+Celuję we wroga redgeneral28...
+O nie, chybiłem! Co za wstyd!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+
+Ruch 100:
+Celuję we wroga redgeneral28...
+Tak, trafiłem go! Zadałem mu 5.024487749671224 punktów obrażeń.
+
+Ruch 101:
+Celuję we wroga redgeneral28...
+O nie, chybiłem! Co za wstyd!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+
+Ruch 102:
+Celuję we wroga redgeneral28...
+O nie, chybiłem! Co za wstyd!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger133!
+O nie! Chorąży nie żyje! Nasza flaga!
+
+Ruch 103:
+Celuję we wroga redgeneral28...
+Tak, trafiłem go! Zadałem mu 5.026926652577857 punktów obrażeń.
+
+Ruch 104:
+Celuję we wroga redgeneral28...
+Tak, trafiłem go! Zadałem mu 5.1794550608044725 punktów obrażeń.
+
+Ruch 105:
+Celuję we wroga redgeneral28...
+Tak, trafiłem go! Zadałem mu 5.373856811425095 punktów obrażeń.
+
+Ruch 106:
+Celuję we wroga redgeneral28...
+O nie, chybiłem! Co za wstyd!
+Namierzył mnie redmarksman56! Zadał mi 6.6717525738142704 punktów obrażeń. Teraz mam 53.328247426185726 punktów zdrowia.
+
+Ruch 107:
+Celuję we wroga redgeneral28...
+O nie, chybiłem! Co za wstyd!
+
+Ruch 108:
+Celuję we wroga redgeneral28...
+O nie, chybiłem! Co za wstyd!
+Namierzył mnie redmarksman56! Zadał mi 6.906767024630101 punktów obrażeń. Teraz mam 46.42148040155563 punktów zdrowia.
+
+Ruch 109:
+Celuję we wroga redgeneral28...
+Tak, trafiłem go! Zadałem mu 5.955934332079433 punktów obrażeń.
+Namierzył mnie redmarksman56! Zadał mi 7.123429898058685 punktów obrażeń. Teraz mam 39.29805050349694 punktów zdrowia.
+
+Ruch 110:
+Celuję we wroga redgeneral28...
+Tak, trafiłem go! Zadałem mu 6.277171188432502 punktów obrażeń.
+
+Ruch 111:
+Celuję we wroga redgeneral28...
+Tak, trafiłem go! Zadałem mu 6.4690629437567235 punktów obrażeń.
+
+Ruch 112:
+Celuję we wroga redgeneral28...
+O nie, chybiłem! Co za wstyd!
+
+Ruch 113:
+Celuję we wroga redgeneral28...
+Tak, trafiłem go! Zadałem mu 6.759155714163771 punktów obrażeń.
+
+Ruch 114:
+Celuję we wroga redgeneral28...
+Tak, trafiłem go! Zadałem mu 6.982089906411574 punktów obrażeń.
+
+Ruch 115:
+Celuję we wroga redgeneral28...
+Tak, trafiłem go! Zadałem mu 7.24723426073697 punktów obrażeń.
+
+Ruch 116:
+Celuję we wroga redgeneral28...
+Tak, trafiłem go! Zadałem mu 7.50607033395137 punktów obrażeń.
+
+Ruch 117:
+Celuję we wroga redgeneral28...
+O nie, chybiłem! Co za wstyd!
+Namierzył mnie redmarksman56! Zadał mi 8.145477191531723 punktów obrażeń. Teraz mam 31.152573311965213 punktów zdrowia.
+
+Ruch 118:
+Celuję we wroga redgeneral28...
+O nie, chybiłem! Co za wstyd!
+Namierzył mnie redmarksman56! Zadał mi 8.520000287853724 punktów obrażeń. Teraz mam 22.632573024111487 punktów zdrowia.
+
+Ruch 119:
+Celuję we wroga redgeneral28...
+Tak, trafiłem go! Zadałem mu 7.759739861709332 punktów obrażeń.
+
+Ruch 120:
+Celuję we wroga redflagger53...
+Tak, trafiłem go! Zadałem mu 8.212149551002794 punktów obrażeń.
+Namierzył mnie redmarksman56! Zadał mi 8.694409433549254 punktów obrażeń. Teraz mam 13.938163590562233 punktów zdrowia.
+
+Ruch 121:
+Celuję we wroga redflagger53...
+Tak, trafiłem go! Zadałem mu 6.728352912181488 punktów obrażeń.
+
+Ruch 122:
+Celuję we wroga redflagger53...
+O nie, chybiłem! Co za wstyd!
+Namierzył mnie redmarksman55! Zadał mi 8.405882989584667 punktów obrażeń. Teraz mam 5.5322806009775665 punktów zdrowia.
+
+Ruch 123:
+Celuję we wroga redflagger53...
+Tak, trafiłem go! Zadałem mu 5.837571772511202 punktów obrażeń.
+
+Ruch 124:
+Celuję we wroga redflagger53...
+O nie, chybiłem! Co za wstyd!
+Namierzył mnie redmarksman56! Zadał mi 8.698288786692837 punktów obrażeń. Teraz mam -3.1660081857152704 punktów zdrowia.
+Zginąłem, to koniec

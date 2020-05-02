@@ -1,0 +1,489 @@
+Powstałem, jestem bluemarksman146
+
+Do boju! Moje morale są zwiększone przez chorążego blueflagger148!
+
+Ruch 1:
+Idę na[51.08923688 58.4978939 ]
+Do boju! Moje morale są zwiększone przez chorążego blueflagger148!
+
+Ruch 2:
+Idę na[50.18737469 57.97997054]
+
+Ruch 3:
+Idę na[49.23095122 57.57149271]
+Do boju! Moje morale są zwiększone przez chorążego blueflagger148!
+
+Ruch 4:
+Idę na[48.26401995 57.18855157]
+Do boju! Moje morale są zwiększone przez chorążego blueflagger148!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger148!
+
+Ruch 5:
+Idę na[47.3468585  56.69823037]
+
+Ruch 6:
+Idę na[46.44663009 56.17747246]
+
+Ruch 7:
+Idę na[45.55604966 55.64038169]
+
+Ruch 8:
+Idę na[44.69196877 55.06162075]
+
+Ruch 9:
+Idę na[43.86420091 54.43201741]
+
+Ruch 10:
+Idę na[43.09326668 53.733977  ]
+
+Ruch 11:
+Idę na[42.32945454 53.02815053]
+
+Ruch 12:
+Idę na[41.5922464  52.29458106]
+
+Ruch 13:
+Idę na[40.88650105 51.53069396]
+
+Ruch 14:
+Idę na[40.16035706 50.78617068]
+
+Ruch 15:
+Idę na[39.51068957 49.97405484]
+
+Ruch 16:
+Idę na[38.86361358 49.15987263]
+
+Ruch 17:
+Idę na[38.24548493 48.32350132]
+
+Ruch 18:
+Idę na[37.67436341 47.45435219]
+
+Ruch 19:
+Celuję we wroga redmarksman71...
+Tak, trafiłem go! Zadałem mu 0.3575940624458845 punktów obrażeń.
+Namierzył mnie redmarksman71! Zadał mi 0.3704073102084128 punktów obrażeń. Teraz mam 59.629592689791586 punktów zdrowia.
+
+Ruch 20:
+Celuję we wroga redmarksman71...
+Tak, trafiłem go! Zadałem mu 0.3751449036585946 punktów obrażeń.
+
+Ruch 21:
+Celuję we wroga redmarksman71...
+O nie, chybiłem! Co za wstyd!
+Namierzył mnie redmarksman71! Zadał mi 0.3911519419063198 punktów obrażeń. Teraz mam 59.238440747885264 punktów zdrowia.
+
+Ruch 22:
+Celuję we wroga redmarksman71...
+Tak, trafiłem go! Zadałem mu 0.40508902069309444 punktów obrażeń.
+Namierzył mnie redmarksman71! Zadał mi 0.4029605845311987 punktów obrażeń. Teraz mam 58.83548016335406 punktów zdrowia.
+Namierzył mnie redmarksman75! Zadał mi 0.371943834301707 punktów obrażeń. Teraz mam 58.46353632905235 punktów zdrowia.
+
+Ruch 23:
+Celuję we wroga redmarksman71...
+Tak, trafiłem go! Zadałem mu 0.4303018366079018 punktów obrażeń.
+Namierzył mnie redmarksman71! Zadał mi 0.42158867440681724 punktów obrażeń. Teraz mam 58.04194765464553 punktów zdrowia.
+
+Ruch 24:
+Celuję we wroga redmarksman71...
+Tak, trafiłem go! Zadałem mu 0.44773302332571696 punktów obrażeń.
+Namierzył mnie redmarksman71! Zadał mi 0.44504134094627185 punktów obrażeń. Teraz mam 57.596906313699265 punktów zdrowia.
+
+Ruch 25:
+Celuję we wroga redmarksman71...
+O nie, chybiłem! Co za wstyd!
+Namierzył mnie redmarksman75! Zadał mi 0.39794514052953195 punktów obrażeń. Teraz mam 57.198961173169735 punktów zdrowia.
+
+Ruch 26:
+Celuję we wroga redmarksman71...
+O nie, chybiłem! Co za wstyd!
+Namierzył mnie redmarksman75! Zadał mi 0.4190259208440995 punktów obrażeń. Teraz mam 56.779935252325636 punktów zdrowia.
+bluehealer147 uleczył mnie do 57.16828582917267 punktów hp.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger148!
+
+Ruch 27:
+Celuję we wroga redmarksman71...
+Tak, trafiłem go! Zadałem mu 0.4662817300545766 punktów obrażeń.
+Namierzył mnie redmarksman75! Zadał mi 0.43550676418501644 punktów obrażeń. Teraz mam 56.73277906498765 punktów zdrowia.
+bluehealer147 uleczył mnie do 57.12947337759162 punktów hp.
+
+Ruch 28:
+Celuję we wroga redmarksman71...
+Tak, trafiłem go! Zadałem mu 0.49501303908576283 punktów obrażeń.
+
+Ruch 29:
+Celuję we wroga redmarksman71...
+O nie, chybiłem! Co za wstyd!
+Namierzył mnie redmarksman71! Zadał mi 0.4807063799691266 punktów obrażeń. Teraz mam 56.648766997622495 punktów zdrowia.
+bluehealer147 uleczył mnie do 57.05367571032551 punktów hp.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger148!
+
+Ruch 30:
+Celuję we wroga redmarksman71...
+O nie, chybiłem! Co za wstyd!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger148!
+bluehealer147 uleczył mnie do 57.466919639703875 punktów hp.
+Namierzył mnie redmarksman71! Zadał mi 0.496629782269438 punktów obrażeń. Teraz mam 56.97028985743444 punktów zdrowia.
+Namierzył mnie redmarksman75! Zadał mi 0.4731517632216641 punktów obrażeń. Teraz mam 56.49713809421277 punktów zdrowia.
+
+Ruch 31:
+Celuję we wroga redmarksman71...
+O nie, chybiłem! Co za wstyd!
+bluehealer147 uleczył mnie do 56.919663044392955 punktów hp.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger148!
+Namierzył mnie redmarksman71! Zadał mi 0.5239496489429445 punktów obrażeń. Teraz mam 56.39571339545001 punktów zdrowia.
+Namierzył mnie redmarksman75! Zadał mi 0.4968564856245685 punktów obrażeń. Teraz mam 55.89885690982544 punktów zdrowia.
+bluehealer147 uleczył mnie do 56.331322255309104 punktów hp.
+
+Ruch 32:
+Celuję we wroga redmarksman71...
+Tak, trafiłem go! Zadałem mu 0.5468755224082091 punktów obrażeń.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger148!
+
+Ruch 33:
+Celuję we wroga redmarksman71...
+Tak, trafiłem go! Zadałem mu 0.5819011881477564 punktów obrażeń.
+Namierzył mnie redmarksman71! Zadał mi 0.5503833564657813 punktów obrażeń. Teraz mam 55.780938898843324 punktów zdrowia.
+bluehealer147 uleczył mnie do 56.22373612837637 punktów hp.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger148!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger148!
+
+Ruch 34:
+Celuję we wroga redmarksman71...
+Tak, trafiłem go! Zadałem mu 0.6054070121760836 punktów obrażeń.
+Namierzył mnie redmarksman75! Zadał mi 0.5374441697663395 punktów obrażeń. Teraz mam 55.686291958610035 punktów zdrowia.
+bluehealer147 uleczył mnie do 56.15201407626635 punktów hp.
+
+Ruch 35:
+Celuję we wroga redmarksman71...
+Tak, trafiłem go! Zadałem mu 0.6195214985160272 punktów obrażeń.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger148!
+bluehealer149 uleczył mnie do 56.6268967997461 punktów hp.
+bluehealer147 uleczył mnie do 57.10974510273036 punktów hp.
+Namierzył mnie redmarksman71! Zadał mi 0.6220544435907993 punktów obrażeń. Teraz mam 56.48769065913956 punktów zdrowia.
+
+Ruch 36:
+Celuję we wroga redmarksman71...
+Tak, trafiłem go! Zadałem mu 0.6451431241707598 punktów obrażeń.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger148!
+
+Ruch 37:
+Celuję we wroga redmarksman71...
+Tak, trafiłem go! Zadałem mu 0.6725550689352088 punktów obrażeń.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger148!
+bluehealer149 uleczył mnie do 56.97667790966789 punktów hp.
+Namierzył mnie redmarksman71! Zadał mi 0.6760069780798622 punktów obrażeń. Teraz mam 56.30067093158803 punktów zdrowia.
+bluehealer149 uleczył mnie do 56.80551244954319 punktów hp.
+
+Ruch 38:
+Celuję we wroga redmarksman71...
+Tak, trafiłem go! Zadałem mu 0.689196677033168 punktów obrażeń.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger148!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger148!
+Namierzył mnie redmarksman75! Zadał mi 0.6000601823926405 punktów obrażeń. Teraz mam 56.20545226715055 punktów zdrowia.
+Namierzył mnie redmarksman71! Zadał mi 0.7010074862255108 punktów obrażeń. Teraz mam 55.504444780925034 punktów zdrowia.
+
+Ruch 39:
+Celuję we wroga redmarksman71...
+Tak, trafiłem go! Zadałem mu 0.7209156047343345 punktów obrażeń.
+bluehealer149 uleczył mnie do 56.02670862487498 punktów hp.
+Namierzył mnie redmarksman75! Zadał mi 0.6300266801957866 punktów obrażeń. Teraz mam 55.396681944679194 punktów zdrowia.
+
+Ruch 40:
+Celuję we wroga redmarksman71...
+Tak, trafiłem go! Zadałem mu 0.7641473133476441 punktów obrażeń.
+Namierzył mnie redmarksman71! Zadał mi 0.7276988131719341 punktów obrażeń. Teraz mam 54.66898313150726 punktów zdrowia.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger148!
+bluehealer149 uleczył mnie do 55.21314370248251 punktów hp.
+
+Ruch 41:
+Celuję we wroga redmarksman71...
+O nie, chybiłem! Co za wstyd!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger148!
+bluehealer149 uleczył mnie do 55.77985108895622 punktów hp.
+bluehealer149 uleczył mnie do 56.36924233044416 punktów hp.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger148!
+
+Ruch 42:
+Celuję we wroga redmarksman71...
+O nie, chybiłem! Co za wstyd!
+Namierzył mnie redmarksman71! Zadał mi 0.7766862056086822 punktów obrażeń. Teraz mam 55.592556124835475 punktów zdrowia.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger148!
+Namierzył mnie redmarksman75! Zadał mi 0.6910320863214067 punktów obrażeń. Teraz mam 54.90152403851407 punktów zdrowia.
+Namierzył mnie redmarksman71! Zadał mi 0.7944982307444489 punktów obrażeń. Teraz mam 54.10702580776962 punktów zdrowia.
+
+Ruch 43:
+Celuję we wroga redmarksman71...
+Tak, trafiłem go! Zadałem mu 0.8235746189322907 punktów obrażeń.
+bluehealer149 uleczył mnie do 54.72125745711864 punktów hp.
+bluehealer149 uleczył mnie do 55.35929061194709 punktów hp.
+Namierzył mnie redmarksman75! Zadał mi 0.726396681642891 punktów obrażeń. Teraz mam 54.6328939303042 punktów zdrowia.
+Namierzył mnie redmarksman71! Zadał mi 0.8298253502118947 punktów obrażeń. Teraz mam 53.8030685800923 punktów zdrowia.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger148!
+
+Ruch 44:
+Celuję we wroga redmarksman71...
+Tak, trafiłem go! Zadałem mu 0.8774772699691933 punktów obrażeń.
+Namierzył mnie redmarksman71! Zadał mi 0.8800015273324786 punktów obrażeń. Teraz mam 52.92306705275982 punktów zdrowia.
+Namierzył mnie redmarksman75! Zadał mi 0.7610575929989423 punktów obrażeń. Teraz mam 52.162009459760874 punktów zdrowia.
+bluehealer149 uleczył mnie do 52.82689306442661 punktów hp.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger148!
+
+Ruch 45:
+Celuję we wroga redmarksman71...
+Tak, trafiłem go! Zadałem mu 0.9292282624737495 punktów obrażeń.
+Namierzył mnie redmarksman75! Zadał mi 0.7969256516500681 punktów obrażeń. Teraz mam 52.02996741277654 punktów zdrowia.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger148!
+bluehealer149 uleczył mnie do 52.72641415256918 punktów hp.
+
+Ruch 46:
+Celuję we wroga redmarksman71...
+O nie, chybiłem! Co za wstyd!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger148!
+Namierzył mnie redmarksman71! Zadał mi 0.9296591769620514 punktów obrażeń. Teraz mam 51.79675497560712 punktów zdrowia.
+
+Ruch 47:
+Celuję we wroga redmarksman71...
+Tak, trafiłem go! Zadałem mu 0.9956631092961545 punktów obrażeń.
+Namierzył mnie redmarksman75! Zadał mi 0.8325770658904906 punktów obrażeń. Teraz mam 50.96417790971663 punktów zdrowia.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger148!
+Namierzył mnie redmarksman71! Zadał mi 0.9884155743951892 punktów obrażeń. Teraz mam 49.97576233532144 punktów zdrowia.
+
+Ruch 48:
+Celuję we wroga redmarksman71...
+Tak, trafiłem go! Zadałem mu 1.055769161017562 punktów obrażeń.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger148!
+
+Ruch 49:
+Celuję we wroga redmarksman71...
+O nie, chybiłem! Co za wstyd!
+Namierzył mnie redmarksman75! Zadał mi 0.9070807603271878 punktów obrażeń. Teraz mam 49.06868157499425 punktów zdrowia.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger148!
+
+Ruch 50:
+Celuję we wroga redmarksman71...
+Tak, trafiłem go! Zadałem mu 1.1042697058862405 punktów obrażeń.
+
+Ruch 51:
+Celuję we wroga redmarksman71...
+Tak, trafiłem go! Zadałem mu 1.1570674215982175 punktów obrażeń.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger148!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger148!
+Namierzył mnie redmarksman75! Zadał mi 0.9735907275578148 punktów obrażeń. Teraz mam 48.09509084743644 punktów zdrowia.
+
+Ruch 52:
+Celuję we wroga redmarksman71...
+Tak, trafiłem go! Zadałem mu 1.1949312536825187 punktów obrażeń.
+Namierzył mnie redmarksman75! Zadał mi 1.020537554553287 punktów obrażeń. Teraz mam 47.07455329288315 punktów zdrowia.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger148!
+
+Ruch 53:
+Celuję we wroga redmarksman71...
+O nie, chybiłem! Co za wstyd!
+
+Ruch 54:
+Celuję we wroga redmarksman71...
+O nie, chybiłem! Co za wstyd!
+Namierzył mnie redmarksman75! Zadał mi 1.0669475031086046 punktów obrażeń. Teraz mam 46.007605789774544 punktów zdrowia.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger148!
+Namierzył mnie redmarksman75! Zadał mi 1.1153972519412765 punktów obrażeń. Teraz mam 44.89220853783327 punktów zdrowia.
+
+Ruch 55:
+Celuję we wroga redmarksman71...
+Tak, trafiłem go! Zadałem mu 1.3261777996042596 punktów obrażeń.
+Namierzył mnie redmarksman71! Zadał mi 1.2113718335087973 punktów obrażeń. Teraz mam 43.68083670432447 punktów zdrowia.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger148!
+Namierzył mnie redmarksman75! Zadał mi 1.1605704368149476 punktów obrażeń. Teraz mam 42.52026626750952 punktów zdrowia.
+
+Ruch 56:
+Celuję we wroga redmarksman71...
+O nie, chybiłem! Co za wstyd!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger148!
+Namierzył mnie redmarksman71! Zadał mi 1.3184869615779429 punktów obrażeń. Teraz mam 41.201779305931574 punktów zdrowia.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger148!
+
+Ruch 57:
+Celuję we wroga redmarksman71...
+O nie, chybiłem! Co za wstyd!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger148!
+Namierzył mnie redmarksman71! Zadał mi 1.389930899720938 punktów obrażeń. Teraz mam 39.811848406210636 punktów zdrowia.
+Namierzył mnie redmarksman75! Zadał mi 1.2308441677216393 punktów obrażeń. Teraz mam 38.581004238488994 punktów zdrowia.
+
+Ruch 58:
+Celuję we wroga redmarksman71...
+Tak, trafiłem go! Zadałem mu 1.5009931563313947 punktów obrażeń.
+bluehealer149 uleczył mnie do 39.78191402203283 punktów hp.
+
+Ruch 59:
+Celuję we wroga redmarksman71...
+O nie, chybiłem! Co za wstyd!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger148!
+Namierzył mnie redmarksman71! Zadał mi 1.489239046472348 punktów obrażeń. Teraz mam 38.29267497556048 punktów zdrowia.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger148!
+Namierzył mnie redmarksman75! Zadał mi 1.3210544275295442 punktów obrażeń. Teraz mam 36.971620548030934 punktów zdrowia.
+
+Ruch 60:
+Celuję we wroga redmarksman71...
+O nie, chybiłem! Co za wstyd!
+Namierzył mnie redmarksman75! Zadał mi 1.3886491097239673 punktów obrażeń. Teraz mam 35.58297143830697 punktów zdrowia.
+
+Ruch 61:
+Celuję we wroga redmarksman71...
+Tak, trafiłem go! Zadałem mu 1.6797126533276598 punktów obrażeń.
+Namierzył mnie redmarksman71! Zadał mi 1.5612927842947046 punktów obrażeń. Teraz mam 34.02167865401226 punktów zdrowia.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger148!
+
+Ruch 62:
+Celuję we wroga redmarksman71...
+Tak, trafiłem go! Zadałem mu 1.7784138346072118 punktów obrażeń.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger148!
+Namierzył mnie redmarksman75! Zadał mi 1.4529756250062997 punktów obrażeń. Teraz mam 32.56870302900596 punktów zdrowia.
+
+Ruch 63:
+Celuję we wroga redmarksman71...
+Tak, trafiłem go! Zadałem mu 1.8448011764789558 punktów obrażeń.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger148!
+bluehealer149 uleczył mnie do 33.9548962736898 punktów hp.
+Namierzył mnie redmarksman71! Zadał mi 1.7045485540824366 punktów obrażeń. Teraz mam 32.25034771960736 punktów zdrowia.
+Namierzył mnie redmarksman75! Zadał mi 1.5185741328098472 punktów obrażeń. Teraz mam 30.731773586797516 punktów zdrowia.
+
+Ruch 64:
+Celuję we wroga redhealer69...
+Tak, trafiłem go! Zadałem mu 1.945019021860982 punktów obrażeń.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger148!
+bluehealer149 uleczył mnie do 32.16597150049184 punktów hp.
+Namierzył mnie redmarksman71! Zadał mi 1.7823454027887644 punktów obrażeń. Teraz mam 30.38362609770308 punktów zdrowia.
+
+Ruch 65:
+Celuję we wroga redmarksman71...
+Tak, trafiłem go! Zadałem mu 2.014340917644959 punktów obrażeń.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger148!
+Namierzył mnie redmarksman71! Zadał mi 1.858777335508951 punktów obrażeń. Teraz mam 28.52484876219413 punktów zdrowia.
+Namierzył mnie redmarksman75! Zadał mi 1.613964428050416 punktów obrażeń. Teraz mam 26.910884334143713 punktów zdrowia.
+bluehealer149 uleczył mnie do 28.445679218105514 punktów hp.
+
+Ruch 66:
+Celuję we wroga redhealer69...
+O nie, chybiłem! Co za wstyd!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger148!
+Namierzył mnie redmarksman75! Zadał mi 1.7197402760463563 punktów obrażeń. Teraz mam 26.72593894205916 punktów zdrowia.
+Namierzył mnie redmarksman71! Zadał mi 1.9784263958165016 punktów obrażeń. Teraz mam 24.747512546242657 punktów zdrowia.
+
+Ruch 67:
+Celuję we wroga redmarksman71...
+O nie, chybiłem! Co za wstyd!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger148!
+bluehealer149 uleczył mnie do 26.386893200989654 punktów hp.
+Namierzył mnie redmarksman75! Zadał mi 1.7987942552319336 punktów obrażeń. Teraz mam 24.58809894575772 punktów zdrowia.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger148!
+
+Ruch 68:
+Celuję we wroga redhealer69...
+Tak, trafiłem go! Zadałem mu 2.188038799388947 punktów obrażeń.
+
+Ruch 69:
+Celuję we wroga redhealer69...
+O nie, chybiłem! Co za wstyd!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger148!
+bluehealer149 uleczył mnie do 26.2808153160807 punktów hp.
+Namierzył mnie redmarksman75! Zadał mi 1.911728768188336 punktów obrażeń. Teraz mam 24.369086547892366 punktów zdrowia.
+
+Ruch 70:
+Celuję we wroga redhealer69...
+Tak, trafiłem go! Zadałem mu 2.282103224513754 punktów obrażeń.
+Namierzył mnie redmarksman71! Zadał mi 2.1307488066002116 punktów obrażeń. Teraz mam 22.238337741292153 punktów zdrowia.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger148!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger148!
+bluehealer149 uleczył mnie do 24.041508511488573 punktów hp.
+Namierzył mnie redmarksman71! Zadał mi 2.236072566594887 punktów obrażeń. Teraz mam 21.805435944893684 punktów zdrowia.
+
+Ruch 71:
+Celuję we wroga redhealer69...
+Tak, trafiłem go! Zadałem mu 2.4278226296397354 punktów obrażeń.
+
+Ruch 72:
+Celuję we wroga redhealer69...
+Tak, trafiłem go! Zadałem mu 2.5090290646183164 punktów obrażeń.
+Namierzył mnie redmarksman71! Zadał mi 2.3374661496669003 punktów obrażeń. Teraz mam 19.467969795226786 punktów zdrowia.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger148!
+
+Ruch 73:
+Celuję we wroga redhealer69...
+Tak, trafiłem go! Zadałem mu 2.590842565357958 punktów obrażeń.
+Namierzył mnie redmarksman71! Zadał mi 2.3915249415680777 punktów obrażeń. Teraz mam 17.076444853658707 punktów zdrowia.
+bluehealer149 uleczył mnie do 18.990067135902066 punktów hp.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger148!
+
+Ruch 74:
+Celuję we wroga redhealer69...
+Tak, trafiłem go! Zadałem mu 2.6736317261586944 punktów obrażeń.
+Namierzył mnie redmarksman75! Zadał mi 2.1456744358622393 punktów obrażeń. Teraz mam 16.844392700039826 punktów zdrowia.
+bluehealer149 uleczył mnie do 18.82731451995126 punktów hp.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger148!
+
+Ruch 75:
+Celuję we wroga redhealer69...
+Tak, trafiłem go! Zadałem mu 2.7576033798551602 punktów obrażeń.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger148!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger148!
+Namierzył mnie redmarksman71! Zadał mi 2.5094475518245924 punktów obrażeń. Teraz mam 16.317866968126665 punktów zdrowia.
+
+Ruch 76:
+Celuję we wroga redhealer69...
+O nie, chybiłem! Co za wstyd!
+bluehealer149 uleczył mnie do 18.498519179294064 punktów hp.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger148!
+
+Ruch 77:
+Celuję we wroga redmarksman71...
+O nie, chybiłem! Co za wstyd!
+Namierzył mnie redmarksman71! Zadał mi 2.7032736715861563 punktów obrażeń. Teraz mam 15.795245507707907 punktów zdrowia.
+
+Ruch 78:
+Celuję we wroga redmarksman71...
+Tak, trafiłem go! Zadałem mu 2.8574683500084563 punktów obrażeń.
+Namierzył mnie redmarksman75! Zadał mi 2.420843409766793 punktów obrażeń. Teraz mam 13.374402097941115 punktów zdrowia.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger148!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger148!
+Namierzył mnie redmarksman75! Zadał mi 2.5287224425538097 punktów obrażeń. Teraz mam 10.845679655387304 punktów zdrowia.
+
+Ruch 79:
+Celuję we wroga redmarksman71...
+Tak, trafiłem go! Zadałem mu 3.0377667688037193 punktów obrażeń.
+
+Ruch 80:
+Celuję we wroga redmarksman71...
+O nie, chybiłem! Co za wstyd!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger148!
+
+Ruch 81:
+Celuję we wroga redmarksman71...
+O nie, chybiłem! Co za wstyd!
+bluehealer149 uleczył mnie do 13.26105175347612 punktów hp.
+Namierzył mnie redmarksman71! Zadał mi 2.9528333739810124 punktów obrażeń. Teraz mam 10.30821837949511 punktów zdrowia.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger148!
+Namierzył mnie redmarksman71! Zadał mi 3.0826981110494147 punktów obrażeń. Teraz mam 7.2255202684456945 punktów zdrowia.
+
+Ruch 82:
+Celuję we wroga redhealer69...
+Tak, trafiłem go! Zadałem mu 3.219928626542985 punktów obrażeń.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger148!
+Namierzył mnie redmarksman75! Zadał mi 2.740764135731286 punktów obrażeń. Teraz mam 4.484756132714408 punktów zdrowia.
+
+Ruch 83:
+Celuję we wroga redhealer69...
+O nie, chybiłem! Co za wstyd!
+Namierzył mnie redmarksman71! Zadał mi 3.1988840310402056 punktów obrażeń. Teraz mam 1.2858721016742027 punktów zdrowia.
+Do boju! Moje morale są zwiększone przez chorążego blueflagger148!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger148!
+
+Ruch 84:
+Celuję we wroga redhealer69...
+Tak, trafiłem go! Zadałem mu 3.4772132774500473 punktów obrażeń.
+
+Ruch 85:
+Celuję we wroga redhealer69...
+O nie, chybiłem! Co za wstyd!
+Namierzył mnie redmarksman75! Zadał mi 2.9577964935227294 punktów obrażeń. Teraz mam -1.6719243918485267 punktów zdrowia.
+Zginąłem, to koniec

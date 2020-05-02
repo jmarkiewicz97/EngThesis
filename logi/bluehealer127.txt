@@ -1,0 +1,619 @@
+Powstałem, jestem bluehealer127
+
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+
+Ruch 1:
+Idę na[52.51767501  7.10992834]
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+
+Ruch 2:
+Idę na[51.97025077  6.52655307]
+
+Ruch 3:
+Idę na[51.25509116  6.88508722]
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+
+Ruch 4:
+Idę na[50.85779855  6.19071082]
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+
+Ruch 5:
+Idę na[51.06781958  5.41877095]
+
+Ruch 6:
+Idę na[50.70131031  6.12987639]
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+
+Ruch 7:
+Idę na[50.30337451  5.43586839]
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+
+Ruch 8:
+Idę na[49.9158616   6.13574963]
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+
+Ruch 9:
+Idę na[49.49827054  6.81811148]
+
+Ruch 10:
+Idę na[49.09657073  7.50994764]
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+
+Ruch 11:
+Idę na[48.62280338  8.15457505]
+
+Ruch 12:
+Idę na[48.18872437  8.82656866]
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+
+Ruch 13:
+Idę na[47.69682061  9.4574654 ]
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+
+Ruch 14:
+Idę na[47.22430306 10.10300947]
+
+Ruch 15:
+Idę na[46.82434579 10.79585447]
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+
+Ruch 16:
+Idę na[46.27626812 11.37861589]
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+
+Ruch 17:
+Idę na[45.80721573 12.02668213]
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+
+Ruch 18:
+Idę na[45.25699685 12.60742234]
+
+Ruch 19:
+Idę na[44.75081126 13.22691902]
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+
+Ruch 20:
+Idę na[44.30103809 13.88851112]
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+
+Ruch 21:
+Idę na[45.09320562 14.00018297]
+
+Ruch 22:
+Idę na[44.6144643 13.3592409]
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+
+Ruch 23:
+Idę na[44.13628516 14.00060251]
+
+Ruch 24:
+Idę na[43.62428007 14.6152982 ]
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+
+Ruch 25:
+Idę na[43.17801601 15.27926234]
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+
+Ruch 26:
+Idę na[42.59868742 15.83096732]
+
+Ruch 27:
+Idę na[42.10622331 16.46142676]
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+
+Ruch 28:
+Idę na[42.89866075 16.57116693]
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+
+Ruch 29:
+Idę na[42.41123158 17.20552709]
+
+Ruch 30:
+Idę na[41.9238024  17.83988724]
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+
+Ruch 31:
+Idę na[41.30413609 18.34586517]
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+
+Ruch 32:
+Idę na[40.83918238 18.99687826]
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+
+Ruch 33:
+Idę na[40.31584633 19.60195625]
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+
+Ruch 34:
+Leczę bluemarksman126 o 0.4603703882602984. Teraz ma 54.48988638766534
+Idę na[39.81467211 20.22551411]
+
+Ruch 35:
+Leczę bluemarksman126 o 0.4702297822279668. Teraz ma 53.74337696280799
+Idę na[40.52920389 20.58529783]
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+
+Ruch 36:
+Leczę bluemarksman126 o 0.48022297815943765. Teraz ma 55.176928792785596
+Idę na[39.92017857 21.10403491]
+
+Ruch 37:
+Leczę bluemarksman126 o 0.4913161556778902. Teraz ma 55.02892782313829
+Idę na[39.4417992  21.74524718]
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+
+Ruch 38:
+Leczę bluemarksman126 o 0.5043946358100978. Teraz ma 53.84183562101459
+Idę na[39.56444085 22.53579068]
+
+Ruch 39:
+Leczę bluemarksman126 o 0.5206736506685747. Teraz ma 54.362509271683166
+Idę na[38.98320892 21.98609127]
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+
+Ruch 40:
+Leczę bluemarksman126 o 0.5387138900120564. Teraz ma 55.94755905571238
+Idę na[39.42330949 22.65415675]
+
+Ruch 41:
+Leczę bluemarksman126 o 0.5572723145657783. Teraz ma 55.54880713759225
+Idę na[38.89529039 23.25515246]
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+
+Ruch 42:
+Leczę bluemarksman126 o 0.5770309587432763. Teraz ma 54.36788015334632
+Idę na[39.66773215 23.04698489]
+
+Ruch 43:
+Idę na[38.98605507 23.46569286]
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+
+Ruch 44:
+Idę na[39.4473362  22.81207239]
+
+Ruch 45:
+Leczę bluemarksman126 o 0.6490027012320734. Teraz ma 52.85094800954885
+Idę na[39.45251345 23.61205564]
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+
+Ruch 46:
+Idę na[38.78820315 24.05780425]
+
+Ruch 47:
+Idę na[38.2237795  24.62474864]
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+
+Ruch 48:
+Leczę bluewarrior102 o 0.7341264174027932. Teraz ma 83.03507230982152
+Leczę bluewarrior104 o 0.7341264174027932. Teraz ma 71.0850066058445
+Leczę bluewarrior105 o 0.7341264174027932. Teraz ma 96.44918020415467
+Idę na[38.7686314  24.03897019]
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+
+Ruch 49:
+Idę na[38.13169458 24.5230275 ]
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+
+Ruch 50:
+Leczę bluewarrior102 o 0.7995987083458556. Teraz ma 79.59534698919441
+Leczę bluewarrior104 o 0.7995987083458556. Teraz ma 69.03198160366387
+Leczę bluewarrior105 o 0.7995987083458556. Teraz ma 95.65165765636445
+Idę na[38.92716378 24.4380054 ]
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+
+Ruch 51:
+Idę na[39.19192855 25.19292236]
+
+Ruch 52:
+Idę na[39.97863103 25.33817804]
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+
+Ruch 53:
+Idę na[39.28664567 25.73962077]
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+
+Ruch 54:
+Idę na[38.61724958 26.17769482]
+
+Ruch 55:
+Leczę bluewarrior105 o 0.9751213932098198. Teraz ma 96.76654384551203
+Idę na[39.18734009 25.61644906]
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+
+Ruch 56:
+Idę na[38.53146224 26.07451482]
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+
+Ruch 57:
+Leczę bluewarrior105 o 1.0648804951785247. Teraz ma 96.68278461707675
+Idę na[38.98765988 25.41733622]
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+
+Ruch 58:
+Idę na[38.36766899 25.92291637]
+
+Ruch 59:
+Leczę bluewarrior105 do pełna. Teraz ma 100.0
+Leczę bluewarrior106 o 1.1619804258342783. Teraz ma 44.43938811224421
+Idę na[38.52513789 25.13856725]
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+
+Ruch 60:
+Leczę bluewarrior102 o 1.2118182911367343. Teraz ma 65.22309653850861
+Leczę blueflagger128 o 1.2118182911367343. Teraz ma 98.86583381928448
+Idę na[37.87534973 25.60523132]
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+
+Ruch 61:
+Leczę bluewarrior102 o 1.2590288764724111. Teraz ma 64.40301251128409
+Leczę bluewarrior104 o 1.2590288764724111. Teraz ma 37.08186997179209
+Leczę bluewarrior106 o 1.2590288764724111. Teraz ma 37.66680432453441
+Idę na[37.6068459  24.85163614]
+
+Ruch 62:
+Leczę bluewarrior102 o 1.3055129611913958. Teraz ma 65.70852547247549
+Leczę bluewarrior104 o 1.3055129611913958. Teraz ma 36.37167235956489
+Idę na[37.83158183 25.61942111]
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+
+Ruch 63:
+Leczę bluewarrior102 o 1.3617407516955147. Teraz ma 61.32791871885215
+Leczę bluewarrior104 o 1.3617407516955147. Teraz ma 31.480622765357218
+Leczę bluewarrior105 o 1.3617407516955147. Teraz ma 98.49678445885881
+Leczę bluewarrior106 o 1.3617407516955147. Teraz ma 33.86391628260862
+Idę na[37.53929183 24.87472885]
+
+Ruch 64:
+Leczę bluewarrior102 o 1.4113417081354904. Teraz ma 61.5072238543159
+Leczę bluewarrior104 o 1.4113417081354904. Teraz ma 27.43686989245321
+Leczę bluewarrior105 o 1.4113417081354904. Teraz ma 98.78087854972883
+Idę na[37.77373519 25.63960552]
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+
+Ruch 65:
+Leczę bluewarrior102 o 1.4602796977091228. Teraz ma 59.96038404875243
+Leczę bluewarrior104 o 1.4602796977091228. Teraz ma 29.20236782681573
+Leczę bluewarrior105 o 1.4602796977091228. Teraz ma 98.7743038387926
+Leczę bluewarrior106 o 1.4602796977091228. Teraz ma 24.445323323273836
+Idę na[37.46705671 24.90072237]
+
+Ruch 66:
+Leczę bluewarrior102 o 1.5140651859378413. Teraz ma 61.47444923469027
+Leczę bluewarrior104 o 1.5140651859378413. Teraz ma 19.951518982751438
+Leczę bluewarrior105 do pełna. Teraz ma 100.0
+Leczę bluewarrior106 o 1.5140651859378413. Teraz ma 23.146487845548226
+Idę na[37.62685975 25.68459926]
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+
+Ruch 67:
+Leczę bluewarrior102 o 1.5646528391898962. Teraz ma 66.15289864898678
+Leczę bluewarrior104 o 1.5646528391898962. Teraz ma 19.286959097984504
+Leczę bluewarrior105 do pełna. Teraz ma 100.0
+Leczę bluewarrior106 o 1.5646528391898962. Teraz ma 21.84281589001628
+Leczę blueflagger128 o 1.5646528391898962. Teraz ma 98.17046735686898
+Idę na[37.26534518 24.97094163]
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+
+Ruch 68:
+Leczę bluewarrior102 o 1.6232425846854326. Teraz ma 61.41916048367583
+Leczę bluewarrior104 o 1.6232425846854326. Teraz ma 9.620240826884022
+Leczę bluewarrior106 o 1.6232425846854326. Teraz ma 20.31643699392072
+Leczę blueflagger128 o 1.6232425846854326. Teraz ma 99.79370994155441
+Idę na[37.12247995 25.75808173]
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+
+Ruch 69:
+Leczę bluewarrior102 o 1.682336721601057. Teraz ma 61.206557630373105
+Leczę bluewarrior104 o 1.682336721601057. Teraz ma 3.945444457406922
+Leczę bluewarrior105 do pełna. Teraz ma 100.0
+Leczę bluewarrior106 o 1.682336721601057. Teraz ma 18.733868984976976
+Idę na[37.8841466  25.51341069]
+
+Ruch 70:
+Leczę bluewarrior102 o 1.7515887559597112. Teraz ma 61.64080582260867
+Leczę bluewarrior104 o 1.7515887559597112. Teraz ma 4.665547186667544
+Leczę bluewarrior106 o 1.7515887559597112. Teraz ma 22.19419344858518
+Idę na[38.44544833 26.0834461 ]
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+
+Ruch 71:
+Leczę bluewarrior105 o 1.8056386307644403. Teraz ma 93.03131598392993
+Leczę bluewarrior106 o 1.8056386307644403. Teraz ma 16.410456808639726
+Idę na[38.79749601 25.36507125]
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+
+Ruch 72:
+Leczę bluewarrior105 o 1.8612878628868617. Teraz ma 96.72592163183116
+Idę na[39.27854151 26.00428579]
+
+Ruch 73:
+Idę na[38.64444118 26.49205291]
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+
+Ruch 74:
+Leczę bluewarrior105 do pełna. Teraz ma 100.0
+Idę na[39.43559919 26.3734401 ]
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+
+Ruch 75:
+Idę na[38.77708866 26.82771302]
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+
+Ruch 76:
+Leczę bluewarrior105 o 2.1150718439800684. Teraz ma 94.03577063095224
+Idę na[39.50318581 27.16354471]
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+
+Ruch 77:
+Idę na[38.71822884 27.31795505]
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+
+Ruch 78:
+Leczę bluewarrior105 o 2.2416545047723173. Teraz ma 88.85445458289146
+Idę na[39.50254235 27.47560125]
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+
+Ruch 79:
+Idę na[38.76883195 27.7944571 ]
+
+Ruch 80:
+Idę na[39.53255496 28.03263175]
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+
+Ruch 81:
+Idę na[38.86511982 28.47368768]
+
+Ruch 82:
+Idę na[38.157615   28.84710021]
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+
+Ruch 83:
+Leczę bluewarrior81 o 2.622946671038885. Teraz ma 49.08220878336727
+Leczę bluewarrior85 o 2.622946671038885. Teraz ma 79.53160276724826
+Leczę bluegeneral103 o 2.622946671038885. Teraz ma 141.84554474236828
+Idę na[38.69284479 28.25251711]
+
+Ruch 84:
+Idę na[38.03847883 28.71274009]
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+
+Ruch 85:
+Leczę bluewarrior81 o 2.7994477502276016. Teraz ma 26.422637992561043
+Leczę bluewarrior85 o 2.7994477502276016. Teraz ma 71.46166241739621
+Leczę bluegeneral103 o 2.7994477502276016. Teraz ma 125.64593306217097
+Idę na[38.83141902 28.81878656]
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+
+Ruch 86:
+Idę na[38.16343957 29.25901769]
+
+Ruch 87:
+Leczę bluewarrior76 o 2.988414245194322. Teraz ma 16.795766607430284
+Leczę bluewarrior81 o 2.988414245194322. Teraz ma 29.411052237755364
+Leczę bluewarrior85 o 2.988414245194322. Teraz ma 71.50127810290735
+Leczę bluegeneral103 o 2.988414245194322. Teraz ma 100.20719347368663
+Idę na[38.93059268 29.03213425]
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+
+Ruch 88:
+Idę na[38.23141171 29.42090921]
+
+Ruch 89:
+Leczę bluewarrior76 o 3.191070443273412. Teraz ma 12.161864713921366
+Leczę bluewarrior85 o 3.191070443273412. Teraz ma 77.64340220598007
+Idę na[39.03127128 29.43589806]
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+
+Ruch 90:
+Idę na[38.37004966 29.88621567]
+Do boju! Moje morale są zwiększone przez chorążego blueflagger128!
+
+Ruch 91:
+Leczę bluewarrior85 o 3.3936459089471227. Teraz ma 65.95078927837051
+Leczę bluegeneral103 o 3.3936459089471227. Teraz ma 49.188816028985194
+Leczę bluegeneral108 do pełna. Teraz ma 300.0
+Idę na[39.07637761 30.26184957]
+
+Ruch 92:
+Leczę bluegeneral103 o 3.4695212711927494. Teraz ma 35.16191744606476
+Idę na[38.38023362 30.65603677]
+
+Ruch 93:
+Leczę bluewarrior85 o 3.552615954641757. Teraz ma 72.84226581762805
+Leczę bluegeneral103 o 3.552615954641757. Teraz ma 23.01831338421195
+Leczę bluegeneral108 o 3.552615954641757. Teraz ma 298.876855698684
+Idę na[38.80515442 31.33385851]
+Nasz generał powalon! Jak teraz mamy wygrać?
+
+Ruch 94:
+Leczę bluewarrior85 o 3.6405883858449615. Teraz ma 49.47404797537565
+Leczę bluegeneral108 do pełna. Teraz ma 300.0
+Idę na[38.41731218 30.63415972]
+
+Ruch 95:
+Leczę bluewarrior85 o 3.540165875667646. Teraz ma 53.014213851043294
+Leczę bluewarrior101 o 3.540165875667646. Teraz ma 82.93897908156437
+Leczę bluegeneral108 o 3.540165875667646. Teraz ma 298.5702754275481
+Idę na[38.68446113 31.38823627]
+
+Ruch 96:
+Leczę bluewarrior85 o 3.6432709317293877. Teraz ma 56.657484782772684
+Leczę bluegeneral108 o 3.6432709317293877. Teraz ma 295.58104449260054
+Idę na[38.02600435 30.93388545]
+O nie! Chorąży nie żyje! Nasza flaga!
+
+Ruch 97:
+Leczę bluewarrior85 o 3.596440697004271. Teraz ma 37.90868437770578
+Leczę bluewarrior101 o 3.596440697004271. Teraz ma 22.702331637282356
+Leczę bluegeneral108 o 3.596440697004271. Teraz ma 293.7512783856175
+Leczę bluewarrior111 o 3.596440697004271. Teraz ma 74.56421300990361
+Idę na[38.62567544 31.46340843]
+
+Ruch 98:
+Leczę bluewarrior85 o 3.7319353179024772. Teraz ma 33.75601477981046
+Leczę bluegeneral108 o 3.7319353179024772. Teraz ma 299.84681804818
+Idę na[37.91975005 31.08701855]
+
+Ruch 99:
+Leczę bluegeneral108 do pełna. Teraz ma 300.0
+Leczę bluewarrior110 o 3.87334885911526. Teraz ma 81.2021842731709
+Leczę bluewarrior111 o 3.87334885911526. Teraz ma 70.82864829582921
+Idę na[38.71332663 30.98584446]
+
+Ruch 100:
+Leczę bluegeneral108 o 4.001452917909032. Teraz ma 298.0683757399993
+Idę na[37.94611658 30.75915361]
+
+Ruch 101:
+Leczę bluegeneral108 o 4.130555559269211. Teraz ma 296.33126362254126
+Leczę bluewarrior110 o 4.130555559269211. Teraz ma 53.49281698346923
+Idę na[38.52514296 31.31117576]
+
+Ruch 102:
+Idę na[38.01502481 31.92743826]
+
+Ruch 103:
+Leczę bluewarrior80 o 4.3658503507044255. Teraz ma 95.81302588243612
+Leczę bluegeneral108 o 4.3658503507044255. Teraz ma 291.9275806837444
+Leczę bluewarrior111 o 4.3658503507044255. Teraz ma 58.3661772574911
+Idę na[38.59377854 31.37513028]
+
+Ruch 104:
+Leczę bluewarrior80 o 4.453649348426256. Teraz ma 46.14056801625047
+Leczę bluewarrior83 o 4.453649348426256. Teraz ma 95.48583973008937
+Leczę bluegeneral108 do pełna. Teraz ma 300.0
+Idę na[37.97932755 31.887429  ]
+
+Ruch 105:
+Leczę bluewarrior80 o 4.5619565103947295. Teraz ma 4.868366213705404
+Leczę bluewarrior83 o 4.5619565103947295. Teraz ma 96.17109973468379
+Leczę bluegeneral108 do pełna. Teraz ma 300.0
+Leczę bluewarrior111 o 4.5619565103947295. Teraz ma 57.998673387731095
+Idę na[38.44370646 31.23600576]
+
+Ruch 106:
+Leczę bluewarrior83 o 4.679606236703441. Teraz ma 82.24519601550166
+Leczę bluegeneral108 o 4.679606236703441. Teraz ma 295.7510528541421
+Idę na[38.43994808 30.43601459]
+
+Ruch 107:
+Leczę bluewarrior78 o 4.766768689748731. Teraz ma 95.58671970120669
+Leczę bluegeneral108 o 4.766768689748731. Teraz ma 298.08608463250414
+Leczę bluemarksman135 o 4.766768689748731. Teraz ma 49.06731085566601
+Idę na[37.76236394 30.86131416]
+
+Ruch 108:
+Leczę bluewarrior83 o 4.891481233402804. Teraz ma 72.57956752111814
+Leczę bluewarrior111 o 4.891481233402804. Teraz ma 33.849024100169416
+Leczę bluemarksman135 o 4.891481233402804. Teraz ma 49.5201564188573
+Leczę blueflagger138 o 4.891481233402804. Teraz ma 99.55004320799327
+Idę na[37.10421645 30.40651543]
+Namierzył mnie redmarksman60! Zadał mi 7.020287925226505 punktów obrażeń. Teraz mam 112.97971207477349 punktów zdrowia.
+bluehealer134 uleczył mnie do 117.9455713859392 punktów hp.
+bluehealer132 uleczył mnie do pełna, mam 120.0 punktów życia.
+
+Ruch 109:
+Leczę bluewarrior78 do pełna. Teraz ma 100.0
+Leczę bluewarrior83 o 5.132607466886552. Teraz ma 62.81761483743357
+Leczę bluegeneral108 do pełna. Teraz ma 300.0
+Leczę bluemarksman135 o 5.132607466886552. Teraz ma 41.45335628614434
+Leczę blueflagger138 do pełna. Teraz ma 100.0
+Idę na[37.86485121 30.6543758 ]
+
+Ruch 110:
+Leczę bluewarrior78 o 5.249472874095006. Teraz ma 77.0847569924598
+Leczę bluewarrior83 o 5.249472874095006. Teraz ma 57.66684198518152
+Leczę bluegeneral108 o 5.249472874095006. Teraz ma 298.25761682683293
+Leczę bluemarksman135 o 5.249472874095006. Teraz ma 29.916986484141255
+Leczę blueflagger138 o 5.249472874095006. Teraz ma 95.35127520596956
+Idę na[37.36117632 31.27591551]
+Namierzył mnie redmarksman60! Zadał mi 7.37879446064367 punktów obrażeń. Teraz mam 112.62120553935632 punktów zdrowia.
+bluehealer132 uleczył mnie do 117.72692868812722 punktów hp.
+bluehealer134 uleczył mnie do pełna, mam 120.0 punktów życia.
+
+Ruch 111:
+Leczę bluewarrior78 o 5.5105134443805115. Teraz ma 20.818680988309737
+Leczę bluewarrior83 o 5.5105134443805115. Teraz ma 26.728794000070277
+Leczę bluegeneral108 do pełna. Teraz ma 300.0
+Leczę bluemarksman135 o 5.5105134443805115. Teraz ma 6.459628437002748
+Leczę blueflagger138 o 5.5105134443805115. Teraz ma 89.26936647380694
+Idę na[37.22782534 30.48710785]
+
+Ruch 112:
+Leczę bluewarrior78 o 5.696294635088118. Teraz ma 26.06902862353677
+Leczę bluewarrior83 o 5.696294635088118. Teraz ma 37.89150245515299
+Leczę bluemarksman135 o 5.696294635088118. Teraz ma 23.079804617452147
+Leczę blueflagger138 o 5.696294635088118. Teraz ma 83.61485520620175
+Idę na[37.1578679 29.6901725]
+Ała! Otrzymałem 10.132894233331356 punktów obrażeń od redwarrior30. Teraz mam 109.86710576666864 punktów zdrowia.
+Ała! Otrzymałem 10.282068847858614 punktów obrażeń od redwarrior26. Teraz mam 99.58503691881003 punktów zdrowia.
+
+Ruch 113:
+Leczę bluegeneral108 o 6.1505448501721105. Teraz ma 298.48928117035007
+Leczę bluemarksman135 o 6.1505448501721105. Teraz ma 18.833326265537714
+Idę na[36.61939085 30.28181637]
+Ała! Otrzymałem 33.753402585476685 punktów obrażeń od redgeneral28. Teraz mam 65.83163433333334 punktów zdrowia.
+bluehealer134 uleczył mnie do 71.49148579965127 punktów hp.
+bluehealer132 uleczył mnie do 77.14400905722621 punktów hp.
+Ała! Otrzymałem 10.517456840881556 punktów obrażeń od redwarrior26. Teraz mam 66.62655221634466 punktów zdrowia.
+Namierzył mnie redmarksman56! Zadał mi 7.498183302134498 punktów obrażeń. Teraz mam 59.128368914210164 punktów zdrowia.
+
+Ruch 114:
+Leczę bluewarrior83 o 7.0385047709529855. Teraz ma 35.34249518030393
+Leczę bluegeneral108 o 7.0385047709529855. Teraz ma 299.1386229087788
+Leczę bluemarksman135 o 7.0385047709529855. Teraz ma 37.18420576038358
+Leczę blueflagger138 o 7.0385047709529855. Teraz ma 70.69431475848161
+Idę na[36.11762278 30.90489646]
+bluehealer134 uleczył mnie do 64.90664821386186 punktów hp.
+Namierzył mnie redmarksman56! Zadał mi 7.742968046151817 punktów obrażeń. Teraz mam 57.16368016771004 punktów zdrowia.
+bluehealer132 uleczył mnie do 62.940760933271356 punktów hp.
+Ała! Otrzymałem 34.883163408933086 punktów obrażeń od redgeneral28. Teraz mam 28.05759752433827 punktów zdrowia.
+Namierzył mnie redmarksman60! Zadał mi 7.703973576901222 punktów obrażeń. Teraz mam 20.353623947437047 punktów zdrowia.
+bluehealer134 uleczył mnie do 26.251630138761836 punktów hp.
+
+Ruch 115:
+Leczę bluegeneral108 o 7.721919664504769. Teraz ma 299.6608348192421
+Leczę bluemarksman135 o 7.721919664504769. Teraz ma 24.429299186410155
+Leczę blueflagger138 o 7.721919664504769. Teraz ma 95.86960067952418
+Idę na[36.78178485 31.35086591]
+Namierzył mnie redmarksman60! Zadał mi 7.9477191525988875 punktów obrażeń. Teraz mam 18.303910986162947 punktów zdrowia.
+bluehealer132 uleczył mnie do 24.21909611211932 punktów hp.
+
+Ruch 116:
+Leczę bluewarrior86 o 7.591962612570763. Teraz ma 91.86284933153698
+Leczę bluegeneral108 o 7.591962612570763. Teraz ma 299.46026504764404
+Leczę bluemarksman135 o 7.591962612570763. Teraz ma 27.021101570569236
+Leczę blueflagger138 o 7.591962612570763. Teraz ma 79.7774975741617
+Idę na[36.66027739 30.56014729]
+bluehealer132 uleczył mnie do 30.283663579208422 punktów hp.
+Ała! Otrzymałem 35.28741278929338 punktów obrażeń od redgeneral28. Teraz mam -5.003749210084955 punktów zdrowia.
+Zginąłem, to koniec

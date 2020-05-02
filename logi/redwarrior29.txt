@@ -1,0 +1,353 @@
+Powstałem, jestem redwarrior29
+
+
+Ruch 1:
+Idę na[17.1436118   9.97514613]
+Do boju! Moje morale są zwiększone przez chorążego redflagger53!
+
+Ruch 2:
+Idę na[17.91806866 10.17568686]
+Do boju! Moje morale są zwiększone przez chorążego redflagger53!
+
+Ruch 3:
+Idę na[18.6343982  10.53187781]
+Do boju! Moje morale są zwiększone przez chorążego redflagger53!
+Do boju! Moje morale są zwiększone przez chorążego redflagger53!
+
+Ruch 4:
+Idę na[19.29584041 10.98187136]
+
+Ruch 5:
+Idę na[20.08826944 11.09167227]
+Do boju! Moje morale są zwiększone przez chorążego redflagger53!
+Do boju! Moje morale są zwiększone przez chorążego redflagger53!
+
+Ruch 6:
+Idę na[20.7688923  11.51209172]
+Do boju! Moje morale są zwiększone przez chorążego redflagger53!
+
+Ruch 7:
+Idę na[21.5211801  11.78423703]
+
+Ruch 8:
+Idę na[22.10849933 12.32742771]
+Do boju! Moje morale są zwiększone przez chorążego redflagger53!
+
+Ruch 9:
+Idę na[22.85581628 12.6129402 ]
+Do boju! Moje morale są zwiększone przez chorążego redflagger53!
+Do boju! Moje morale są zwiększone przez chorążego redflagger53!
+
+Ruch 10:
+Idę na[23.55913879 12.99417169]
+Do boju! Moje morale są zwiększone przez chorążego redflagger53!
+
+Ruch 11:
+Idę na[24.11374562 13.57072287]
+
+Ruch 12:
+Idę na[24.70408245 14.11063252]
+Do boju! Moje morale są zwiększone przez chorążego redflagger53!
+Do boju! Moje morale są zwiększone przez chorążego redflagger53!
+
+Ruch 13:
+Idę na[25.39122202 14.52031436]
+
+Ruch 14:
+Idę na[25.95884778 15.08405277]
+Do boju! Moje morale są zwiększone przez chorążego redflagger53!
+Do boju! Moje morale są zwiększone przez chorążego redflagger53!
+
+Ruch 15:
+Idę na[26.48658766 15.68529367]
+
+Ruch 16:
+Idę na[27.02067108 16.28090671]
+Do boju! Moje morale są zwiększone przez chorążego redflagger53!
+
+Ruch 17:
+Idę na[27.53734207 16.89168579]
+Do boju! Moje morale są zwiększone przez chorążego redflagger53!
+Do boju! Moje morale są zwiększone przez chorążego redflagger53!
+
+Ruch 18:
+Idę na[28.23384447 17.28523935]
+
+Ruch 19:
+Idę na[28.70842359 17.92926937]
+Do boju! Moje morale są zwiększone przez chorążego redflagger53!
+Do boju! Moje morale są zwiększone przez chorążego redflagger53!
+
+Ruch 20:
+Idę na[29.40295911 18.32628373]
+
+Ruch 21:
+Idę na[29.83459476 18.99984937]
+Do boju! Moje morale są zwiększone przez chorążego redflagger53!
+Do boju! Moje morale są zwiększone przez chorążego redflagger53!
+
+Ruch 22:
+Idę na[30.51811434 19.41554274]
+
+Ruch 23:
+Idę na[31.05298903 20.01044531]
+
+Ruch 24:
+Idę na[31.16534534 20.80251605]
+
+Ruch 25:
+Idę na[31.50840817 21.52522477]
+
+Ruch 26:
+Idę na[32.17255608 21.97121531]
+
+Ruch 27:
+Idę na[32.5551598  22.67379228]
+
+Ruch 28:
+Idę na[32.93300771 23.37893833]
+
+Ruch 29:
+Idę na[33.31155146 24.08371108]
+
+Ruch 30:
+Idę na[33.54761923 24.84808796]
+
+Ruch 31:
+Idę na[33.79435091 25.60908959]
+
+Ruch 32:
+Idę na[34.39682105 26.13542572]
+Ała! Otrzymałem 0.781774572230658 punktów obrażeń od bluewarrior106. Teraz mam 99.21822542776934 punktów zdrowia.
+Ała! Otrzymałem 0.6522985270750022 punktów obrażeń od bluewarrior105. Teraz mam 98.56592690069434 punktów zdrowia.
+
+Ruch 33:
+Haha! Zadałem wrogowi bluewarrior105 0.6717486504436632 punktów obrażeń.
+Ała! Otrzymałem 0.6411787455169928 punktów obrażeń od bluewarrior104. Teraz mam 97.92474815517734 punktów zdrowia.
+Do boju! Moje morale są zwiększone przez chorążego redflagger53!
+
+Ruch 34:
+Wróg bluewarrior105 był broniony! Zadałem jego obrońcy blueguard77 0.7331292795593508 punktów obrażeń.
+Ała! Otrzymałem 0.6912765042762623 punktów obrażeń od bluewarrior102. Teraz mam 97.23347165090108 punktów zdrowia.
+Ała! Otrzymałem 0.721965720063466 punktów obrażeń od bluewarrior105. Teraz mam 96.51150593083761 punktów zdrowia.
+Do boju! Moje morale są zwiększone przez chorążego redflagger53!
+
+Ruch 35:
+Haha! Zadałem wrogowi bluewarrior105 0.7853596478033787 punktów obrażeń.
+Do boju! Moje morale są zwiększone przez chorążego redflagger53!
+
+Ruch 36:
+Haha! Zadałem wrogowi bluewarrior104 0.8341652302314603 punktów obrażeń.
+Ała! Otrzymałem 0.9137976165266327 punktów obrażeń od bluewarrior106. Teraz mam 95.59770831431098 punktów zdrowia.
+Do boju! Moje morale są zwiększone przez chorążego redflagger53!
+Ała! Otrzymałem 0.8278910713642328 punktów obrażeń od bluewarrior105. Teraz mam 94.76981724294674 punktów zdrowia.
+
+Ruch 37:
+Haha! Zadałem wrogowi bluewarrior106 0.8631218581845982 punktów obrażeń.
+Do boju! Moje morale są zwiększone przez chorążego redflagger53!
+
+Ruch 38:
+Wróg bluewarrior102 był broniony! Zadałem jego obrońcy blueguard79 0.9366115905758775 punktów obrażeń.
+Do boju! Moje morale są zwiększone przez chorążego redflagger53!
+
+Ruch 39:
+Haha! Zadałem wrogowi bluewarrior106 0.9605049599734332 punktów obrażeń.
+Do boju! Moje morale są zwiększone przez chorążego redflagger53!
+
+Ruch 40:
+Haha! Zadałem wrogowi bluewarrior105 0.9884269897923366 punktów obrażeń.
+Ała! Otrzymałem 0.9271345087779786 punktów obrażeń od bluewarrior102. Teraz mam 93.84268273416876 punktów zdrowia.
+Do boju! Moje morale są zwiększone przez chorążego redflagger53!
+
+Ruch 41:
+Haha! Zadałem wrogowi bluewarrior105 1.0417745165110126 punktów obrażeń.
+
+Ruch 42:
+Wróg bluewarrior105 był broniony! Zadałem jego obrońcy blueguard79 1.0708802098311327 punktów obrażeń.
+Do boju! Moje morale są zwiększone przez chorążego redflagger53!
+Ała! Otrzymałem 1.1392904512695616 punktów obrażeń od bluewarrior106. Teraz mam 92.7033922828992 punktów zdrowia.
+Do boju! Moje morale są zwiększone przez chorążego redflagger53!
+Ała! Otrzymałem 1.177871873713894 punktów obrażeń od bluewarrior106. Teraz mam 91.5255204091853 punktów zdrowia.
+Ała! Otrzymałem 1.0711690579459943 punktów obrażeń od bluewarrior105. Teraz mam 90.45435135123931 punktów zdrowia.
+
+Ruch 43:
+Haha! Zadałem wrogowi bluewarrior104 1.1284704605208453 punktów obrażeń.
+
+Ruch 44:
+Haha! Zadałem wrogowi bluewarrior102 1.2127357376788992 punktów obrażeń.
+Ała! Otrzymałem 1.3350241935454537 punktów obrażeń od bluewarrior104. Teraz mam 89.11932715769386 punktów zdrowia.
+Do boju! Moje morale są zwiększone przez chorążego redflagger53!
+Ała! Otrzymałem 1.1440424603296098 punktów obrażeń od bluewarrior102. Teraz mam 87.97528469736424 punktów zdrowia.
+Do boju! Moje morale są zwiększone przez chorążego redflagger53!
+Ała! Otrzymałem 1.142306960190512 punktów obrażeń od bluewarrior105. Teraz mam 86.83297773717374 punktów zdrowia.
+
+Ruch 45:
+Haha! Zadałem wrogowi bluewarrior102 1.296485414979125 punktów obrażeń.
+Ała! Otrzymałem 1.3375909085042212 punktów obrażeń od bluewarrior106. Teraz mam 85.49538682866951 punktów zdrowia.
+Do boju! Moje morale są zwiększone przez chorążego redflagger53!
+
+Ruch 46:
+Haha! Zadałem wrogowi bluewarrior104 1.3403598021645788 punktów obrażeń.
+Ała! Otrzymałem 1.3043705945343023 punktów obrażeń od bluewarrior102. Teraz mam 84.1910162341352 punktów zdrowia.
+Ała! Otrzymałem 1.2276607969351776 punktów obrażeń od bluewarrior105. Teraz mam 82.96335543720002 punktów zdrowia.
+
+Ruch 47:
+Haha! Zadałem wrogowi bluewarrior106 1.423129062501211 punktów obrażeń.
+Do boju! Moje morale są zwiększone przez chorążego redflagger53!
+
+Ruch 48:
+Haha! Zadałem wrogowi bluewarrior104 1.46564454965756 punktów obrażeń.
+Ała! Otrzymałem 1.4655937698255446 punktów obrażeń od bluewarrior106. Teraz mam 81.49776166737448 punktów zdrowia.
+redhealer52 uleczył mnie do 82.2561447665895 punktów hp.
+Do boju! Moje morale są zwiększone przez chorążego redflagger53!
+Do boju! Moje morale są zwiększone przez chorążego redflagger53!
+Ała! Otrzymałem 1.3212594324648337 punktów obrażeń od bluewarrior105. Teraz mam 80.93488533412467 punktów zdrowia.
+
+Ruch 49:
+Haha! Zadałem wrogowi bluewarrior102 1.5187892502712343 punktów obrażeń.
+Ała! Otrzymałem 1.4089408681120914 punktów obrażeń od bluewarrior105. Teraz mam 79.52594446601258 punktów zdrowia.
+Ała! Otrzymałem 1.6195985553216008 punktów obrażeń od bluewarrior102. Teraz mam 77.90634591069097 punktów zdrowia.
+
+Ruch 50:
+Haha! Zadałem wrogowi bluewarrior106 1.5712618374047473 punktów obrażeń.
+Do boju! Moje morale są zwiększone przez chorążego redflagger53!
+redhealer52 uleczył mnie do 78.72871251105856 punktów hp.
+Ała! Otrzymałem 1.7135644453066754 punktów obrażeń od bluewarrior106. Teraz mam 77.01514806575189 punktów zdrowia.
+Do boju! Moje morale są zwiększone przez chorążego redflagger53!
+Ała! Otrzymałem 1.4557244451494322 punktów obrażeń od bluewarrior105. Teraz mam 75.55942362060246 punktów zdrowia.
+
+Ruch 51:
+Haha! Zadałem wrogowi bluewarrior102 1.6648097613521298 punktów obrażeń.
+Do boju! Moje morale są zwiększone przez chorążego redflagger53!
+
+Ruch 52:
+Haha! Zadałem wrogowi bluewarrior105 1.7559262768274122 punktów obrażeń.
+Ała! Otrzymałem 1.5044912922134046 punktów obrażeń od bluewarrior105. Teraz mam 74.05493232838906 punktów zdrowia.
+
+Ruch 53:
+Haha! Zadałem wrogowi bluewarrior106 1.8036311631260353 punktów obrażeń.
+Ała! Otrzymałem 1.7590525588148649 punktów obrażeń od bluewarrior104. Teraz mam 72.2958797695742 punktów zdrowia.
+Do boju! Moje morale są zwiększone przez chorążego redflagger53!
+Do boju! Moje morale są zwiększone przez chorążego redflagger53!
+Ała! Otrzymałem 1.6421491778386377 punktów obrażeń od bluewarrior105. Teraz mam 70.65373059173557 punktów zdrowia.
+
+Ruch 54:
+Haha! Zadałem wrogowi bluewarrior104 1.8611337197301674 punktów obrażeń.
+Ała! Otrzymałem 1.9817602501678044 punktów obrażeń od bluewarrior106. Teraz mam 68.67197034156776 punktów zdrowia.
+Ała! Otrzymałem 1.6961110454389756 punktów obrażeń od bluewarrior105. Teraz mam 66.97585929612877 punktów zdrowia.
+
+Ruch 55:
+Haha! Zadałem wrogowi bluewarrior106 1.9225209340442209 punktów obrażeń.
+Ała! Otrzymałem 1.9090922364254077 punktów obrażeń od bluewarrior102. Teraz mam 65.06676705970337 punktów zdrowia.
+Do boju! Moje morale są zwiększone przez chorążego redflagger53!
+Do boju! Moje morale są zwiększone przez chorążego redflagger53!
+Ała! Otrzymałem 1.7530873416492239 punktów obrażeń od bluewarrior105. Teraz mam 63.31367971805414 punktów zdrowia.
+
+Ruch 56:
+Haha! Zadałem wrogowi bluewarrior106 2.0811202177961636 punktów obrażeń.
+Ała! Otrzymałem 1.3464795887062369 punktów obrażeń od blueflagger128. Teraz mam 61.9672001293479 punktów zdrowia.
+Ała! Otrzymałem 1.8200158220803058 punktów obrażeń od bluewarrior105. Teraz mam 60.147184307267594 punktów zdrowia.
+
+Ruch 57:
+Haha! Zadałem wrogowi bluewarrior105 2.164017276845369 punktów obrażeń.
+Do boju! Moje morale są zwiększone przez chorążego redflagger53!
+Ała! Otrzymałem 1.4362722858424677 punktów obrażeń od blueflagger128. Teraz mam 58.71091202142512 punktów zdrowia.
+redhealer54 uleczył mnie do 59.825370415257986 punktów hp.
+
+Ruch 58:
+Haha! Zadałem wrogowi bluewarrior106 2.2505025366818727 punktów obrażeń.
+Ała! Otrzymałem 1.5240777049486778 punktów obrażeń od blueflagger128. Teraz mam 58.301292710309305 punktów zdrowia.
+Ała! Otrzymałem 1.943078492724908 punktów obrażeń od bluewarrior105. Teraz mam 56.3582142175844 punktów zdrowia.
+Do boju! Moje morale są zwiększone przez chorążego redflagger53!
+Do boju! Moje morale są zwiększone przez chorążego redflagger53!
+
+Ruch 59:
+Haha! Zadałem wrogowi blueflagger128 2.3459844718522644 punktów obrażeń.
+redhealer54 uleczył mnie do 57.52438520242125 punktów hp.
+Ała! Otrzymałem 1.6071233968386929 punktów obrażeń od blueflagger128. Teraz mam 55.917261805582555 punktów zdrowia.
+redhealer54 uleczył mnie do 57.13432865983583 punktów hp.
+Ała! Otrzymałem 1.7424235660140985 punktów obrażeń od blueflagger128. Teraz mam 55.391905093821734 punktów zdrowia.
+
+Ruch 60:
+Haha! Zadałem wrogowi bluewarrior106 2.393633985546389 punktów obrażeń.
+Do boju! Moje morale są zwiększone przez chorążego redflagger53!
+
+Ruch 61:
+Haha! Zadałem wrogowi bluewarrior102 2.456134710679741 punktów obrażeń.
+Ała! Otrzymałem 1.8133236708962133 punktów obrażeń od blueflagger128. Teraz mam 53.578581422925524 punktów zdrowia.
+Do boju! Moje morale są zwiększone przez chorążego redflagger53!
+redhealer54 uleczył mnie do 54.85007887536329 punktów hp.
+Ała! Otrzymałem 2.393121510584893 punktów obrażeń od bluewarrior102. Teraz mam 52.4569573647784 punktów zdrowia.
+Ała! Otrzymałem 2.1966847858151395 punktów obrażeń od bluewarrior105. Teraz mam 50.26027257896326 punktów zdrowia.
+Ała! Otrzymałem 2.6054044668309215 punktów obrażeń od bluewarrior106. Teraz mam 47.65486811213234 punktów zdrowia.
+Do boju! Moje morale są zwiększone przez chorążego redflagger53!
+Ała! Otrzymałem 2.2560197215483684 punktów obrażeń od bluewarrior105. Teraz mam 45.39884839058397 punktów zdrowia.
+
+Ruch 62:
+Haha! Zadałem wrogowi bluewarrior104 2.63432774103012 punktów obrażeń.
+Ała! Otrzymałem 2.478308106370987 punktów obrażeń od bluewarrior102. Teraz mam 42.92054028421298 punktów zdrowia.
+Ała! Otrzymałem 1.8824676594923813 punktów obrażeń od blueflagger128. Teraz mam 41.0380726247206 punktów zdrowia.
+
+Ruch 63:
+Haha! Zadałem wrogowi bluewarrior105 2.864956292836713 punktów obrażeń.
+Ała! Otrzymałem 1.9558976988158534 punktów obrażeń od blueflagger128. Teraz mam 39.082174925904745 punktów zdrowia.
+Ała! Otrzymałem 2.323585647172018 punktów obrażeń od bluewarrior105. Teraz mam 36.75858927873273 punktów zdrowia.
+redhealer54 uleczył mnie do 38.12823614058365 punktów hp.
+Do boju! Moje morale są zwiększone przez chorążego redflagger53!
+Ała! Otrzymałem 2.670733982659519 punktów obrażeń od bluewarrior106. Teraz mam 35.45750215792413 punktów zdrowia.
+Ała! Otrzymałem 2.7354490070355495 punktów obrażeń od bluewarrior106. Teraz mam 32.722053150888584 punktów zdrowia.
+Do boju! Moje morale są zwiększone przez chorążego redflagger53!
+Ała! Otrzymałem 2.6974922507639985 punktów obrażeń od bluewarrior102. Teraz mam 30.024560900124584 punktów zdrowia.
+Ała! Otrzymałem 2.0255924611671206 punktów obrażeń od blueflagger128. Teraz mam 27.998968438957462 punktów zdrowia.
+
+Ruch 64:
+Haha! Zadałem wrogowi bluewarrior106 3.018085231041363 punktów obrażeń.
+Ała! Otrzymałem 2.5182122075391113 punktów obrażeń od bluewarrior105. Teraz mam 25.48075623141835 punktów zdrowia.
+Ała! Otrzymałem 2.099225826013507 punktów obrażeń od blueflagger128. Teraz mam 23.381530405404845 punktów zdrowia.
+
+Ruch 65:
+Haha! Zadałem wrogowi bluewarrior102 3.239455296766936 punktów obrażeń.
+redhealer54 uleczył mnie do 24.852126357988165 punktów hp.
+Ała! Otrzymałem 3.086628006172228 punktów obrażeń od bluewarrior104. Teraz mam 21.765498351815936 punktów zdrowia.
+Do boju! Moje morale są zwiększone przez chorążego redflagger53!
+Ała! Otrzymałem 2.7855734975734943 punktów obrażeń od bluewarrior102. Teraz mam 18.97992485424244 punktów zdrowia.
+Do boju! Moje morale są zwiększone przez chorążego redflagger53!
+
+Ruch 66:
+Haha! Zadałem wrogowi bluewarrior104 3.3897980202404496 punktów obrażeń.
+Ała! Otrzymałem 2.17755466038459 punktów obrażeń od blueflagger128. Teraz mam 16.80237019385785 punktów zdrowia.
+redhealer54 uleczył mnie do 18.39562302254961 punktów hp.
+Ała! Otrzymałem 2.2636874816848347 punktów obrażeń od blueflagger128. Teraz mam 16.131935540864777 punktów zdrowia.
+
+Ruch 67:
+Haha! Zadałem wrogowi blueflagger128 3.3941854823209137 punktów obrażeń.
+Ała! Otrzymałem 3.4096312610873567 punktów obrażeń od bluewarrior104. Teraz mam 12.72230427977742 punktów zdrowia.
+Do boju! Moje morale są zwiększone przez chorążego redflagger53!
+
+Ruch 68:
+Haha! Zadałem wrogowi bluewarrior102 3.507769767609178 punktów obrażeń.
+Ała! Otrzymałem 2.4263584627346217 punktów obrażeń od blueflagger128. Teraz mam 10.2959458170428 punktów zdrowia.
+Do boju! Moje morale są zwiększone przez chorążego redflagger53!
+redhealer54 uleczył mnie do 11.949682581372546 punktów hp.
+Ała! Otrzymałem 2.5043855062577314 punktów obrażeń od blueflagger128. Teraz mam 9.445297075114814 punktów zdrowia.
+Ała! Otrzymałem 3.0234121149728335 punktów obrażeń od bluewarrior105. Teraz mam 6.4218849601419805 punktów zdrowia.
+redhealer54 uleczył mnie do 8.145547539839232 punktów hp.
+
+Ruch 69:
+Haha! Zadałem wrogowi bluewarrior102 3.543890017833183 punktów obrażeń.
+Ała! Otrzymałem 3.7037363802704046 punktów obrażeń od bluewarrior104. Teraz mam 4.441811159568827 punktów zdrowia.
+Do boju! Moje morale są zwiększone przez chorążego redflagger53!
+redhealer54 uleczył mnie do 6.230036244843983 punktów hp.
+
+Ruch 70:
+Haha! Zadałem wrogowi bluewarrior105 3.750075563919107 punktów obrażeń.
+Do boju! Moje morale są zwiększone przez chorążego redflagger53!
+Ała! Otrzymałem 2.5967987639402907 punktów obrażeń od blueflagger128. Teraz mam 3.6332374809036927 punktów zdrowia.
+redhealer54 uleczył mnie do 5.492499594365995 punktów hp.
+Do boju! Moje morale są zwiększone przez chorążego redflagger53!
+Ała! Otrzymałem 2.677414851888573 punktów obrażeń od blueflagger128. Teraz mam 2.815084742477422 punktów zdrowia.
+
+Ruch 71:
+Haha! Zadałem wrogowi bluewarrior102 3.788362918835853 punktów obrażeń.
+Ała! Otrzymałem 3.3364675326675344 punktów obrażeń od bluewarrior105. Teraz mam -0.5213827901901125 punktów zdrowia.
+Zginąłem, to koniec
